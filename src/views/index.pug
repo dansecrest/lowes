@@ -1,0 +1,27 @@
+extends _layouts/main.pug
+
+append variables
+    - bodyClass = "home"
+
+block head
+    +head(headData.home)
+
+prepend container
+    +hero(home.hero)
+
+block content
+    .tiles
+        each item in categories
+            a.tile(href= item.url)
+                picture
+                    source(srcset= item.images[0], media="(min-width: 1026px)")
+                    img(srcset= item.images[1], alt= item.alt)
+                .overlay
+                h2= item.text
+        a.tile(href="http://www.lowes.com/store/", target="_blank").find
+            h2
+                i.icon-location
+                | Find your #[br] local Lowe's
+
+block footer
+    +footer()

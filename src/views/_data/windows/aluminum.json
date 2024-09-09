@@ -1,0 +1,66 @@
+{
+    "windowsAluminum": {
+        "hero": {
+            "heading": "Aluminum",
+            "copy": "Aluminum windows are known for being low maintenance, weather-resistant and easy to open.",
+            "direction": "Why choose aluminum windows?",
+            "images": [
+                "/assets/images/windows/desktop/hero-aluminum.jpg",
+                "/assets/images/windows/tablet/hero-aluminum.jpg",
+                "/assets/images/windows/mobile/hero-aluminum.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-palm-house",
+                    "copy": "Aluminum will never rot or corrode over time. This makes it an excellent option in coastal areas."
+                },
+                {
+                    "icon": "icon-gears",
+                    "copy": "Because they don’t corrode and are easy to clean, they’re incredibly low maintenance."
+                },
+                {
+                    "icon": "icon-closing",
+                    "copy": "Because aluminum is almost as strong as steel but weighs a lot less, these windows are durable yet easy to open."
+                }
+            ]
+        },
+        "inspiration": [
+            {
+                "heading": "Aluminum",
+                "copy": [
+                    "Today’s aluminum windows are a vast improvement over their predecessors from the 70’s."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-aluminum-double-hung-obscure-textured-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-aluminum-double-hung-obscure-textured-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Aluminum Double-Hung Obscure Textured Window",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-premium-aluminum-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-premium-aluminum-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Premium Aluminum Window",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, see how window performance can improve your home.",
+            "copy": "Windows can do everything from lower your energy bill to minimize street noise.",
+            "button": {
+                "text": "Next: Performance",
+                "url": "/windows/impact.html"
+            }
+        }
+    }
+}

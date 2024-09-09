@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Performance"
+    - subsection = "Energy Efficiency"
+
+block head
+    +head(headData.garageDoors.energyEfficiency)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsEnergyEfficiency.hero)
+
+block content
+    +inspiration(garageDoorsEnergyEfficiency.inspiration)
+
+prepend footer
+    +next(garageDoorsEnergyEfficiency.next)

@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Medium Density Fiberboard"
+
+block head
+    +head(headData.interiorDoors.mediumDensityFiberboard)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsMediumDensityFiberboard.hero)
+
+block content
+    +inspiration(interiorDoorsMediumDensityFiberboard.inspiration)
+
+prepend footer
+    +next(interiorDoorsMediumDensityFiberboard.next)

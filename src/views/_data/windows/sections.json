@@ -1,0 +1,208 @@
+{
+    "windowsSections": [
+        {
+            "title": "Type",
+            "question": "What types of windows are you interested in?",
+            "icon": "icon-type-windows",
+            "checklist": [
+                {
+                    "id": "windows-type1",
+                    "name": "Single-hung"
+                },
+                {
+                    "id": "windows-type2",
+                    "name": "Double-hung"
+                },
+                {
+                    "id": "windows-type3",
+                    "name": "Sliding"
+                },
+                {
+                    "id": "windows-type4",
+                    "name": "Awning"
+                },
+                {
+                    "id": "windows-type5",
+                    "name": "Casement"
+                },
+                {
+                    "id": "windows-type6",
+                    "name": "Bay or Bow"
+                },
+                {
+                    "id": "windows-type7",
+                    "name": "Picture, Fixed, or Special Shape"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Sliding",
+                    "url": "/windows/sliding.html"
+                },
+                {
+                    "text": "Hinged",
+                    "url": "/windows/hinged.html"
+                },
+                {
+                    "text": "Specialty",
+                    "url": "/windows/specialty.html"
+                }
+            ]
+        },
+        {
+            "title": "Material",
+            "question": "What window materials are you considering?",
+            "icon": "icon-material",
+            "checklist": [
+                {
+                    "id": "windows-material1",
+                    "name": "Vinyl"
+                },
+                {
+                    "id": "windows-material2",
+                    "name": "Fiberglass"
+                },
+                {
+                    "id": "windows-material3",
+                    "name": "Clad-wood"
+                },
+                {
+                    "id": "windows-material4",
+                    "name": "Wood"
+                },
+                {
+                    "id": "windows-material5",
+                    "name": "Aluminum"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Vinyl",
+                    "url": "/windows/vinyl.html"
+                },
+                {
+                    "text": "Fiberglass",
+                    "url": "/windows/fiberglass.html"
+                },
+                {
+                    "text": "Clad-wood & Wood",
+                    "url": "/windows/clad-wood.html"
+                },
+                {
+                    "text": "Aluminum",
+                    "url": "/windows/aluminum.html"
+                }
+            ]
+        },
+        {
+            "title": "Performance",
+            "question": "What are your performance must-haves?",
+            "icon": "icon-performance",
+            "checklist": [
+                {
+                    "id": "windows-performance1",
+                    "name": "Laminated Glass"
+                },
+                {
+                    "id": "windows-performance2",
+                    "name": "Security Features"
+                },
+                {
+                    "id": "windows-performance3",
+                    "name": "Noise-cancelling"
+                },
+                {
+                    "id": "windows-performance4",
+                    "name": "Tempered Glass"
+                },
+                {
+                    "id": "windows-performance5",
+                    "name": "Opening Control"
+                },
+                {
+                    "id": "windows-performance6",
+                    "name": "Multple Glass Panes"
+                },
+                {
+                    "id": "windows-performance7",
+                    "name": "Energy Star"
+                },
+                {
+                    "id": "windows-performance8",
+                    "name": "Gas Fills & Coating"
+                },
+                {
+                    "id": "windows-performance9",
+                    "name": "Window Screens"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Impact",
+                    "url": "/windows/impact.html"
+                },
+                {
+                    "text": "Safety",
+                    "url": "/windows/safety.html"
+                },
+                {
+                    "text": "Energy Efficiency",
+                    "url": "/windows/energy-efficiency.html"
+                }
+            ]
+        },
+        {
+            "title": "Style",
+            "question": "What style options would you like to discuss?",
+            "icon": "icon-style-windows",
+            "checklist": [
+                {
+                    "id": "windows-style1",
+                    "name": "Window Combinations"
+                },
+                {
+                    "id": "windows-style2",
+                    "name": "Grille & Patterns"
+                },
+                {
+                    "id": "windows-style3",
+                    "name": "Tinted Glass"
+                },
+                {
+                    "id": "windows-style4",
+                    "name": "Beveled Glass"
+                },
+                {
+                    "id": "windows-style5",
+                    "name": "Obscured or Textured Glass"
+                },
+                {
+                    "id": "windows-style6",
+                    "name": "Interior & Exterior Trim"
+                },
+                {
+                    "id": "windows-style7",
+                    "name": "Wood Finishes"
+                },
+                {
+                    "id": "windows-style8",
+                    "name": "Interior & Exterior Color"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Combinations",
+                    "url": "/windows/combinations.html"
+                },
+                {
+                    "text": "Glass Options",
+                    "url": "/windows/glass-options.html"
+                },
+                {
+                    "text": "Frame Options",
+                    "url": "/windows/frame-options.html"
+                }
+            ]
+        }
+    ]
+}

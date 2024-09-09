@@ -1,0 +1,188 @@
+{
+    "patioDoorsSections": [
+        {
+            "title": "Type",
+            "question": "What types of patio doors are you considering?",
+            "icon": "icon-type-patio",
+            "checklist": [
+                {
+                    "id": "patio-type1",
+                    "name": "Single Hinged"
+                },
+                {
+                    "id": "patio-type2",
+                    "name": "Double Hinged"
+                },
+                {
+                    "id": "patio-type3",
+                    "name": "Double Folding"
+                },
+                {
+                    "id": "patio-type4",
+                    "name": "Multi Folding"
+                },
+                {
+                    "id": "patio-type5",
+                    "name": "Single Sliding"
+                },
+                {
+                    "id": "patio-type6",
+                    "name": "Multi Sliding"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Hinged",
+                    "url": "/patio-doors/hinged.html"
+                },
+                {
+                    "text": "Folding",
+                    "url": "/patio-doors/folding.html"
+                },
+                {
+                    "text": "Sliding",
+                    "url": "/patio-doors/sliding.html"
+                }
+            ]
+        },
+        {
+            "title": "Style",
+            "question": "What style options matter most to you?",
+            "icon": "icon-style-patio",
+            "checklist": [
+                {
+                    "id": "patio-style1",
+                    "name": "Decorative Glass"
+                },
+                {
+                    "id": "patio-style2",
+                    "name": "Privacy"
+                },
+                {
+                    "id": "patio-style3",
+                    "name": "Grilles"
+                },
+                {
+                    "id": "patio-style4",
+                    "name": "Frame Options"
+                },
+                {
+                    "id": "patio-style5",
+                    "name": "Panel Designs"
+                },
+                {
+                    "id": "patio-style6",
+                    "name": "Color, Finish & Texture"
+                },
+                {
+                    "id": "patio-style7",
+                    "name": "Blinds & Hardware"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Glass",
+                    "url": "/patio-doors/glass.html"
+                },
+                {
+                    "text": "Appearance",
+                    "url": "/patio-doors/appearance.html"
+                },
+                {
+                    "text": "Finishing Touches",
+                    "url": "/patio-doors/finishing-touches.html"
+                }
+            ]
+        },
+        {
+            "title": "Material",
+            "question": "What patio door materials are you interested in?",
+            "icon": "icon-material",
+            "checklist": [
+                {
+                    "id": "patio-material1",
+                    "name": "Clad-wood"
+                },
+                {
+                    "id": "patio-material2",
+                    "name": "Fiberglass"
+                },
+                {
+                    "id": "patio-material3",
+                    "name": "Vinyl"
+                },
+                {
+                    "id": "patio-material4",
+                    "name": "Steel"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Clad-wood",
+                    "url": "/patio-doors/clad-wood.html"
+                },
+                {
+                    "text": "Fiberglass",
+                    "url": "/patio-doors/fiberglass.html"
+                },
+                {
+                    "text": "Vinyl",
+                    "url": "/patio-doors/vinyl.html"
+                },
+                {
+                    "text": "Steel",
+                    "url": "/patio-doors/steel.html"
+                }
+            ]
+        },
+        {
+            "title": "Performance",
+            "question": "What performance factors are you weighing?",
+            "icon": "icon-performance",
+            "checklist": [
+                {
+                    "id": "patio-performance1",
+                    "name": "Multiple Glass Panes and low-E Glass"
+                },
+                {
+                    "id": "patio-performance2",
+                    "name": "UV Coating"
+                },
+                {
+                    "id": "patio-performance3",
+                    "name": "U-factor Options and SHGC"
+                },
+                {
+                    "id": "patio-performance4",
+                    "name": "Impact Resistance"
+                },
+                {
+                    "id": "patio-performance5",
+                    "name": "Noise Reduction"
+                },
+                {
+                    "id": "patio-performance6",
+                    "name": "Hardware & Screens"
+                },
+                {
+                    "id": "patio-performance7",
+                    "name": "Blinds & Shades"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Energy Efficiency",
+                    "url": "/patio-doors/energy-efficiency.html"
+                },
+                {
+                    "text": "Durability & Impact",
+                    "url": "/patio-doors/durability-impact.html"
+                },
+                {
+                    "text": "Safety & Privacy",
+                    "url": "/patio-doors/safety-privacy.html"
+                }
+            ]
+        }
+    ]
+}

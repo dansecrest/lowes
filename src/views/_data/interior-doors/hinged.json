@@ -1,0 +1,84 @@
+{
+    "interiorDoorsHinged": {
+        "hero": {
+            "heading": "Hinged",
+            "copy": "This swing-open, swing-shut style is a traditional choice for an interior door. You can buy as door only or a pre-hung unit.",
+            "direction": "Here are your hinged door options",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-hinged.jpg",
+                "/assets/images/interior-doors/tablet/hero-hinged.jpg",
+                "/assets/images/interior-doors/mobile/hero-hinged.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Single pre-hung doors",
+                "copy": [
+                    "Pre-hung doors come attached to the frame with all the necessary hinges and handles. A single door can be an understated transition from room to room, or a discreet enclosure for a closet or storage."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-2-panel-square-smooth-ph-driftwood.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-2-panel-square-smooth-ph-driftwood.jpg"
+                        ],
+                        "alt": "Jeld-Wen 2-Panel Square Smooth PH-Driftwood",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-2-panel-round-top-plank-smooth.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-2-panel-round-top-plank-smooth.jpg"
+                        ],
+                        "alt": "Jeld-Wen 2-Panel Round Top Plank Smooth",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Double pre-hung doors",
+                "copy": [
+                    "Great as an elegant entry to a study, dining area or anywhere you’d like to make a statement. Double doors can also bring more light into a room and unify the space."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-double-prehung.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-double-prehung.jpg"
+                        ],
+                        "alt": "Jeld-Wen Double Prehung",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "French doors",
+                "copy": [
+                    "In the 17th century, French doors started out as floor-to-ceiling windows that doubled as doors. Nowadays, they’re still an elegant and practical way to maximize space and sunlight."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-primed-white-delta.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-primed-white-delta.jpg"
+                        ],
+                        "alt": "Jeld Wen Primed White Delta",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s look at sliding and folding doors.",
+            "copy": "If you’re looking for space efficiency and style, these non-hinged door types offer form and function.",
+            "button": {
+                "text": "Next: Sliding & Folding",
+                "url": "/interior-doors/sliding-folding.html"
+            }
+        }
+    }
+}

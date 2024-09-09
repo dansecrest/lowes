@@ -1,0 +1,45 @@
+.next {
+    padding: rem(90px) 5% 0;
+    font-family: $din-next-medium;
+    color: $white;
+    text-align: center;
+    background-color: $blue-dark;
+    border-bottom: 2px solid rgba($black, 0.2);
+
+    h2 {
+        padding-bottom: rem(25px);
+        font-size: rem(34px);
+        line-height: 1.1;
+    }
+
+    p {
+        padding-bottom: rem(35px);
+        font-family: $helvetica-neue-medium;
+        font-size: rem(14px);
+        line-height: 1.3;
+    }
+
+    .button {
+        margin-bottom: rem(50px);
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        padding: rem(205px) 0 0;
+
+        h2 {
+            padding: 0 5% rem(25px);
+            font-size: rem(75px);
+            line-height: 1;
+            letter-spacing: rem(-3px);
+        }
+
+        p {
+            padding: 0 15% rem(60px);
+            font-size: rem(24px);
+        }
+
+        .button {
+            margin-bottom: rem(100px);
+        }
+    }
+}

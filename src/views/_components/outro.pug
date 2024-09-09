@@ -1,0 +1,13 @@
+//- +inspiration
+    Creates an intro section
+
+mixin outro(data)
+    section(id= data.anchor).outro
+        h2= data.heading
+        .container
+            each item in data.cards
+                .card
+                    .content
+                        i(class= item.icon)
+                        h3= item.title
+                        p= item.copy

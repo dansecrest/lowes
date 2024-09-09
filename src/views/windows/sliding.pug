@@ -1,0 +1,19 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Sliding"
+
+block head
+    +head(headData.windows.sliding)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsSliding.hero)
+
+block content
+    +inspiration(windowsSliding.inspiration)
+
+prepend footer
+    +next(windowsSliding.next)

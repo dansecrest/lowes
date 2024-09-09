@@ -1,0 +1,59 @@
+{
+    "interiorDoorsSpecialty": {
+        "hero": {
+            "heading": "Specialty",
+            "copy": "These distinctive, space-saving door types are a great way to give your place a little character.",
+            "direction": "What to know about specialty doors",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-specialty.jpg",
+                "/assets/images/interior-doors/tablet/hero-specialty.jpg",
+                "/assets/images/interior-doors/mobile/hero-specialty.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Barn",
+                "copy": [
+                    "From rustic charm to sleek and modern, barn doors offer bold style and a casual way to separate spaces. They hang from an overhead track and float over the door opening—different from the full close of a hinged door—and come in one- or two-door sets."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-painted-molded-madison-barn-door.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-painted-molded-madison-barn-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Molded Madison Barn Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Pocket",
+                "copy": [
+                    "A popular choice for parlor rooms in Victorian days, pocket doors open by sliding into a slot in the wall, where they stay tucked away. They use less space than hinged doors and come in single and double configurations."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-moda-white-pocket-hallway-door.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-moda-white-pocket-hallway-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen MODA White Pocket Hallway Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your style options.",
+            "copy": "Cultivate your look with the right panel model, appearance and finishing touches.",
+            "button": {
+                "text": "Next: Style",
+                "url": "/interior-doors/panel-model.html"
+            }
+        }
+    }
+}

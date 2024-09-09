@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Finishing Touches"
+
+block head
+    +head(headData.interiorDoors.finishingTouches)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsFinishingTouches.hero)
+
+block content
+    +inspiration(interiorDoorsFinishingTouches.inspiration)
+
+prepend footer
+    +next(interiorDoorsFinishingTouches.next)

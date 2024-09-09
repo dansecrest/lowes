@@ -1,0 +1,76 @@
+{
+    "patioDoorsCladWood": {
+        "hero": {
+            "heading": "Clad-wood",
+            "copy": "One side of a clad-wood frame grows on trees while the other side is made in a factory. Clad-wood is low-maintenance and versatile.",
+            "direction": "Why choose clad-wood?",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-clad-wood.jpg",
+                "/assets/images/patio-doors/tablet/hero-clad-wood.jpg",
+                "/assets/images/patio-doors/mobile/hero-clad-wood.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "The easy maintenance",
+                "copy": [
+                    "The exterior frame material acts like a suit of armor for the wood inside. The protective finish makes it easy to care for. No repainting required."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-w-2500-aluminum-clad-wood-sliding-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-w-2500-aluminum-clad-wood-sliding-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen W-2500 Aluminum Clad Wood Sliding Patio Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "The best of both worlds",
+                "copy": [
+                    "Your patio door’s interior frame can be matched to any wood trim or molding inside your home while you enjoy the benefits of a metal or fiberglass exterior."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-clad-wood-patio-doors.jpg",
+                            "/assets/images/patio-doors/mobile/pella-clad-wood-patio-doors.jpg"
+                        ],
+                        "alt": "Pella Clad Wood Patio Doors",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "When to choose wood",
+                "copy": [
+                    "Since wood frames need more upkeep, most people only choose wood if they live in a historic home. Though, wood innately has grain color and texture that other materials just imitate. Plus, scratches are easy to repair."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-w-4500.-wood-sliding-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-w-4500.-wood-sliding-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen W-4500. Wood Sliding Patio Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about fiberglass.",
+            "copy": "Fiberglass frames are durable, low maintenance and can even look like wood.",
+            "button": {
+                "text": "Next: Fiberglass",
+                "url": "/patio-doors/fiberglass.html"
+            }
+        }
+    }
+}

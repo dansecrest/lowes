@@ -1,0 +1,106 @@
+{
+    "entryDoorsEnergyEfficiency": {
+        "hero": {
+            "heading": "Energy Efficiency",
+            "copy": "Energy efficiency matters if you’re looking to save money on bills or maximize the comfort of your home.",
+            "direction": "Terms to keep in mind while you shop",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-energy-efficiency.jpg",
+                "/assets/images/entry-doors/tablet/hero-energy-efficiency.jpg",
+                "/assets/images/entry-doors/mobile/hero-energy-efficiency.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Double pane, triple pane & low-E glass",
+                "copy": [
+                    "Double and triple pane glass can either be filled with gas or sealed with an airspace, making it harder for heat and humidity to pass through. Low-E glass has an invisible metallic coating that keeps heat inside during winter and outside during summer. Both types of glass can help cut your energy costs."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-blt-122-152-t-stately-x-bty.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-blt-122-152-t-stately-x-bty.jpg"
+                        ],
+                        "alt": "Masonite BLT-122-152-T-Stately-X-bty",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-hutton-wide.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-hutton-wide.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Hutton Wide",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "Laminated glass",
+                "copy": [
+                    "Laminated glass is designed to withstand impact,  reduce sound transmission and block harmful UV rays. It’s the similar to the glass used in car windshields."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-mhd-122-x-low-e-arcticwhite-bty.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-mhd-122-x-low-e-arcticwhite-bty.jpg"
+                        ],
+                        "alt": "Masonite MHD-122-X-Low-E-ArcticWhite-bty",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Insulated glass",
+                "copy": [
+                    "How can glass be insulated? Well, a single pane of glass can’t. But windows with multiple panes of glass help regulate the temperature in your home year round."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-ccv806027-augustine.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-ccv806027-augustine.jpg"
+                        ],
+                        "alt": "Therma-Tru CCV806027 Augustine",
+                        "vendor": "thermatru"
+                    }
+                }
+            },
+            {
+                "heading": "Energy Star®",
+                "copy": [
+                    "ENERGY STAR certified doors meet all the strict energy efficiency guidelines set by the Environmental Protection Agency. There are different certification requirements for different climate zones."
+                ],
+                "link": {
+                    "url": "https://www.energystar.gov/index.cfm?fuseaction=windows_doors.search_climate",
+                    "text": "Find out which zone you're in.",
+                    "target": "_blank"
+                },
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-(western-reflections)-crosslines.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-(western-reflections)-crosslines.jpg"
+                        ],
+                        "alt": "Reliabilt (Western Reflections) Crosslines",
+                        "vendor": "reliabilt"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk about durability and impact.",
+            "copy": "From hurricane debris to the decibels of a passing airplane, there are ways to measure what can get through your door.",
+            "button": {
+                "text": "Next: Durability & Impact",
+                "url": "/entry-doors/durability-impact.html"
+            }
+        }
+    }
+}

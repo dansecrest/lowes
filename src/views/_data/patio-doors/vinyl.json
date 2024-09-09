@@ -1,0 +1,67 @@
+{
+    "patioDoorsVinyl": {
+        "hero": {
+            "heading": "Vinyl",
+            "copy": "Vinyl is an energy efficient, low-maintenance material formulated to look great for years to come.",
+            "direction": "Why go with vinyl?",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-vinyl.jpg",
+                "/assets/images/patio-doors/tablet/hero-vinyl.jpg",
+                "/assets/images/patio-doors/mobile/hero-vinyl.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "The color is permanent.",
+                "copy": [
+                    "Vinyl comes in several colors, none of which will fade thanks to a meticulous design process. Vinyl will also never flake, peel or rot."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-painted-steel-swinging-patio-door-vinyl.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-painted-steel-swinging-patio-door-vinyl.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel Swinging Patio Door Vinyl",
+                        "vendor": ""
+                    }
+                }
+            },
+            {
+                "heading": "It’s low maintenance.",
+                "copy": [
+                    "You probably guessed as much by now, but vinyl is easy to care for. Some vinyl patio doors are even reinforced with metal on the inside to prevent warping as they age."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-ts-vinyl-patio-door-beauty.jpg",
+                            "/assets/images/patio-doors/mobile/pella-ts-vinyl-patio-door-beauty.jpg"
+                        ],
+                        "alt": "Pella TS Vinyl Patio Door beauty",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-v-2500-vinyl-sliding-patio-door-with-pet-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-v-2500-vinyl-sliding-patio-door-with-pet-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen V-2500 Vinyl Sliding Patio Door with Pet Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about the benefits of steel.",
+            "copy": "Steel is great if you’re looking for a modern metal door that’s as easy on the eyes as it is to maintain.",
+            "button": {
+                "text": "Next: Steel",
+                "url": "/patio-doors/steel.html"
+            }
+        }
+    }
+}

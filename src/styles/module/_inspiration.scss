@@ -1,0 +1,218 @@
+.inspiration {
+    margin-bottom: rem(20px);
+    font-family: $helvetica-neue;
+    font-size: rem(12px);
+    background-color: $gray-lighter;
+
+    &:nth-child(even) {
+        .flex-container {
+            flex-direction: column-reverse;
+
+            .caption {
+                border-bottom: none;
+            }
+        }
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content {
+        position: relative;
+        padding: rem(30px) 10% rem(40px);
+    }
+
+    .prehead {
+        display: inline-block;
+        padding-bottom: rem(5px);
+        font-family: $din-next-medium;
+        font-size: rem(12px);
+        color: $gray-dark-mid;
+        text-transform: uppercase;
+    }
+
+    h2, p {
+        padding-right: 5%;
+    }
+
+    h2 {
+        padding-bottom: rem(20px);
+        font-family: $din-next-medium;
+        font-size: rem(25px);
+    }
+
+    p {
+        padding-bottom: rem(24px);
+        line-height: 1.5;
+    }
+
+    ul {
+        margin: rem(3px) 0 rem(20px) rem(5px);
+
+        li {
+            margin-left: rem(10px);
+            padding-bottom: rem(5px);
+            list-style-type: initial;
+        }
+    }
+
+    .link-blue {
+        display: block;
+        padding-bottom: rem(30px);
+        text-decoration: underline;
+    }
+
+    .button {
+        max-width: rem(280px);
+        margin-top: rem(10px);
+    }
+
+    .image-container {
+        position: relative;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    > .image-container {
+        .caption {
+            border-bottom: none;
+        }
+    }
+
+    .caption {
+        position: relative;
+        margin: 0 5%;
+        padding: rem(7px) 0;
+        border-bottom: 1px solid $gray;
+
+        i {
+            font-size: rem(27px);
+            text-align: right;
+
+            &.icon-logo-jeldwen
+            &.icon-logo-masonite,
+            &.icon-logo-thermatru,
+            &.icon-logo-western-reflections {
+                font-size: rem(20px);
+            }
+        }
+
+        span {
+            display: none;
+        }
+
+        &:after {
+            position: absolute;
+            top: -20px;
+            right: 0;
+            width: 0;
+            height: 0;
+            margin-left: -10px;
+            content: " ";
+            border: solid transparent;
+            border-color: rgba(204, 204, 204, 0);
+            border-bottom-color: $gray-lighter;
+            border-width: 10px;
+            pointer-events: none;
+        }
+    }
+
+    .disclaimer {
+        position: absolute;
+        bottom: rem(30px);
+        font-size: rem(10px);
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        margin-bottom: rem(40px);
+
+        &:nth-child(even) {
+            .flex-container {
+                flex-direction: row-reverse;
+            }
+        }
+
+        .flex-container {
+            flex-direction: row;
+
+            > * {
+                width: 50%;
+            }
+        }
+
+        .content {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-left: 5%;
+            padding-right: 5%;
+        }
+
+        .caption {
+            @include bg-gradient(rgba($white, 0), rgba($black, 0.7));
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            margin: 0;
+            padding: rem(15px) rem(15px);
+            border-bottom: none;
+
+            &:after {
+                display: none;
+            }
+
+            i {
+                float: left;
+                font-size: rem(40px);
+                color: $white;
+
+                &.icon-logo-jeldwen,
+                &.icon-logo-masonite,
+                &.icon-logo-thermatru,
+                &.icon-logo-western-reflections {
+                    font-size: rem(27px);
+                }
+            }
+
+            span {
+                display: inline-block;
+                float: left;
+                padding-top: rem(14px);
+                padding-left: rem(5px);
+                font-family: $din-next-medium;
+                font-size: rem(14px);
+                color: $white;
+                text-transform: uppercase;
+            }
+        }
+    }
+
+    @include mappy-bp(large, $type: screen) {
+        font-size: rem(20px);
+
+        .content {
+            padding: 0 rem(125px);
+        }
+
+        .prehead {
+            padding-bottom: rem(10px);
+            font-size: rem(20px);
+        }
+
+        h2 {
+            font-size: rem(36px);
+        }
+
+        ul li {
+            padding-bottom: rem(10px);
+        }
+
+        .button {
+            margin-top: rem(30px);
+        }
+    }
+}

@@ -1,0 +1,19 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Specialty"
+
+block head
+    +head(headData.windows.specialty)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsSpecialty.hero)
+
+block content
+    +inspiration(windowsSpecialty.inspiration)
+
+prepend footer
+    +next(windowsSpecialty.next)

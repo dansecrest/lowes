@@ -1,0 +1,67 @@
+{
+    "garageDoorsAluminum": {
+        "hero": {
+            "heading": "Aluminum",
+            "copy": "If you’re going for beautiful, sleek and modern, aluminum doors will help you create a bright and inviting garage space.",
+            "direction": "Why choose an aluminum garage door?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-aluminum.jpg",
+                "/assets/images/garage-doors/tablet/hero-aluminum.jpg",
+                "/assets/images/garage-doors/mobile/hero-aluminum.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Unique Glass Options",
+                "copy": [
+                    "Bring the outdoors inside with large panels of glass. Choose from transparent, opaque and tinted to add as much or as little visibility as you want."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-unique-window-options-aluminum.jpg",
+                            "/assets/images/garage-doors/mobile/pella-unique-window-options-aluminum.jpg"
+                        ],
+                        "alt": "Pella Unique Window Options Aluminum",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-aluminum-material-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-aluminum-material-garage-door.jpg"
+                        ],
+                        "alt": "Pella Aluminum Material Garage Door",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Modern Design",
+                "copy": [
+                    "Brilliantly colored frames and glass options are designed to complement your home’s architecture and individual contemporary style."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-ventura-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-ventura-garage-door.jpg"
+                        ],
+                        "alt": "Pella Ventura Garage Door",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over wood garage doors.",
+            "copy": "Wood garage doors are meticulously hand-crafted with the finest milled woods for reliable performance and timeless beauty.",
+            "button": {
+                "text": "Next: Wood",
+                "url": "/garage-doors/wood.html"
+            }
+        }
+    }
+}

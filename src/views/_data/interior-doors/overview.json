@@ -1,0 +1,88 @@
+{
+    "interiorDoorsOverview": {
+        "hero": {
+            "heading": "Interior Doors Checklist",
+            "copy": "Interior doors can blend into your decor or make a statement. When selecting yours, think about what level of privacy you need between rooms and how much space you’ll need for door opening and foot traffic.",
+            "direction": "How to shop for interior doors",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-overview.jpg",
+                "/assets/images/interior-doors/tablet/hero-overview.jpg",
+                "/assets/images/interior-doors/mobile/hero-overview.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-house",
+                    "title": "Start with the basics.",
+                    "copy": "Not sure where to begin? By the end of this guide you should be able to walk into a store with an idea of what you want."
+                },
+                {
+                    "icon": "icon-checkmark-hollow",
+                    "title": "Make your own checklist.",
+                    "copy": "As you’re learning about interior doors, use our checklist to keep track of things you’d like to discuss with a Lowe’s specialist."
+                },
+                {
+                    "icon": "icon-vest",
+                    "title": "When you’re ready, talk to us.",
+                    "copy": "We’ve got experts ready to help you in the Doors aisle. We can give you an installation quote while you’re there."
+                }
+            ],
+            "button": {
+                "url": "/interior-doors/hinged.html",
+                "text": "Get started"
+            }
+        },
+        "inspiration": [
+            {
+                "heading": "Consider going pro.",
+                "copy": [
+                    "Skip the hassle of needing to accurately measure your interior door.",
+                    "You don’t have to worry about accidentally voiding your warranty.",
+                    "A pro will clean up the mess and dispose of your old door."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-2-panel-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-2-panel-interior-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen 2-Panel Interior Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "outro": {
+            "anchor": "measurements",
+            "heading": "If you go DIY, here’s how to measure your interior door.",
+            "cards": [
+                {
+                    "icon": "icon-width-entry-interior",
+                    "title": "Width",
+                    "copy": "Measure the distance between the edge of one side of the door to the edge of the other side of the door."
+                },
+                {
+                    "icon": "icon-height-entry-interior",
+                    "title": "Height",
+                    "copy": "Next, measure the distance between the top edge of the door to the bottom edge of the door. "
+                },
+                {
+                    "icon": "icon-depth-entry-interior",
+                    "title": "Depth",
+                    "copy": "Measure the width of the frame, from edge to edge, across the existing door frame. Ignore any door trim."
+                }
+            ]
+        },
+        "next": {
+            "heading": "Learn about our different types of interior doors.",
+            "copy": "Consider how much space you need to open and close your door, and how much privacy you need between rooms when looking for the right interior door. ",
+            "button": {
+                "text": "Next: Type",
+                "url": "/interior-doors/hinged.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "interiorDoorsFinishingTouches": {
+        "hero": {
+            "heading": "Finishing Touches",
+            "copy": "Don't treat these details as afterthoughts. This is where style and function collide.",
+            "direction": "Finishing touches make a world of difference",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-finishing-touches.jpg",
+                "/assets/images/interior-doors/tablet/hero-finishing-touches.jpg",
+                "/assets/images/interior-doors/mobile/hero-finishing-touches.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Decorative touches & add-ons",
+                "copy": [
+                    "Handles range in style from substantial to sleek; functions range from decorative-only to full locking mechanisms."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-decorative-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-decorative-interior-door.jpg"
+                        ],
+                        "alt": "Masonite Decorative Interior Door",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Hardware",
+                "copy": [
+                    "Choosing the right hardware comes down to style and function. Going for a contemporary look? Think clean lines and simple hardware. Are rustic doors more your style? Add some clavos (decorative nails), hinge tips or metallic inlays for an old-world look."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-interior-antique-nickel-hinge-2-leaf.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-interior-antique-nickel-hinge-2-leaf.jpg"
+                        ],
+                        "alt": "Jeld-Wen Interior Antique Nickel Hinge 2-Leaf",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Router carved touches",
+                "copy": [
+                    "The distinctive dimensional details of router carved panels can elevate the entire look of your room. They come in raised, planked, or flat profiles and can even be matched to existing styles."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-sand-piper-interior-routed-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-sand-piper-interior-routed-door.jpg"
+                        ],
+                        "alt": "Masonite Sand Piper Interior Routed Door",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Factory finish",
+                "copy": [
+                    "Our professionally finished interior doors come with a protective paint or stain that looks sharp and will last for years."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-painted-molded-1-panel-flat-madison.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-painted-molded-1-panel-flat-madison.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Molded 1-Panel Flat Madison",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next up, let’s go over your material options.",
+            "copy": "When you’re considering materials, think about the level of maintenance and overall look you’re after.",
+            "button": {
+                "text": "Next: Material",
+                "url": "/interior-doors/wood.html"
+            }
+        }
+    }
+}

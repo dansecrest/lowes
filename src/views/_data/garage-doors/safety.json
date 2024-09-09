@@ -1,0 +1,42 @@
+{
+    "garageDoorsSafety": {
+        "hero": {
+            "heading": "Safety",
+            "copy": "The most common garage door injury involves fingers and hands getting caught between sections.",
+            "direction": "What can you do to reduce the risk of injuries?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-safety.jpg",
+                "/assets/images/garage-doors/tablet/hero-safety.jpg",
+                "/assets/images/garage-doors/mobile/hero-safety.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Pinch protection gives you peace of mind.",
+                "copy": [
+                    "Some garage doors are designed to reduce the risk of hand injuries. If safety is important to you, consider looking for doors with pinch protection."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-safety-pinch-protection.jpg",
+                            "/assets/images/garage-doors/mobile/pella-safety-pinch-protection.jpg"
+                        ],
+                        "alt": "Pella Safety Pinch Protection",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk about garage door wind load.",
+            "copy": "The area you live in may require garage doors that can handle tough weather conditions.",
+            "button": {
+                "text": "Next: Wind Load",
+                "url": "/garage-doors/wind-load.html"
+            }
+        }
+    }
+}

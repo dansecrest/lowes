@@ -1,0 +1,19 @@
+extends ../_layouts/entry-doors.pug
+
+append variables
+    - section = "Performance"
+    - subsection = "Durability & Impact"
+
+block head
+    +head(headData.entryDoors.durabilityImpact)
+
+prepend container
+    +subnav(entryDoorsSections)
+    +subnav(entryDoorsSections, true)
+    +hero(entryDoorsDurabilityImpact.hero)
+
+block content
+    +inspiration(entryDoorsDurabilityImpact.inspiration)
+
+prepend footer
+    +next(entryDoorsDurabilityImpact.next)

@@ -1,0 +1,100 @@
+{
+    "windowsImpact": {
+        "hero": {
+            "heading": "Impact",
+            "copy": "Whether you’re worried about weather, neighbors or intruders, there’s a way to keep the world outside at bay.",
+            "direction": "What are your window impact must-haves?",
+            "images": [
+                "/assets/images/windows/desktop/hero-impact.jpg",
+                "/assets/images/windows/tablet/hero-impact.jpg",
+                "/assets/images/windows/mobile/hero-impact.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Laminated",
+                "copy": [
+                    "Live in a hurricane zone? Worried about security? Laminated glass is shatterproof and absorbs impact, whether it’s from debris or a crowbar. Even if it breaks, it stays in one piece."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-hurricane-shield-glass.jpg",
+                            "/assets/images/windows/mobile/pella-hurricane-shield-glass.jpg"
+                        ],
+                        "alt": "Pella Hurricane Shield Glass",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-laminated-glass.jpg",
+                            "/assets/images/windows/mobile/pella-laminated-glass.jpg"
+                        ],
+                        "alt": "Pella Laminated Glass",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Security",
+                "copy": [
+                    "Screens. Locks. Bars. Films. We can help you choose the right device to make sure your windows aren’t the weakest link in your security chain."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-security-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-security-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Security Window",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-lock-plate.jpg",
+                            "/assets/images/windows/mobile/pella-lock-plate.jpg"
+                        ],
+                        "alt": "Pella Lock Plate",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Noise cancelling",
+                "copy": [
+                    "Is the neighbor’s kid practicing drums before school? Is that train waking you up at night? We’ve got noise cancelling window inserts that will help you get the beauty sleep you and your family deserve."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-noise-cancelling-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-noise-cancelling-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Noise Cancelling Window",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-noise-performance.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-noise-performance.jpg"
+                        ],
+                        "alt": "Jeld-Wen Noise Performance",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over some window safety options.",
+            "copy": "Because it’s always better to be prepared, and up to code.",
+            "button": {
+                "text": "Next: Safety",
+                "url": "/windows/safety.html"
+            }
+        }
+    }
+}

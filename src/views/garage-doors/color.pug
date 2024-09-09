@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Design"
+    - subsection = "Color"
+
+block head
+    +head(headData.garageDoors.color)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsColor.hero)
+
+block content
+    +inspiration(garageDoorsColor.inspiration)
+
+prepend footer
+    +next(garageDoorsColor.next)

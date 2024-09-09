@@ -1,0 +1,100 @@
+{
+    "patioDoorsSliding": {
+        "hero": {
+            "heading": "Sliding",
+            "copy": "These low-maintenance, easy-to-open, space-saving doors won’t interfere with your feng shui.",
+            "direction": "What to know about sliding patio doors",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-sliding.jpg",
+                "/assets/images/patio-doors/tablet/hero-sliding.jpg",
+                "/assets/images/patio-doors/mobile/hero-sliding.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Single",
+                "copy": [
+                    "A single sliding door can imitate the look of a French swinging door but give you the benefit of added space. Only one panel slides open."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-sliding-patio-door-single.jpg",
+                            "/assets/images/patio-doors/mobile/pella-sliding-patio-door-single.jpg"
+                        ],
+                        "alt": "Pella Sliding Patio Door Single",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-v-2500-vinyl-sliding-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-v-2500-vinyl-sliding-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen V-2500 Vinyl Sliding Patio Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Double",
+                "copy": [
+                    "If you need a little more ventilation and sunlight, try a double sliding door, since the panels stack behind one another."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-w-4500-wood-sliding-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-w-4500-wood-sliding-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen W-4500 Wood Sliding Patio Door",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-patio-blinds-down.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-patio-blinds-down.jpg"
+                        ],
+                        "alt": "Jeld-Wen Patio Blinds Down",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Multi",
+                "copy": [
+                    "If you really want your indoor and outdoor spaces to blend into one another, you can add as many sliding doors as your house’s structure allows."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-350-vinyl-patio-door-beauty.jpg",
+                            "/assets/images/patio-doors/mobile/pella-350-vinyl-patio-door-beauty.jpg"
+                        ],
+                        "alt": "Pella 350 Vinyl Patio Door beauty",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-v-4500-multislide-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-v-4500-multislide-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen V-4500 MultiSlide Patio Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over some of your patio door style options.",
+            "copy": "Elevate your space with handcrafted decorative patio door glass that adds texture, privacy and personality.",
+            "button": {
+                "text": "Next: Style",
+                "url": "/patio-doors/glass.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "entryDoorsSingle": {
+        "hero": {
+            "heading": "Single",
+            "copy": "If you’re replacing an old entry door, chances are it’s a single door since that’s what most homes have traditionally featured in the past.",
+            "direction": "What to consider with single entry doors.",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-single.jpg",
+                "/assets/images/entry-doors/tablet/hero-single.jpg",
+                "/assets/images/entry-doors/mobile/hero-single.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Left, right, in or out.",
+                "copy": [
+                    "If you’re replacing your door, you need to know whether your old door swung in or out and what side of the door the handle was on. If you’re building your house, you can decide all of the above."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-park-hill-craftsman-warm-wheat.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-park-hill-craftsman-warm-wheat.jpg"
+                        ],
+                        "alt": "Masonite Park Hill Craftsman Warm Wheat",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "One door. All yours.",
+                "copy": [
+                    "Your single door can be designed to reflect your personal style, no matter if that’s understated or over-the-top. You can even upgrade to a different door type for a grander entrance."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-bls-135-laurel-brass-evergreen.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-bls-135-laurel-brass-evergreen.jpg"
+                        ],
+                        "alt": "Masonite BLS-135 Laurel Brass Evergreen",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/pella-single-entry-doors.jpg",
+                            "/assets/images/entry-doors/mobile/pella-single-entry-doors.jpg"
+                        ],
+                        "alt": "Pella Single Entry Doors",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s look at double doors.",
+            "copy": "These formal entry doors add sophistication and elegance to your foyer.",
+            "button": {
+                "text": "Next: Double",
+                "url": "/entry-doors/double.html"
+            }
+        }
+    }
+}

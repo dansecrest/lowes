@@ -1,0 +1,50 @@
+{
+    "garageDoorsCarriageHouse": {
+        "hero": {
+            "heading": "Carriage House",
+            "copy": "Carriage house styles bring authentic historical looks into the modern world. From looks that replicate authentic barn-style doors to more simple, yet refined carriage house styling.",
+            "direction": "What style of garage door do you want?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-carriage-house.jpg",
+                "/assets/images/garage-doors/tablet/hero-carriage-house.jpg",
+                "/assets/images/garage-doors/mobile/hero-carriage-house.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Historic style with today’s technology.",
+                "copy": [
+                    "Carriage house doors offer gorgeously crafted decorative options for that old-fashioned, swing-open look, with the technology and functionality you expect from a modern garage door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wood-carriage-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wood-carriage-garage-door.jpg"
+                        ],
+                        "alt": "Pella Wood Carriage Garage Door",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wood-carriage-garage-door-gray.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wood-carriage-garage-door-gray.jpg"
+                        ],
+                        "alt": "Pella Wood Carriage Garage Door Gray",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about contemporary garage doors.",
+            "copy": "Bring the modern industrial look to your garage door with these sleek designs.",
+            "button": {
+                "text": "Next: Contemporary",
+                "url": "/garage-doors/contemporary.html"
+            }
+        }
+    }
+}

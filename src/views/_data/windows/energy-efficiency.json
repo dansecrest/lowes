@@ -1,0 +1,115 @@
+{
+    "windowsEnergyEfficiency": {
+        "hero": {
+            "heading": "Energy Efficiency",
+            "copy": "New windows can cut down on your energy bill and your carbon footprint.",
+            "direction": "View all of our energy efficient windows",
+            "images": [
+                "/assets/images/windows/desktop/hero-energy-efficiency.jpg",
+                "/assets/images/windows/tablet/hero-energy-efficiency.jpg",
+                "/assets/images/windows/mobile/hero-energy-efficiency.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Number of panes",
+                "copy": [
+                    "Multiple panes of glass with air or gas in between them do a much better job insulating your home than just one pane. They also help with noise cancelling."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-triple-pane.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-triple-pane.jpg"
+                        ],
+                        "alt": "Jeld-Wen Triple Pane",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Energy Star®",
+                "copy": [
+                    "ENERGY STAR certified windows meet all the strict energy efficiency guidelines set by the Environmental Protection Agency. There are different certification requirements for different climate zones."
+                ],
+                "link": {
+                    "url": "https://www.energystar.gov/index.cfm?fuseaction=windows_doors.search_climate",
+                    "text": "Find out which zone you're in.",
+                    "target": "_blank"
+                },
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-sliding-window-energy-star.jpg",
+                            "/assets/images/windows/mobile/pella-sliding-window-energy-star.jpg"
+                        ],
+                        "alt": "Pella Sliding Window Energy Star",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Gas fills & glass coating",
+                "copy": [
+                    "Some windows have gases between the panes that are better at insulating than regular air.",
+                    "You can also opt for low-e glass, which means it’s been treated to keep heat inside during winter and outside during summer."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-sliding-window-gas-fill-coating.jpg",
+                            "/assets/images/windows/mobile/pella-sliding-window-gas-fill-coating.jpg"
+                        ],
+                        "alt": "Pella Sliding Window Gas Fill Coating",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-sliding-window.jpg",
+                            "/assets/images/windows/mobile/pella-sliding-window.jpg"
+                        ],
+                        "alt": "Pella Sliding Window",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Screens",
+                "copy": [
+                    "Screens are great at keeping bugs out and keeping harsh heat and sunlight at bay. Your screen can cover half or all of your window—some even retract."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-energy-efficient-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-energy-efficient-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Energy Efficient Window",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-sliding-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-sliding-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Sliding Window",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your window style options.",
+            "copy": "From grilles to glass texture, personal touches go a long way in tying your home’s look together. ",
+            "button": {
+                "text": "Next: Style",
+                "url": "/windows/combinations.html"
+            }
+        }
+    }
+}

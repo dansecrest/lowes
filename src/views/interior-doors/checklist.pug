@@ -1,0 +1,25 @@
+extends ../_layouts/interior-doors.pug
+
+include ../_components/checklist.pug
+include ../_components/instruction.pug
+
+append variables
+    - bodyClass = "checklist"
+
+block head
+    +head(headData.interiorDoors.checklist)
+        script.
+            window.addEventListener('load', function() {
+                checklist.init();
+            });
+
+prepend container
+    +hero(interiorDoorsChecklist.hero)
+
+block content
+    .options
+        +checklist(interiorDoorsSections)
+        +instruction(interiorDoorsChecklist.instruction)
+
+prepend footer
+    +next(interiorDoorsChecklist.next)

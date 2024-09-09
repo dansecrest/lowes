@@ -1,0 +1,59 @@
+{
+    "patioDoorsDurabilityImpact": {
+        "hero": {
+            "heading": "Durability & Impact",
+            "copy": "From hurricane debris to the decibels of a passing airplane, there are ways to measure what can get through your door.",
+            "direction": "Here are some things to consider when you shop",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-durability-impact.jpg",
+                "/assets/images/patio-doors/tablet/hero-durability-impact.jpg",
+                "/assets/images/patio-doors/mobile/hero-durability-impact.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Impact resistance",
+                "copy": [
+                    "Depending on your building code, you may be required to have impact-resistant glass. This type of glass has a layer of polymer between the glass that can withstand wind, water and debris. Plus, it won’t shatter if it breaks."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-impactgard-intruder-smash-detail.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-impactgard-intruder-smash-detail.jpg"
+                        ],
+                        "alt": "Jeld-Wen ImpactGard Intruder Smash Detail",
+                        "vendor": ""
+                    }
+                }
+            },
+            {
+                "heading": "Noise reduction",
+                "copy": [
+                    "The number of panes, types of coating and layers of insulation all factor into how much noise can travel through your door. A door’s Sound Transmission Class (STC) rating will tell you how many decibels make it through the threshold."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-noise-canceling.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-noise-canceling.jpg"
+                        ],
+                        "alt": "Jeld-Wen noise canceling",
+                        "vendor": ""
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now let’s take a look at your safety and privacy options.",
+            "copy": "From dead bolts to smart home sensors, you don’t ever have to second guess your patio door’s security.",
+            "button": {
+                "text": "Next: Safety & Privacy",
+                "url": "/patio-doors/safety-privacy.html"
+            }
+        }
+    }
+}

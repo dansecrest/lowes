@@ -1,0 +1,19 @@
+extends ../_layouts/entry-doors.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Glass"
+
+block head
+    +head(headData.entryDoors.glass)
+
+prepend container
+    +subnav(entryDoorsSections)
+    +subnav(entryDoorsSections, true)
+    +hero(entryDoorsGlass.hero)
+
+block content
+    +inspiration(entryDoorsGlass.inspiration)
+
+prepend footer
+    +next(entryDoorsGlass.next)

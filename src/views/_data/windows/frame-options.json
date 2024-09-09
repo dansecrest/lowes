@@ -1,0 +1,159 @@
+{
+    "windowsFrameOptions": {
+        "hero": {
+            "heading": "Frame Options",
+            "copy": "From super sleek to over-the-top, don’t underestimate how impactful window frames can be.",
+            "direction": "View all of our frame options",
+            "images": [
+                "/assets/images/windows/desktop/hero-frame-options.jpg",
+                "/assets/images/windows/tablet/hero-frame-options.jpg",
+                "/assets/images/windows/mobile/hero-frame-options.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Interior trim options",
+                "copy": [
+                    "Extension jambs emphasize the depth of your window by covering the gap between your wall and your window. Think reading nook or built-in shelving.",
+                    "For added flair, choose contrasting window trim and frame materials, like aluminum and wood.",
+                    "Thick wooden trim complements homes adorned with crown moulding and baseboards."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-interior-trim-wood-sample.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-interior-trim-wood-sample.jpg"
+                        ],
+                        "alt": "Jeld-Wen Interior Trim Wood Sample",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Exterior trim options",
+                "copy": [
+                    "Add intrigue to your curb appeal with trims that are cut at an angle or feature molding.",
+                    "Contrasting colors draw the eye in and make windows appear bigger than they really are.",
+                    "You can opt for minimal window trim and make another feature of your house the focal point."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-exterior-trim.jpg",
+                            "/assets/images/windows/mobile/pella-exterior-trim.jpg"
+                        ],
+                        "alt": "Pella Exterior Trim",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-clear-anodized-crissy.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-clear-anodized-crissy.jpg"
+                        ],
+                        "alt": "Jeld-Wen Clear Anodized Crissy",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Wood finishes",
+                "copy": [
+                    "Most wood and wood-clad windows come unfinished so that you can add your own personal touch. But before you stain or finish your window, read your warranty to make sure you don’t accidentally void it."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-wood-finish.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-wood-finish.jpg"
+                        ],
+                        "alt": "Jeld-Wen Wood Finish",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Interior colors",
+                "copy": [
+                    "There are two sides to every window. The inside can be a different color than the outside. Use the décor in your home as inspiration for what color you’d like your windows to be. Or vice versa."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-interior.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-interior.jpg"
+                        ],
+                        "alt": "Jeld-Wen Interior",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-350-dh-spd-23i.jpg",
+                            "/assets/images/windows/mobile/pella-350-dh-spd-23i.jpg"
+                        ],
+                        "alt": "Pella 350 DH SPD 23I",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Exterior",
+                "copy": [
+                    "Do you want your windows to pop or blend in with the rest of your home? Will the frames be surrounded by trim? Will they match or contrast? Your home is a canvas. And you’re the artist."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-exterior.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-exterior.jpg"
+                        ],
+                        "alt": "Jeld-Wen Exterior",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-vinyl-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-vinyl-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Vinyl Window",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Profiles",
+                "list": {
+                    "items": [
+                        "Profiles can elevate the look of your window combinations.",
+                        "They tie door frames and window frames together.",
+                        "They can even cover an entire wall, if you’d like."
+                    ]
+                },
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-case-studio-window.jpg",
+                            "/assets/images/windows/mobile/pella-case-studio-window.jpg"
+                        ],
+                        "alt": "Pella Case Studio Window",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Before you start shopping, let’s make a checklist.",
+            "copy": "Get your ideas down while they’re fresh before you head into a store.",
+            "button": {
+                "text": "Next: Project checklist",
+                "url": "/windows/checklist.html"
+            }
+        }
+    }
+}

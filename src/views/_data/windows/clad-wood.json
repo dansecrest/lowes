@@ -1,0 +1,75 @@
+{
+    "windowsCladWood": {
+        "hero": {
+            "heading": "Clad-wood & Wood",
+            "copy": "With clad-wood you can enjoy the character of wood and the energy-efficiency of vinyl, fiberglass or aluminum.",
+            "direction": "Why choose clad-wood or wood windows?",
+            "images": [
+                "/assets/images/windows/desktop/hero-clad-wood.jpg",
+                "/assets/images/windows/tablet/hero-clad-wood.jpg",
+                "/assets/images/windows/mobile/hero-clad-wood.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Clad-wood",
+                "copy": [
+                    "You have free reign over the stain and finish of the interior wood frame, while the weather-resistant exterior frame gives you peace of mind."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-casement-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-casement-window.jpg"
+                        ],
+                        "alt": "Pella Casement Window",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-aluminum-clad-wood-double-hung-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-aluminum-clad-wood-double-hung-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Aluminum Clad Wood Double Hung Window",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Wood",
+                "copy": [
+                    "While wood windows require a bit of maintenance, they go a long way in preserving the character of historic homes."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-wood-double-hung-window.jpg",
+                            "/assets/images/windows/mobile/pella-wood-double-hung-window.jpg"
+                        ],
+                        "alt": "Pella Wood Double Hung Window",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-im-fiberglass-window-cob-wood-double-hung-window.jpg",
+                            "/assets/images/windows/mobile/pella-im-fiberglass-window-cob-wood-double-hung-window.jpg"
+                        ],
+                        "alt": "Pella IM Fiberglass Window COB Wood Double Hung Window",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next up, aluminum windows.",
+            "copy": "Aluminum windows are known for being low maintenance, weather-resistant and easy to open.",
+            "button": {
+                "text": "Next: Aluminum",
+                "url": "/windows/aluminum.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Sliding & Folding"
+
+block head
+    +head(headData.interiorDoors.slidingFolding)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsSlidingFolding.hero)
+
+block content
+    +inspiration(interiorDoorsSlidingFolding.inspiration)
+
+prepend footer
+    +next(interiorDoorsSlidingFolding.next)

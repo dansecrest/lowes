@@ -1,0 +1,92 @@
+{
+    "garageDoorsSteel": {
+        "hero": {
+            "heading": "Steel",
+            "copy": "Steel is popular due to its durability, easy maintenance and high-quality appearance. It can imitate the look of wood but lasts longer and is easier to maintain.",
+            "direction": "Here are more reasons people choose steel.",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-steel.jpg",
+                "/assets/images/garage-doors/tablet/hero-steel.jpg",
+                "/assets/images/garage-doors/mobile/hero-steel.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "It lasts a long time.",
+                "copy": [
+                    "It’s one of the strongest, most durable and reliable materials around."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-steel-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-steel-garage-door.jpg"
+                        ],
+                        "alt": "Pella Steel Garage Door",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-steel-material-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-steel-material-garage-door.jpg"
+                        ],
+                        "alt": "Pella Steel Material Garage Door",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "It’s low maintenance.",
+                "copy": [
+                    "You’ll spend more time admiring your steel garage door than maintaining it."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-steel-material-full-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-steel-material-full-door.jpg"
+                        ],
+                        "alt": "Pella Steel Material Full Door",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-steel-material-low-maintenance-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-steel-material-low-maintenance-garage-door.jpg"
+                        ],
+                        "alt": "Pella Steel Material Low Maintenance Garage Door",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "It’s attractive.",
+                "copy": [
+                    "The high-quality appearance of steel features state of the art wood grain embossment."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-steel-material-close-up.jpg",
+                            "/assets/images/garage-doors/mobile/pella-steel-material-close-up.jpg"
+                        ],
+                        "alt": "Pella Steel Material Close-up",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s go over aluminum garage doors.",
+            "copy": "If you’re going for beautiful, sleek and modern, aluminum doors will help you create a bright and inviting garage space.",
+            "button": {
+                "text": "Next: Aluminum",
+                "url": "/garage-doors/aluminum.html"
+            }
+        }
+    }
+}

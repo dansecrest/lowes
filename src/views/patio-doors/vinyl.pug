@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Vinyl"
+
+block head
+    +head(headData.patioDoors.vinyl)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsVinyl.hero)
+
+block content
+    +inspiration(patioDoorsVinyl.inspiration)
+
+prepend footer
+    +next(patioDoorsVinyl.next)

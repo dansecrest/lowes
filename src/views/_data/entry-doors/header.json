@@ -1,0 +1,30 @@
+{
+    "entryDoorsHeader": {
+        "links": [
+            {
+                "text": "Type",
+                "url": "/entry-doors/single.html"
+            },
+            {
+                "text": "Style",
+                "url": "/entry-doors/glass.html"
+            },
+            {
+                "text": "Material",
+                "url": "/entry-doors/fiberglass.html"
+            },
+            {
+                "text": "Performance",
+                "url": "/entry-doors/energy-efficiency.html"
+            }
+        ],
+        "buttons": [
+            {
+                "text": "Your Checklist",
+                "url": "/entry-doors/checklist.html",
+                "icon": "icon-checkmark",
+                "target": "_self"
+            }
+        ]
+    }
+}

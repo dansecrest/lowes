@@ -1,0 +1,196 @@
+{
+    "interiorDoorsSections": [
+        {
+            "title": "Type",
+            "question": "What type of interior door are you considering?",
+            "icon": "icon-type-interior",
+            "checklist": [
+                {
+                    "id": "interior-type1",
+                    "name": "Single Pre-hung"
+                },
+                {
+                    "id": "interior-type2",
+                    "name": "Double Pre-hung"
+                },
+                {
+                    "id": "interior-type3",
+                    "name": "French"
+                },
+                {
+                    "id": "interior-type4",
+                    "name": "Sliding/Bypass"
+                },
+                {
+                    "id": "interior-type5",
+                    "name": "Bi-fold Closet"
+                },
+                {
+                    "id": "interior-type6",
+                    "name": "Barn"
+                },
+                {
+                    "id": "interior-type7",
+                    "name": "Pocket"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Hinged",
+                    "url": "/interior-doors/hinged.html"
+                },
+                {
+                    "text": "Sliding & Folding",
+                    "url": "/interior-doors/sliding-folding.html"
+                },
+                {
+                    "text": "Specialty",
+                    "url": "/interior-doors/specialty.html"
+                }
+            ]
+        },
+        {
+            "title": "Style",
+            "question": "What style options would you like to discuss?",
+            "icon": "icon-style-interior",
+            "checklist": [
+                {
+                    "id": "interior-style1",
+                    "name": "Paneled"
+                },
+                {
+                    "id": "interior-style2",
+                    "name": "Glass Options"
+                },
+                {
+                    "id": "interior-style3",
+                    "name": "Louvered"
+                },
+                {
+                    "id": "interior-style4",
+                    "name": "Flush"
+                },
+                {
+                    "id": "interior-style5",
+                    "name": "Chalkboard or Mirrored"
+                },
+                {
+                    "id": "interior-style6",
+                    "name": "Color Options"
+                },
+                {
+                    "id": "interior-style7",
+                    "name": "Frame Options"
+                },
+                {
+                    "id": "interior-style8",
+                    "name": "Privacy Options"
+                },
+                {
+                    "id": "interior-style9",
+                    "name": "Decorative Touches & Add-ons"
+                },
+                {
+                    "id": "interior-style10",
+                    "name": "Hardware"
+                },
+                {
+                    "id": "interior-style11",
+                    "name": "Factory Finish"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Panel Model",
+                    "url": "/interior-doors/panel-model.html"
+                },
+                {
+                    "text": "Appearance",
+                    "url": "/interior-doors/appearance.html"
+                },
+                {
+                    "text": "Finishing Touches",
+                    "url": "/interior-doors/finishing-touches.html"
+                }
+            ]
+        },
+        {
+            "title": "Material",
+            "question": "What interior door materials are you interested in?",
+            "icon": "icon-material",
+            "checklist": [
+                {
+                    "id": "interior-material1",
+                    "name": "Wood"
+                },
+                {
+                    "id": "interior-material2",
+                    "name": "Wood Composite"
+                },
+                {
+                    "id": "interior-material3",
+                    "name": "MDF"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Wood",
+                    "url": "/interior-doors/wood.html"
+                },
+                {
+                    "text": "Wood Composite",
+                    "url": "/interior-doors/wood-composite.html"
+                },
+                {
+                    "text": "Medium Density Fiberboard",
+                    "url": "/interior-doors/medium-density-fiberboard.html"
+                }
+            ]
+        },
+        {
+            "title": "Performance",
+            "question": "What are your performance must-haves?",
+            "icon": "icon-performance",
+            "checklist": [
+                {
+                    "id": "interior-performance1",
+                    "name": "Noise Cancelling"
+                },
+                {
+                    "id": "interior-performance2",
+                    "name": "Hollow Core"
+                },
+                {
+                    "id": "interior-performance3",
+                    "name": "Solid Core"
+                },
+                {
+                    "id": "interior-performance4",
+                    "name": "Sustainable Materials"
+                },
+                {
+                    "id": "interior-performance5",
+                    "name": "Low Emissions"
+                },
+                {
+                    "id": "interior-performance6",
+                    "name": "Fire-rated"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Noise Cancelling",
+                    "url": "/interior-doors/noise-cancelling.html"
+                },
+                {
+                    "text": "Environmentally Friendly Options",
+                    "url": "/interior-doors/environmentally-friendly-options.html"
+                },
+                {
+                    "text": "Safety",
+                    "url": "/interior-doors/safety.html"
+                }
+            ]
+        }
+    ]
+}

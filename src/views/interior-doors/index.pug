@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - bodyClass = "overview"
+    - section = "Overview"
+
+block head
+    +head(headData.interiorDoors.overview)
+
+prepend container
+    +hero(interiorDoorsOverview.hero)
+    +intro(interiorDoorsOverview.intro)
+
+block content
+    +inspiration(interiorDoorsOverview.inspiration)
+    +outro(interiorDoorsOverview.outro)
+
+prepend footer
+    +next(interiorDoorsOverview.next)

@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Wood"
+
+block head
+    +head(headData.interiorDoors.wood)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsWood.hero)
+
+block content
+    +inspiration(interiorDoorsWood.inspiration)
+
+prepend footer
+    +next(interiorDoorsWood.next)

@@ -1,0 +1,38 @@
+//- +footer
+    Creates the page footer
+
+mixin footer(data, categories)
+    footer
+        .container
+            #back-to-top
+                a(href="#")
+                    i.icon-arrow-up
+                    | back to top
+            if data
+                .sections
+                    each section in data
+                        ul
+                            li
+                                a(href= section.links[0].url)= section.title
+                            each link in section.links
+                                li
+                                    a(href= link.url)= link.text
+            if categories
+                .categories
+                    ul
+                        each item in categories
+                            li
+                                a(href= item.url)= item.text
+            .copyright
+                if category === "windows"
+                    a(href="http://www.lowes.com/c/Windows-Windows-doors" target="_blank") Lowe's Windows
+                else if category === "entry-doors" || category === "patio-doors" || category === "interior-doors"
+                    a(href="http://www.lowes.com/c/Doors-Windows-doors" target="_blank") Lowe's Doors
+                else if category === "garage-doors"
+                    a(href="http://www.lowes.com/c/Garage-doors-openers-Windows-doors" target="_blank") Lowe's Garage Doors & Openers
+                else
+                    a(href="http://www.lowes.com/c/Windows-doors" target="_blank") Lowe's Windows & Doors
+                | &nbsp; | &nbsp;
+                a(href="http://www.lowes.com" target="_blank") Lowes.com
+                span &copy; 2016 Lowe's. All rights reserved.
+                span ENERGY STAR® is a government program that helps consumers protect the environment through superior energy efficiency and is a registered trademark of the U.S. Department of Energy and the U.S. Environmental Protection Agency.

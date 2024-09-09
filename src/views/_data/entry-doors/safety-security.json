@@ -1,0 +1,59 @@
+{
+    "entryDoorsSafetySecurity": {
+        "hero": {
+            "heading": "Safety & Security",
+            "copy": "From multi-point hardware to fire-resistance, you don’t ever have to second guess your entry door’s security.",
+            "direction": "Things to consider while you shop",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-safety-security.jpg",
+                "/assets/images/entry-doors/tablet/hero-safety-security.jpg",
+                "/assets/images/entry-doors/mobile/hero-safety-security.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Fire-rated doors",
+                "copy": [
+                    "A door and its frame together create a fire-rated system. Steel can be fire-rated as high as 90 minutes, while fiberglass is usually rated for 20 minutes."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-MHD-6-arctic-white.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-MHD-6-arctic-white.jpg"
+                        ],
+                        "alt": "Masonite MHD-6 Arctic White",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Multi-point locking systems",
+                "copy": [
+                    "In addition to standard deadbolts and foot bolts, you can have a multi-point lock system installed. Its three secure locking points of engagement on the door provide added security—and peace of mind. Deadbolts and foot bolts are also great lock options."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-multi-point-hardware.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-multi-point-hardware.jpg"
+                        ],
+                        "alt": "Therma-Tru Multi-Point Hardware",
+                        "vendor": "thermatru"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Before you start shopping, let’s make a checklist.",
+            "copy": "Why not get your ideas down while they’re fresh before you head into a store?",
+            "button": {
+                "text": "Next: Checklist",
+                "url": "/entry-doors/checklist.html"
+            }
+        }
+    }
+}

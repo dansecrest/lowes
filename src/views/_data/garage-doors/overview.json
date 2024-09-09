@@ -1,0 +1,92 @@
+{
+    "garageDoorsOverview": {
+        "hero": {
+            "heading": "Garage Doors Checklist",
+            "copy": "Are you lost when it comes to choosing the best garage door for your home? You’re not alone. That’s why we designed this guide to help you navigate the aisles and find your perfect door.",
+            "button": {
+                "text": "Get Started",
+                "url": "/garage-doors/steel.html"
+            },
+            "direction": "How to shop for garage doors",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-overview.jpg",
+                "/assets/images/garage-doors/tablet/hero-overview.jpg",
+                "/assets/images/garage-doors/mobile/hero-overview.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-house",
+                    "title": "Start with the basics.",
+                    "copy": "Your garage door can dramatically impact your curb appeal. We’ll help you find the perfect one by going over all your options."
+                },
+                {
+                    "icon": "icon-checkmark-hollow",
+                    "title": "Make your own checklist.",
+                    "copy": "While your ideas are still fresh in your mind, feel free to fill out our shopping checklist and bring it with you into a store."
+                },
+                {
+                    "icon": "icon-vest",
+                    "title": "When you’re ready, talk to us.",
+                    "copy": "Our experts are ready to help you in the Garage Door Design Center at your local Lowe’s."
+                }
+            ],
+            "button": {
+                "url": "/garage-doors/steel.html",
+                "text": "Get started"
+            }
+        },
+        "inspiration": [
+            {
+                "heading": "Consider Going Pro",
+                "copy": [
+                    "A pro will accurately measure your garage door for you.",
+                    "They’ll clean up the mess and dispose of your old garage door.",
+                    "You don’t have to worry about accidentally voiding your warranty."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-garage-madeira-pro.jpg",
+                            "/assets/images/garage-doors/mobile/pella-garage-madeira-pro.jpg"
+                        ],
+                        "alt": "Pella Garage Madeira Pro",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "outro": {
+            "anchor": "measurements",
+            "heading": "Here’s how to measure your garage door.",
+            "cards": [
+                {
+                    "icon": "icon-width-garage",
+                    "title": "Width",
+                    "copy": "First, measure the width of the opening at the widest point. This is the distance between the right and left sides of the finished opening. Check to see if your floor is uneven."
+                },
+                {
+                    "icon": "icon-height-garage",
+                    "title": "Height",
+                    "copy": "Next, measure the height of the door. This is the distance between the floor and the top of the finished opening. Measure the area between the top of the door opening and the ceiling (or the lowest obstruction from the ceiling)."
+                },
+                {
+                    "icon": "icon-depth-garage",
+                    "title": "Depth",
+                    "copy": "Last, measure the distance from the opening to the rear of the garage."
+                }
+            ]
+        },
+        "next": {
+            "heading": "Now, let’s go over materials.",
+            "copy": "Each material has its own unique benefits. We’ll help you find the one that matches your lifestyle.",
+            "button": {
+                "text": "Get Started",
+                "url": "/garage-doors/steel.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "garageDoorsClassic": {
+        "hero": {
+            "heading": "Classic",
+            "copy": "Classic styling coordinates with any home and stands the test of time.",
+            "direction": "What style of garage door do you want?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-classic.jpg",
+                "/assets/images/garage-doors/tablet/hero-classic.jpg",
+                "/assets/images/garage-doors/mobile/hero-classic.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Traditional and versatile.",
+                "copy": [
+                    "The classic style includes the most popular garage door designs that fit any price range. With more versatility in material and construction options, you’re sure to find a fit for your architectural style."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-classic-garage-doors.jpg",
+                            "/assets/images/garage-doors/mobile/pella-classic-garage-doors.jpg"
+                        ],
+                        "alt": "Pella Classic Garage Doors",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-classic-steel-garage-doors.jpg",
+                            "/assets/images/garage-doors/mobile/pella-classic-steel-garage-doors.jpg"
+                        ],
+                        "alt": "Pella Classic Steel Garage Doors",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about carriage house garage doors.",
+            "copy": "Find historically authentic looks for your garage door, with options ranging from rustic to refined.",
+            "button": {
+                "text": "Next: Carriage House",
+                "url": "/garage-doors/carriage-house.html"
+            }
+        }
+    }
+}

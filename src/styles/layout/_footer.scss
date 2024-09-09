@@ -1,0 +1,140 @@
+footer {
+    font-family: $din-next-medium;
+    font-size: rem(14px);
+    color: $white;
+    background-color: $blue-dark;
+
+    a {
+        color: $white;
+    }
+
+    .container {
+        overflow: hidden;
+    }
+
+    #back-to-top {
+        margin-top: rem(30px);
+        text-align: center;
+        text-transform: uppercase;
+
+        a {
+            display: block;
+            width: rem(150px);
+            margin: 0 auto;
+        }
+
+        i {
+            display: block;
+            padding-bottom: rem(5px);
+            font-size: rem(17px);
+        }
+    }
+
+    .sections {
+        display: flex;
+        align-items: stretch;
+        flex-wrap: wrap;
+        margin-top: rem(46px);
+        overflow: hidden;
+
+        ul {
+            flex-grow: 1;
+            width: 42%;
+            padding-left: 8%;
+            padding-bottom: rem(27px);
+        }
+
+        li {
+            padding-bottom: rem(9px);
+            text-align: left;
+
+            &:first-of-type {
+                font-family: $din-next-bold;
+            }
+        }
+    }
+
+    .categories {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: rem(20px);
+        text-align: center;
+
+        ul {
+            width: 100%;
+
+            li {
+                display: inline-block;
+                margin: 0 4%;
+                padding-bottom: rem(22px);
+                font-family: $din-next-bold;
+            }
+
+            a {
+                text-transform: uppercase;
+            }
+        }
+    }
+
+    .copyright {
+        width: 80%;
+        margin: rem(14px) auto 0;
+        padding-bottom: rem(75px);
+        font-family: $helvetica-neue;
+        font-size: rem(11px);
+        text-align: center;
+
+        a {
+            text-decoration: underline;
+        }
+
+        span {
+            display: block;
+            margin-top: rem(9px);
+        }
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        font-size: rem(18px);
+
+        .container {
+            padding: 0;
+        }
+
+        #back-to-top {
+            margin-top: rem(85px);
+
+            i {
+                padding-bottom: rem(10px);
+                font-size: rem(25px);
+            }
+        }
+
+        .sections {
+            margin-top: rem(80px);
+            padding: 0 10%;
+
+            ul {
+                width: 20%;
+                padding-left: 5%;
+            }
+        }
+
+        .categories {
+            margin-top: rem(50px);
+            font-size: rem(18px);
+        }
+
+        .copyright{
+            width: 70%;
+            margin-top: rem(42px);
+            font-size: rem(12px);
+
+            span {
+                margin-top: rem(15px);
+                line-height: 1.4;
+            }
+        }
+    }
+}

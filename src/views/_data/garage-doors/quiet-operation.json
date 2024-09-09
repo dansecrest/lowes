@@ -1,0 +1,59 @@
+{
+    "garageDoorsQuietOperation": {
+        "hero": {
+            "heading": "Quiet Operation",
+            "copy": "Tired of waking everyone up when you leave or get home from work? You don’t have to settle for a loud garage door.",
+            "direction": "Here’s how to turn the volume down.",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-quiet-operation.jpg",
+                "/assets/images/garage-doors/tablet/hero-quiet-operation.jpg",
+                "/assets/images/garage-doors/mobile/hero-quiet-operation.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Insulation",
+                "copy": [
+                    "The more insulation a door has, the quieter it is. For maximum performance, choose a thicker, polyurethane-insulated door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-construction-wood-doors.jpg",
+                            "/assets/images/garage-doors/mobile/pella-construction-wood-doors.jpg"
+                        ],
+                        "alt": "Pella Construction Wood Doors",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Opening System",
+                "copy": [
+                    "The rollers and opener will also affect how loud your garage door is. If you use an electric opener to operate your garage door, belt drive openers are your quietest option."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-opener-bike-safety.jpg",
+                            "/assets/images/garage-doors/mobile/pella-opener-bike-safety.jpg"
+                        ],
+                        "alt": "Pella Opener Bike Safety",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk about garage door safety.",
+            "copy": "Additional safety features can help reduce the risk of injuries.",
+            "button": {
+                "text": "Next: Safety",
+                "url": "/garage-doors/safety.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "interiorDoorsWood": {
+        "hero": {
+            "heading": "Wood",
+            "copy": "Wood interior doors are crafted to complement your home’s architectural style and personal aesthetic.",
+            "direction": "Why choose wood interior doors?",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-wood.jpg",
+                "/assets/images/interior-doors/tablet/hero-wood.jpg",
+                "/assets/images/interior-doors/mobile/hero-wood.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Strength & beauty",
+                "copy": [
+                    "Solid wood doors have been the standard for centuries—the high end look that other materials imitate. It’s strong and secure yet warm and inviting, with distinctive color and variation in each species."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-6-panel-oak.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-6-panel-oak.jpg"
+                        ],
+                        "alt": "Jeld-Wen 6-Panel Oak",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Lasting durability",
+                "copy": [
+                    "Wear and tear are no match for solid wood. Compared to other materials, it’s the least likely to dent and scratches are easy to repair."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-lws-wp-6-pine-bty.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-lws-wp-6-pine-bty.jpg"
+                        ],
+                        "alt": "Masonite LWS-WP-6-Pine-bty",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Quality & craftsmanship",
+                "copy": [
+                    "Centuries of craftsmanship have been passed down and improved upon in today’s interior doors. With professionally crafted styles and custom wood options, you’re bound to find the look you’re after."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-6-panel-pine.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-6-panel-pine.jpg"
+                        ],
+                        "alt": "Jeld-Wen 6-Panel Pine",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about wood composite.",
+            "copy": "Wood composite doors are engineered to give you the best of wood and the best of technology.",
+            "button": {
+                "text": "Next: Wood Composite",
+                "url": "/interior-doors/wood-composite.html"
+            }
+        }
+    }
+}

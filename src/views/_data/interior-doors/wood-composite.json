@@ -1,0 +1,76 @@
+{
+    "interiorDoorsWoodComposite": {
+        "hero": {
+            "heading": "Wood Composite",
+            "copy": "Wood composite doors are engineered to give you the best of wood and the best of technology.",
+            "direction": "Why choose a wood composite door?",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-wood-composite.jpg",
+                "/assets/images/interior-doors/tablet/hero-wood-composite.jpg",
+                "/assets/images/interior-doors/mobile/hero-wood-composite.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Classic look & new tech",
+                "copy": [
+                    "Solid wood is naturally attractive but does have some drawbacks. Wood composite doors can look and feel like solid wood but can be much stronger and usually cost less. Plus, you can choose from a wide range of veneers, textures, weights and panel designs."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-wood-composite-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-wood-composite-interior-door.jpg"
+                        ],
+                        "alt": "Masonite Wood Composite Interior Door",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Eco-friendly",
+                "copy": [
+                    "Underneath their veneers, wood composite doors are mostly made up of recycled material that has been moulded into your desired shape"
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-sand-piper-bathroom.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-sand-piper-bathroom.jpg"
+                        ],
+                        "alt": "Masonite Sand Piper Bathroom",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Strength & durability",
+                "copy": [
+                    "Solid wood doors are good at resisting warping, shrinking and cracking. But thanks to engineering innovations, wood composite doors are even better at it."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-engineered-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-engineered-interior-door.jpg"
+                        ],
+                        "alt": "Masonite Engineered Interior Door",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over MDF.",
+            "copy": "Medium density fiberboard is a durable material made from recycled wood fibers and resin.",
+            "button": {
+                "text": "Next: Medium Density Fiberboard",
+                "url": "/interior-doors/medium-density-fiberboard.html"
+            }
+        }
+    }
+}

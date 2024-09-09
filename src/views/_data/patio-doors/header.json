@@ -1,0 +1,30 @@
+{
+    "patioDoorsHeader": {
+        "links": [
+            {
+                "text": "Type",
+                "url": "/patio-doors/hinged.html"
+            },
+            {
+                "text": "Style",
+                "url": "/patio-doors/glass.html"
+            },
+            {
+                "text": "Material",
+                "url": "/patio-doors/clad-wood.html"
+            },
+            {
+                "text": "Performance",
+                "url": "/patio-doors/energy-efficiency.html"
+            }
+        ],
+        "buttons": [
+            {
+                "text": "Your Checklist",
+                "url": "/patio-doors/checklist.html",
+                "icon": "icon-checkmark",
+                "target": "_self"
+            }
+        ]
+    }
+}

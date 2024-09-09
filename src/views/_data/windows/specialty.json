@@ -1,0 +1,117 @@
+{
+    "windowsSpecialty": {
+        "hero": {
+            "heading": "Specialty",
+            "copy": "Add character to your home with windows that stand out.",
+            "direction": "View all of our specialty windows",
+            "images": [
+                "/assets/images/windows/desktop/hero-specialty.jpg",
+                "/assets/images/windows/tablet/hero-specialty.jpg",
+                "/assets/images/windows/mobile/hero-specialty.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Bay",
+                "copy": [
+                    "Bay comes from a French word meaning “opening”. And that’s just what these windows do to a room — open it up."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-kitchen-bay-window.jpg",
+                            "/assets/images/windows/mobile/pella-kitchen-bay-window.jpg"
+                        ],
+                        "alt": "Pella Kitchen Bay Window",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Bow",
+                "copy": [
+                    "Bow windows are like bay windows, only they create a subtler opening with wider angles between the glass panes."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-bow-window.jpg",
+                            "/assets/images/windows/mobile/pella-bow-window.jpg"
+                        ],
+                        "alt": "Pella Bow Window",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-vinyl-bow-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-vinyl-bow-window.jpg"
+                        ],
+                        "alt": "",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Picture",
+                "copy": [
+                    "Sometimes the simplest design is the best. Picture, or fixed, windows let tons of light into the room yet are surprisingly energy efficient."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-vinyl-picture-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-vinyl-picture-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Vinyl Picture Window",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-picture-window.jpg",
+                            "/assets/images/windows/mobile/pella-picture-window.jpg"
+                        ],
+                        "alt": "Pella Picture Window",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Special shapes",
+                "copy": [
+                    "Here’s the long and short of it: your window can be any shape you want it to be. Octagon? Rombus? You got it."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-wood-special-shape.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-wood-special-shape.jpg"
+                        ],
+                        "alt": "Jeld-Wen Wood Special Shape",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-wood-special-shape-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-wood-special-shape-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Wood Special Shape",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your frame material options.",
+            "copy": "Your windows are made of more than just glass. Here are some things to keep in mind when you go into a store.",
+            "button": {
+                "text": "Next: Material",
+                "url": "/windows/vinyl.html"
+            }
+        }
+    }
+}

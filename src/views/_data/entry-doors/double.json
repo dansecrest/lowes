@@ -1,0 +1,75 @@
+{
+    "entryDoorsDouble": {
+        "hero": {
+            "heading": "Double",
+            "copy": "These formal entry doors instantly add sophistication and elegance to your foyer.",
+            "direction": "Take a closer look at double doors.",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-double.jpg",
+                "/assets/images/entry-doors/tablet/hero-double.jpg",
+                "/assets/images/entry-doors/mobile/hero-double.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Left, right, in or out.",
+                "copy": [
+                    "If you’re replacing a double door, you need to know whether your old doors swung in or out and what side of the doors the handles were on. If you’re building your house, you can decide all of the above."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-ccr804028-provincial.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-ccr804028-provincial.jpg"
+                        ],
+                        "alt": "Therma-Tru CCR804028 Provincial",
+                        "vendor": "thermatru"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-leighton-patina-caming.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-leighton-patina-caming.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Leighton Patina Caming",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "Two doors. Twice the charm.",
+                "copy": [
+                    "Double doors are an elegant and practical way to maximize space and sunlight. For entryways with less clearance, a fixed door can remain closed while the other door allows for entry."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-bls-404-404-s06-2-wineberry.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-bls-404-404-s06-2-wineberry.jpg"
+                        ],
+                        "alt": "Masonite BLS-404-404-S06-2 Wineberry",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-double-entry-doors.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-double-entry-doors.jpg"
+                        ],
+                        "alt": "Therma-Tru Double Entry Doors",
+                        "vendor": "thermatru"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over sidelights and transoms.",
+            "copy": "Don’t make your door do all the heavy lifting. Add sidelights and transoms to enhance your entryway’s look.",
+            "button": {
+                "text": "Next: Sidelights & Transoms",
+                "url": "/entry-doors/sidelights-transoms.html"
+            }
+        }
+    }
+}

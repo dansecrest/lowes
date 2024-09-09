@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Appearance"
+
+block head
+    +head(headData.interiorDoors.appearance)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsAppearance.hero)
+
+block content
+    +inspiration(interiorDoorsAppearance.inspiration)
+
+prepend footer
+    +next(interiorDoorsAppearance.next)

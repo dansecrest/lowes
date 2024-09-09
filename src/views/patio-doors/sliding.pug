@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Sliding"
+
+block head
+    +head(headData.patioDoors.sliding)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsSliding.hero)
+
+block content
+    +inspiration(patioDoorsSliding.inspiration)
+
+prepend footer
+    +next(patioDoorsSliding.next)

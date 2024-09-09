@@ -1,0 +1,20 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Aluminum"
+
+block head
+    +head(headData.windows.aluminum)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsAluminum.hero)
+    +intro(windowsAluminum.intro)
+
+block content
+    +inspiration(windowsAluminum.inspiration)
+
+prepend footer
+    +next(windowsAluminum.next)

@@ -1,0 +1,143 @@
+{
+    "windowsCombinations": {
+        "hero": {
+            "heading": "Combinations",
+            "copy": "You can combine different types of windows to complement a home’s overall design. Here’s how to pull off some of the most popular architectural styles.",
+            "direction": "View all of our combination windows",
+            "images": [
+                "/assets/images/windows/desktop/hero-combinations.jpg",
+                "/assets/images/windows/tablet/hero-combinations.jpg",
+                "/assets/images/windows/mobile/hero-combinations.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-nut",
+                    "copy": "You can mix and match common window shapes and sizes to create unique designs"
+                },
+                {
+                    "icon": "icon-fan",
+                    "copy": "Keep ventilation in mind when designing your window combinations."
+                },
+                {
+                    "icon": "icon-dashed-cube",
+                    "copy": "Make sure all the windows in each combination are the same depth."
+                }
+            ]
+        },
+        "inspiration": [
+            {
+                "heading": "Victorian",
+                "copy": [
+                    "This look is all about balancing bold statements with intricate details. The more ornate the better."
+                ],
+                "list": {
+                    "title": "Recommended windows:",
+                    "items": [
+                        "Arch windows",
+                        "Double-hung",
+                        "Bay",
+                        "Bow"
+                    ]
+                },
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-victorian.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-victorian.jpg"
+                        ],
+                        "alt": "Pella Victorian",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-victorian-wood-windows.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-victorian-wood-windows.jpg"
+                        ],
+                        "alt": "Jeld-Wen Victorian Wood Windows",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Modern",
+                "copy": [
+                    "Open spaces. Clean lines. Lots of natural light. It’s all about bringing the outdoors inside."
+                ],
+                "list": {
+                    "title": "Recommended windows:",
+                    "items": [
+                        "Gliding",
+                        "Picture",
+                        "Bow",
+                        "Special shapes"
+                    ]
+                },
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-modern.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-modern.jpg"
+                        ],
+                        "alt": "Jeld-Wen Modern",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-modern-patio.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-modern-patio.jpg"
+                        ],
+                        "alt": "Jeld-Wen Modern Patio",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Craftsman",
+                "copy": [
+                    "The curb appeal of a Craftsman bungalow home comes from its balanced sections of wood, brick and glass."
+                ],
+                "list": {
+                    "title": "Recommended windows:",
+                    "items": [
+                        "Single-hung",
+                        "Double-hung",
+                        "Casement",
+                        "Awning"
+                    ]
+                },
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-craftsman.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-craftsman.jpg"
+                        ],
+                        "alt": "Jeld-Wen Craftsman",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-craftsman-double-hung.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-craftsman-double-hung.jpg"
+                        ],
+                        "alt": "Jeld-Wen Craftsman Double Hung",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, the fun really starts with glass options.",
+            "copy": "We could write a book about glass options, but we’ll just show you our favorites.",
+            "button": {
+                "text": "Next: Glass options",
+                "url": "/windows/glass-options.html"
+            }
+        }
+    }
+}

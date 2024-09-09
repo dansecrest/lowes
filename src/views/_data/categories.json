@@ -1,0 +1,49 @@
+{
+    "categories": [
+        {
+            "text": "Windows",
+            "url": "/windows/",
+            "images": [
+                "/assets/images/home/desktop/windows.jpg",
+                "/assets/images/home/mobile/windows.jpg"
+            ],
+            "alt": "Windows"
+        },
+        {
+            "text": "Entry Doors",
+            "url": "/entry-doors/",
+            "images": [
+                "/assets/images/home/desktop/entry-doors.jpg",
+                "/assets/images/home/mobile/entry-doors.jpg"
+            ],
+            "alt": "Entry Doors"
+        },
+        {
+            "text": "Patio Doors",
+            "url": "/patio-doors/",
+            "images": [
+                "/assets/images/home/desktop/patio-doors.jpg",
+                "/assets/images/home/mobile/patio-doors.jpg"
+            ],
+            "alt": "Patio Doors"
+        },
+        {
+            "text": "Interior Doors",
+            "url": "/interior-doors/",
+            "images": [
+                "/assets/images/home/desktop/interior-doors.jpg",
+                "/assets/images/home/mobile/interior-doors.jpg"
+            ],
+            "alt": "Interior Doors"
+        },
+        {
+            "text": "Garage Doors",
+            "url": "/garage-doors/",
+            "images": [
+                "/assets/images/home/desktop/garage-doors.jpg",
+                "/assets/images/home/mobile/garage-doors.jpg"
+            ],
+            "alt": "Garage Doors"
+        }
+    ]
+}

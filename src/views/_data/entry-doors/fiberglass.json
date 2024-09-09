@@ -1,0 +1,92 @@
+{
+    "entryDoorsFiberglass": {
+        "hero": {
+            "heading": "Fiberglass",
+            "copy": "Fiberglass doors are low maintenance, easy to paint or stain and fare well in every kind of climate.",
+            "direction": "Why choose fiberglass?",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-fiberglass.jpg",
+                "/assets/images/entry-doors/tablet/hero-fiberglass.jpg",
+                "/assets/images/entry-doors/mobile/hero-fiberglass.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "It’s durable.",
+                "copy": [
+                    "Fiberglass will never rot, warp, crack, dent or rust, which makes its life expectancy fairly lengthy. And you’ll never have to worry about extreme temps or the elements wreaking havoc on your door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/pella-fiberglass-durable.jpg",
+                            "/assets/images/entry-doors/mobile/pella-fiberglass-durable.jpg"
+                        ],
+                        "alt": "Pella Fiberglass Durable",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-81956p-saratoga.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-81956p-saratoga.jpg"
+                        ],
+                        "alt": "Therma-Tru 81956P Saratoga",
+                        "vendor": "thermatru"
+                    }
+                }
+            },
+            {
+                "heading": "It’s low maintenance.",
+                "copy": [
+                    "Since the bulk of maintenance usually comes down to repairs, fiberglass’s durability makes maintenance rare, not regular."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-textured-fiberglass.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-textured-fiberglass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Textured Fiberglass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-textured-fiberglass-door-wyngate-glass.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-textured-fiberglass-door-wyngate-glass.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Textured Fiberglass Door Wyngate Glass",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "It’s versatile.",
+                "copy": [
+                    "Since fiberglass doors are moulded, you can choose from a wide variety of looks. Some even look like sanded wood. With a number of professionally finished colors to choose from, achieving the finished look you’re after should be a breeze."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-blt-404-450-craftsman.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-blt-404-450-craftsman.jpg"
+                        ],
+                        "alt": "Masonite BLT-404-450-Craftsman",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about wood.",
+            "copy": "Wood doors are crafted to complement your home’s architectural style and personal aesthetic.",
+            "button": {
+                "text": "Next: Wood",
+                "url": "/entry-doors/wood.html"
+            }
+        }
+    }
+}

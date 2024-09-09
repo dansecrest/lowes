@@ -1,0 +1,22 @@
+.outro {
+    @include cards-three-up(150px);
+    margin-top: rem(55px);
+    background-color: $white;
+
+    h2 {
+        margin-bottom: rem(5px);
+        padding: 0 10%;
+        font-family: $din-next-medium;
+        font-size: rem(25px);
+        text-align: center;
+    }
+
+    @include mappy-bp(large, $type: screen) {
+        margin-top: rem(110px);
+
+        h2 {
+            padding: 0 30%;
+            font-size: rem(36px);
+        }
+    }
+}

@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Design"
+    - subsection = "Windows"
+
+block head
+    +head(headData.garageDoors.windows)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsWindows.hero)
+
+block content
+    +inspiration(garageDoorsWindows.inspiration)
+
+prepend footer
+    +next(garageDoorsWindows.next)

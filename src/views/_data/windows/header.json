@@ -1,0 +1,36 @@
+{
+    "windowsHeader": {
+        "links": [
+            {
+                "text": "Type",
+                "url": "/windows/sliding.html"
+            },
+            {
+                "text": "Material",
+                "url": "/windows/vinyl.html"
+            },
+            {
+                "text": "Performance",
+                "url": "/windows/impact.html"
+            },
+            {
+                "text": "Style",
+                "url": "/windows/combinations.html"
+            }
+        ],
+        "buttons": [
+            {
+                "text": "Appointment",
+                "url": "http://www.lowes.com/cd_Window+Install_115519033_",
+                "icon": "icon-calendar",
+                "target": "_blank"
+            },
+            {
+                "text": "Your Checklist",
+                "url": "/windows/checklist.html",
+                "icon": "icon-checkmark",
+                "target": "_self"
+            }
+        ]
+    }
+}

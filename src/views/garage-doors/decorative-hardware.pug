@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Design"
+    - subsection = "Decorative Hardware"
+
+block head
+    +head(headData.garageDoors.decorativeHardware)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsDecorativeHardware.hero)
+
+block content
+    +inspiration(garageDoorsDecorativeHardware.inspiration)
+
+prepend footer
+    +next(garageDoorsDecorativeHardware.next)

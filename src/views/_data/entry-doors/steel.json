@@ -1,0 +1,75 @@
+{
+    "entryDoorsSteel": {
+        "hero": {
+            "heading": "Steel",
+            "copy": "Steel doors are known for being strong, low maintenance and energy efficient.",
+            "direction": "Why choose steel?",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-steel.jpg",
+                "/assets/images/entry-doors/tablet/hero-steel.jpg",
+                "/assets/images/entry-doors/mobile/hero-steel.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "It’s energy efficient.",
+                "copy": [
+                    "Steel doors have energy-efficient foam core insulation and are fully weather stripped by the manufacturer."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-painted-steel-entry-door-decorative-glass.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-painted-steel-entry-door-decorative-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel Entry Door Decorative Glass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-steel-door-hampton-glass-platinum.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-steel-door-hampton-glass-platinum.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Steel Door Hampton Glass Platinum",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "It’s low maintenance.",
+                "copy": [
+                    "Steel is resistant to shrinking, swelling and warping. Its tough construction can withstand years of extreme weather conditions with minimum maintenance."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-steel-cut-away.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-steel-cut-away.jpg"
+                        ],
+                        "alt": "Jeld-Wen Steel Cut Away",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-painted-steel-all-panel-entry-door.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-painted-steel-all-panel-entry-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel All Panel Entry Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about your entry door’s performance.",
+            "copy": "There’s more to your door than just good looks. It can reduce your energy costs, drown out street noise, and more.",
+            "button": {
+                "text": "Next: Performance",
+                "url": "/entry-doors/energy-efficiency.html"
+            }
+        }
+    }
+}

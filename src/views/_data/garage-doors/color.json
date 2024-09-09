@@ -1,0 +1,110 @@
+{
+    "garageDoorsColor": {
+        "hero": {
+            "heading": "Color",
+            "copy": "The perfect garage door color can put the finishing touch on your home. Your color options will vary depending on your material and style.",
+            "direction": "See the benefits of painting color",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-color.jpg",
+                "/assets/images/garage-doors/tablet/hero-color.jpg",
+                "/assets/images/garage-doors/mobile/hero-color.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Steel",
+                "copy": [
+                    "Steel doors go through a five-step finishing process, giving them four layers of protection. A wide selection of colors are available for steel doors, from white to wood grain and even two-tone paint combinations."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-steel-material-full.jpg",
+                            "/assets/images/garage-doors/mobile/pella-steel-material-full.jpg"
+                        ],
+                        "alt": "Pella Steel Material Full",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Aluminum",
+                "copy": [
+                    "Aluminum frames come in a variety of colors that can really make your house pop."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-aluminum-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-aluminum-garage-door.jpg"
+                        ],
+                        "alt": "Pella Aluminum Garage Door",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Wood",
+                "copy": [
+                    "Wood doors come unfinished and need to be painted or stained once they’re installed."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-stained-wood-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-stained-wood-garage-door.jpg"
+                        ],
+                        "alt": "Pella Stained Wood Garage Door",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Vinyl",
+                "copy": [
+                    "Vinyl comes in UV-resistant white but can be easily painted over in any color."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-vinyl-top-windows.jpg",
+                            "/assets/images/garage-doors/mobile/pella-vinyl-top-windows.jpg"
+                        ],
+                        "alt": "Pella Vinyl Top Windows",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "DIY color tip:",
+                "copy": [
+                    "If you’d like to paint your garage door, be sure to use exterior latex paint. Note: painting your garage door will void your manufacturing paint & finish warranty."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wood-garage-door-painted-sm.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wood-garage-door-painted.jpg"
+                        ],
+                        "alt": "Pella Wood Garage Door Painted",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your decorative hardware options.",
+            "copy": "Adding decorative hardware is an easy and affordable way to spruce up your carriage house garage door.",
+            "button": {
+                "text": "Next: Decorative Hardware",
+                "url": "/garage-doors/decorative-hardware.html"
+            }
+        }
+    }
+}

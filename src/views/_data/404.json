@@ -1,0 +1,15 @@
+{
+    "error": {
+        "hero": {
+            "logo": true,
+            "heading": "Hmm…there’s nothing here.",
+            "copy": "Hey, when one door closes, another one opens, right? Try something else.",
+            "images": [
+                "/assets/images/home/desktop/hero.jpg",
+                "/assets/images/home/tablet/hero.jpg",
+                "/assets/images/home/mobile/hero.jpg"
+            ],
+            "alt": ""
+        }
+    }
+}

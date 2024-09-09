@@ -1,0 +1,19 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Hinged"
+
+block head
+    +head(headData.windows.hinged)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsHinged.hero)
+
+block content
+    +inspiration(windowsHinged.inspiration)
+
+prepend footer
+    +next(windowsHinged.next)

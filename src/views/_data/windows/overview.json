@@ -1,0 +1,98 @@
+{
+    "windowsOverview": {
+        "hero": {
+            "heading": "Windows Checklist",
+            "copy": "We’ll level with you. Shopping for windows can be overwhelming, especially if it’s your first time – or first time in a while. We’re here to help make it easy.",
+            "button": {
+                "text": "Get Started",
+                "url": "/windows/sliding.html"
+            },
+            "direction": "How to shop for windows",
+            "images": [
+                "/assets/images/windows/desktop/hero-overview.jpg",
+                "/assets/images/windows/tablet/hero-overview.jpg",
+                "/assets/images/windows/mobile/hero-overview.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-house",
+                    "title": "Start with the basics.",
+                    "copy": "Shopping for windows can be overwhelming. This guide breaks down technical terms like “low-E” and “laminated.”"
+                },
+                {
+                    "icon": "icon-checkmark-hollow",
+                    "title": "Make your own checklist.",
+                    "copy": "As you’re learning about your window options, feel free to use our checklist to keep track of things you’d like to discuss with a pro."
+                },
+                {
+                    "icon": "icon-vest",
+                    "title": "When you’re ready, talk to us.",
+                    "copy": "We’ve got window experts ready to help you in the Windows aisle. Or you can even schedule a free in-home consultation."
+                }
+            ],
+            "button": {
+                "url": "/windows/sliding.html",
+                "text": "Get started"
+            }
+        },
+        "inspiration": [
+            {
+                "prehead": "The Install: Professional vs DIY",
+                "heading": "Consider Going Pro",
+                "copy": [
+                    "Skip the hassle of needing to accurately measure your windows.",
+                    "You don’t have to worry about accidentally voiding your warranty.",
+                    "A pro will clean up the mess and dispose of your old window."
+                ],
+                "button": {
+                    "url": "http://www.lowes.com/cd_Window+Install_115519033_",
+                    "text": "Schedule an appointment",
+                    "target": "_blank"
+                },
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-single-hung-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-single-hung-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Single Hung Window",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "outro": {
+            "anchor": "measurements",
+            "heading": "If you choose to go DIY, here's how to measure your window.",
+            "cards": [
+                {
+                    "icon": "icon-width-windows",
+                    "title": "Width",
+                    "copy": "You’re going to measure the jambs at three points: the top, middle and bottom of the window opening. Start by measuring from the surface of the jambs, not the trim strips or parting beads in your window opening. Use the smallest of these three measurements to order your new window."
+                },
+                {
+                    "icon": "icon-height-windows",
+                    "title": "Height",
+                    "copy": "Next, measure from the top inside surface of the sill of your window opening. Then make three measurements: one at the left side, the center and the right side of the window. Use the smallest of these three height measurements to order your new window."
+                },
+                {
+                    "icon": "icon-depth-windows",
+                    "title": "Depth",
+                    "copy": "When you’re measuring depth, just ignore any pulleys or parting strips, since they'll be removed later. There needs to be at least 3 1/4 inches of opening depth between the inside window trim and the outside blind stop strip. This is so there’s enough room for the replacement window."
+                }
+            ]
+        },
+        "next": {
+            "heading": "Learn about our different types of windows.",
+            "copy": "Some windows open sideways. Some don’t open at all. Some are big and some are small.",
+            "button": {
+                "text": "Get Started",
+                "url": "/windows/sliding.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "patioDoorsFolding": {
+        "hero": {
+            "heading": "Folding",
+            "copy": "These doors are designed for large openings and fold away neatly to blur the line between indoors and outdoors.",
+            "direction": "Take a closer look at folding patio doors",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-folding.jpg",
+                "/assets/images/patio-doors/tablet/hero-folding.jpg",
+                "/assets/images/patio-doors/mobile/hero-folding.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Double",
+                "copy": [
+                    "Double folding doors fold away nicely to make space for furniture and foot traffic. You can fold both doors away to the same side of the doorway or fold one to each side."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-w-4500-wood-2-panel-folding-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-w-4500-wood-2-panel-folding-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen W-4500 Wood 2-Panel Folding Patio Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Multi",
+                "copy": [
+                    "The more panels you have, the more natural light fills your indoor space. These can even fold around 90 degree corners to maximize the width of your patio opening."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-w-4500-wood-folding-patio-doors.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-w-4500-wood-folding-patio-doors.jpg"
+                        ],
+                        "alt": "Jeld-Wen W-4500 Wood Folding Patio Doors",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-w-4500-4-panel-exterior-view-closed.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-w-4500-4-panel-exterior-view-closed.jpg"
+                        ],
+                        "alt": "Jeld-Wen W-4500 4-Panel Exterior View Closed",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your sliding patio door options.",
+            "copy": "These low-maintenance, easy-to-open, space-saving doors won’t interfere with your feng shui.",
+            "button": {
+                "text": "Next: Sliding",
+                "url": "/patio-doors/sliding.html"
+            }
+        }
+    }
+}

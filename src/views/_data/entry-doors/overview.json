@@ -1,0 +1,88 @@
+{
+    "entryDoorsOverview": {
+        "hero": {
+            "heading": "Entry Doors Checklist",
+            "copy": "Your entry door is an extension of your home and hospitality. We designed this guide to help you find the right one. There’s even a handy checklist here for you to fill out and bring into a store when you’re ready to shop.",
+            "direction": "Here’s how to shop for entry doors",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-overview.jpg",
+                "/assets/images/entry-doors/tablet/hero-overview.jpg",
+                "/assets/images/entry-doors/mobile/hero-overview.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-house",
+                    "title": "Start with the basics.",
+                    "copy": "Not sure where to begin? By the end of this guide, you should be able to walk into a Lowe’s store with an idea of what you want."
+                },
+                {
+                    "icon": "icon-checkmark-hollow",
+                    "title": "Make your own checklist.",
+                    "copy": "As you’re learning about entry doors, use our checklist to keep track of things you’d like to discuss with a Lowe’s specialist."
+                },
+                {
+                    "icon": "icon-vest",
+                    "title": "When you’re ready, talk to us.",
+                    "copy": "We’ve got entry door experts ready to help you in the Doors aisle. We can give you an installation quote while you’re there."
+                }
+            ],
+            "button": {
+                "url": "/entry-doors/single.html",
+                "text": "Get started"
+            }
+        },
+        "inspiration": [
+            {
+                "heading": "Consider going pro.",
+                "copy": [
+                    "Skip the hassle of needing to accurately measure your entry door.",
+                    "You don’t have to worry about accidentally voiding your warranty.",
+                    "A pro will clean up the mess and dispose of your old door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-entry-door-transom-sidelights.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-entry-door-transom-sidelights.jpg"
+                        ],
+                        "alt": "Masonite Entry Door Transom Sidelights",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "outro": {
+            "anchor": "measurements",
+            "heading": "If you go DIY, here’s how to measure your entry door.",
+            "cards": [
+                {
+                    "icon": "icon-width-entry-interior",
+                    "title": "Width",
+                    "copy": "Measure the distance between the edge of one side of the door to the edge of the other side of the door."
+                },
+                {
+                    "icon": "icon-height-entry-interior",
+                    "title": "Height",
+                    "copy": "Next, measure the distance between the top edge of the door to the bottom edge of the door. Don’t include any weatherproofing or sealing on the bottom of the door."
+                },
+                {
+                    "icon": "icon-depth-entry-interior",
+                    "title": "Depth",
+                    "copy": "Measure the width of the frame, from edge to edge, across the existing door frame. Ignore any door trim."
+                }
+            ]
+        },
+        "next": {
+            "heading": "Learn about our different types of entry doors.",
+            "copy": "How your entry door functions is just as important as its style. Consider how much room you need when it opens, and how much light you want to shine through.",
+            "button": {
+                "text": "Next: Type",
+                "url": "/entry-doors/single.html"
+            }
+        }
+    }
+}

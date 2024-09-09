@@ -1,0 +1,67 @@
+{
+    "windowsSafety": {
+        "hero": {
+            "heading": "Safety",
+            "copy": "Because it’s always better to be prepared, and up to code.",
+            "direction": "What are your window safety must-haves?",
+            "images": [
+                "/assets/images/windows/desktop/hero-safety.jpg",
+                "/assets/images/windows/tablet/hero-safety.jpg",
+                "/assets/images/windows/mobile/hero-safety.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Tempered",
+                "copy": [
+                    "Tempered glass is almost 5x stronger than normal glass. That’s why a lot of people like to have tempered glass windows in areas where people frequently hang out at home. Also, some building codes require you to have tempered glass."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-tempered-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-tempered-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Tempered Window",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Window opening control device",
+                "copy": [
+                    "The same way a child safety lock can control a door’s ability to open, window opening control devices can prevent accidental falls and other hazards by limiting how far a window can be opened. Some building codes require these, too."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-window-opening-control-device.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-window-opening-control-device.jpg"
+                        ],
+                        "alt": "Jeld-Wen Window Opening Control Device",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-wood-window-opening-control-device.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-wood-window-opening-control-device.jpg"
+                        ],
+                        "alt": "Jeld-wen Wood Window Opening Control Device",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, learn all about energy efficiency.",
+            "copy": "New windows can cut down on your carbon footprint and your energy bill.",
+            "button": {
+                "text": "Next: Energy efficiency",
+                "url": "/windows/energy-efficiency.html"
+            }
+        }
+    }
+}

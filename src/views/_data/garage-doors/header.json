@@ -1,0 +1,30 @@
+{
+    "garageDoorsHeader": {
+        "links": [
+            {
+                "text": "Material",
+                "url": "/garage-doors/steel.html"
+            },
+            {
+                "text": "Style",
+                "url": "/garage-doors/classic.html"
+            },
+            {
+                "text": "Design",
+                "url": "/garage-doors/windows.html"
+            },
+            {
+                "text": "Performance",
+                "url": "/garage-doors/energy-efficiency.html"
+            }
+        ],
+        "buttons": [
+            {
+                "text": "Your Checklist",
+                "url": "/garage-doors/checklist.html",
+                "icon": "icon-checkmark",
+                "target": "_self"
+            }
+        ]
+    }
+}

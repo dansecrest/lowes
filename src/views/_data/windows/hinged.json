@@ -1,0 +1,75 @@
+{
+    "windowsHinged": {
+        "hero": {
+            "heading": "Hinged",
+            "copy": "For rooms that need extra ventilation, these are your best option.",
+            "direction": "View all of our hinged windows",
+            "images": [
+                "/assets/images/windows/desktop/hero-hinged.jpg",
+                "/assets/images/windows/tablet/hero-hinged.jpg",
+                "/assets/images/windows/mobile/hero-hinged.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Casement",
+                "copy": [
+                    "These are hinged on one side and pivot out at the other end for ventilation. Think of them like mini-doors. Some even have hand-cranks that make them even easier to open."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-wood-casement-window.jpg",
+                            "/assets/images/windows/mobile/pella-wood-casement-window.jpg"
+                        ],
+                        "alt": "Pella Wood Casement Window",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-wood-casement-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-wood-casement-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Wood Casement Window",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Awning",
+                "copy": [
+                    "Since these are hinged at the top and open outward, they’ll keep the rain out when they’re open during an afternoon shower."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-awning-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-awning-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Awning Window",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-awning-window.jpg",
+                            "/assets/images/windows/mobile/pella-awning-window.jpg"
+                        ],
+                        "alt": "Pella Awning Window",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your specialty window options.",
+            "copy": "Add character to your home with windows that stand out.",
+            "button": {
+                "text": "Next: Specialty",
+                "url": "/windows/specialty.html"
+            }
+        }
+    }
+}

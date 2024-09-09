@@ -1,0 +1,134 @@
+{
+    "patioDoorsAppearance": {
+        "hero": {
+            "heading": "Appearance",
+            "copy": "From the frame to the finish, your patio door can be customized to reflect your personal style.",
+            "direction": "Consider how style affects your door’s appearance",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-appearance.jpg",
+                "/assets/images/patio-doors/tablet/hero-appearance.jpg",
+                "/assets/images/patio-doors/mobile/hero-appearance.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Frame",
+                "copy": [
+                    "To complete your patio door’s look, you can add trim or a customized casing pattern for a bold and refined look."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-df-21-fbg-fir-panel-detail.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-df-21-fbg-fir-panel-detail.jpg"
+                        ],
+                        "alt": "Jeld-Wen DF-21-FBG Fir Panel Detail",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-dm-20-fbg-mahogany-panel-detail.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-dm-20-fbg-mahogany-panel-detail.jpg"
+                        ],
+                        "alt": "Jeld-Wen DM-20-FBG Mahogany Panel Detail",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Panel design",
+                "copy": [
+                    "Do you want a traditional panel design, like French doors? Or a more contemporary design? How will the panels complement the frame material? Will they be flat or raised to match existing molding?"
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-8-lite-simulated-divided-lite-with-low-e-glass.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-8-lite-simulated-divided-lite-with-low-e-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen 8-lite Simulated Divided Lite with Low-E glass",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Color",
+                "copy": [
+                    "Your color options will vary based on your frame material. Generally, darker colors absorb heat while lighter colors reflect heat. It might be something to consider if you live in an area with extreme temps."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-wineberry-oak-grain-4in.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-wineberry-oak-grain-4in.jpg"
+                        ],
+                        "alt": "Jeld-Wen Wineberry Oak Grain 4in",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-evergreen-smooth.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-evergreen-smooth.jpg"
+                        ],
+                        "alt": "Jeld-Wen Evergreen Smooth",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Texture",
+                "copy": [
+                    "Want your patio to set a precedent for modern minimalists? Opt for smooth metal textures. Want your patio to have that old-world charm? The distressed wood look should set the tone."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-do-27-fbg-oak-panel-detail.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-do-27-fbg-oak-panel-detail.jpg"
+                        ],
+                        "alt": "Jeld-Wen DO-27-FBG Oak Panel Detail",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-oak-crest-oak-grain-4in.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-oak-crest-oak-grain-4in.jpg"
+                        ],
+                        "alt": "Jeld-Wen Oak Crest Oak Grain 4in",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Protective finishes",
+                "copy": [
+                    "Some exterior door frames come with a protective finish already. These finishes make maintenance a breeze and help prevent fading and rusting. Pre-primed options are also available for do-it-yourself painting or staining."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-painted-steel-swinging-patio-door-finish.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-painted-steel-swinging-patio-door-finish.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel Swinging Patio Door Finish",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over a few finishing touches.",
+            "copy": "Don’t treat these details as afterthoughts. This is where style and function collide.",
+            "button": {
+                "text": "Next: Finishing Touches",
+                "url": "/patio-doors/finishing-touches.html"
+            }
+        }
+    }
+}

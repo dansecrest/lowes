@@ -1,0 +1,20 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Vinyl"
+
+block head
+    +head(headData.windows.vinyl)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsVinyl.hero)
+    +intro(windowsVinyl.intro)
+
+block content
+    +inspiration(windowsVinyl.inspiration)
+
+prepend footer
+    +next(windowsVinyl.next)

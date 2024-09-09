@@ -1,0 +1,63 @@
+{
+    "windowsFiberglass": {
+        "hero": {
+            "heading": "Fiberglass",
+            "copy": "These cutting-edge windows are known for their longevity, durability and energy-efficiency.",
+            "direction": "Why choose fiberglass windows?",
+            "images": [
+                "/assets/images/windows/desktop/hero-fiberglass.jpg",
+                "/assets/images/windows/tablet/hero-fiberglass.jpg",
+                "/assets/images/windows/mobile/hero-fiberglass.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-thermometer",
+                    "copy": "They’ll keep your room temperatures even and can help you lower your energy bill."
+                },
+                {
+                    "icon": "icon-snowflake",
+                    "copy": "They’re incredibly strong and can handle all kinds of weather. And they don’t need a lot of maintenance."
+                },
+                {
+                    "icon": "icon-window",
+                    "copy": "They last longer than vinyl windows because fiberglass doesn’t expand or contract as much. This makes for a stronger seal."
+                }
+            ]
+        },
+        "inspiration": [
+            {
+                "heading": "Fiberglass windows are built to impress.",
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-fiberglass-window.jpg",
+                            "/assets/images/windows/mobile/pella-fiberglass-window.jpg"
+                        ],
+                        "alt": "Pella Fiberglass Window",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-im-fiberglass-window-cob.jpg",
+                            "/assets/images/windows/mobile/pella-im-fiberglass-window-cob.jpg"
+                        ],
+                        "alt": "Pella IM Fiberglass Window COB",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next up, let’s talk clad-wood and wood.",
+            "copy": "With clad-wood, you can enjoy the character of wood and the energy-efficiency of vinyl, fiberglass or aluminum.",
+            "button": {
+                "text": "Next: Clad-wood & Wood",
+                "url": "/windows/clad-wood.html"
+            }
+        }
+    }
+}

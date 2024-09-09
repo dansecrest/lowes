@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Specialty"
+
+block head
+    +head(headData.interiorDoors.specialty)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsSpecialty.hero)
+
+block content
+    +inspiration(interiorDoorsSpecialty.inspiration)
+
+prepend footer
+    +next(interiorDoorsSpecialty.next)

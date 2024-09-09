@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Clad-wood"
+
+block head
+    +head(headData.patioDoors.cladWood)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsCladWood.hero)
+
+block content
+    +inspiration(patioDoorsCladWood.inspiration)
+
+prepend footer
+    +next(patioDoorsCladWood.next)

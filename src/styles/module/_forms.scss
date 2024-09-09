@@ -1,0 +1,54 @@
+button, .button {
+    display: inline-block;
+    min-width: rem(200px);
+    width: 100%;
+    padding: rem(20px) rem(30px) rem(18px);
+    font-family: $din-next-medium;
+    font-size: rem(14px);
+    color: $white;
+    text-align: center;
+    text-transform: uppercase;
+
+    &.transparent {
+        border: 1px solid rgba($white, 0.4);
+    }
+
+    &.light {
+        color: $blue-dark;
+        background-color: $white;
+    }
+
+    &.blue {
+        background-color: $blue-dark;
+    }
+
+    &.dark {
+        background-color: rgba($black, 0.3);
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        width: auto;
+        font-size: rem(16px);
+        transition: background-color 0.5s, border-color 0.5s;
+
+        &:hover {
+            opacity: 1;
+        }
+
+        &.transparent:hover {
+            border-color: $white;
+        }
+
+        &.light:hover {
+            background-color: rgba($white, 0.85);
+        }
+
+        &.blue:hover {
+            background-color: $blue-lowes;
+        }
+
+        &.dark:hover {
+            background-color: rgba($black, 0.2);
+        }
+    }
+}

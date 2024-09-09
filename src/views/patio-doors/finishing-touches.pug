@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Finishing Touches"
+
+block head
+    +head(headData.patioDoors.finishingTouches)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsFinishingTouches.hero)
+
+block content
+    +inspiration(patioDoorsFinishingTouches.inspiration)
+
+prepend footer
+    +next(patioDoorsFinishingTouches.next)

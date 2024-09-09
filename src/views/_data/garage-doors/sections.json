@@ -1,0 +1,164 @@
+{
+    "garageDoorsSections": [
+        {
+            "title": "Material",
+            "question": "What types of garage door materials are you interested in?",
+            "icon": "icon-material",
+            "checklist": [
+                {
+                    "id": "garage-material1",
+                    "name": "Steel"
+                },
+                {
+                    "id": "garage-material2",
+                    "name": "Aluminum"
+                },
+                {
+                    "id": "garage-material3",
+                    "name": "Wood"
+                },
+                {
+                    "id": "garage-material4",
+                    "name": "Vinyl"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Steel",
+                    "url": "/garage-doors/steel.html"
+                },
+                {
+                    "text": "Aluminum",
+                    "url": "/garage-doors/aluminum.html"
+                },
+                {
+                    "text": "Wood",
+                    "url": "/garage-doors/wood.html"
+                },
+                {
+                    "text": "Vinyl",
+                    "url": "/garage-doors/vinyl.html"
+                }
+            ]
+        },
+        {
+            "title": "Style",
+            "question": "What style of garage door are you considering?",
+            "icon": "icon-type-garage",
+            "checklist": [
+                {
+                    "id": "garage-style1",
+                    "name": "Classic"
+                },
+                {
+                    "id": "garage-style2",
+                    "name": "Carriage House"
+                },
+                {
+                    "id": "garage-style3",
+                    "name": "Contemporary"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Classic",
+                    "url": "/garage-doors/classic.html"
+                },
+                {
+                    "text": "Carriage House",
+                    "url": "/garage-doors/carriage-house.html"
+                },
+                {
+                    "text": "Contemporary",
+                    "url": "/garage-doors/contemporary.html"
+                }
+            ]
+        },
+        {
+            "title": "Design",
+            "question": "Which design elements are important to you?",
+            "icon": "icon-design",
+            "checklist": [
+                {
+                    "id": "garage-design1",
+                    "name": "Windows"
+                },
+                {
+                    "id": "garage-design2",
+                    "name": "Decorative Glass"
+                },
+                {
+                    "id": "garage-design3",
+                    "name": "Decorative Grilles"
+                },
+                {
+                    "id": "garage-design4",
+                    "name": "Paint Colors & Finishes"
+                },
+                {
+                    "id": "garage-design5",
+                    "name": "Decorative Hardware"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Windows",
+                    "url": "/garage-doors/windows.html"
+                },
+                {
+                    "text": "Color",
+                    "url": "/garage-doors/color.html"
+                },
+                {
+                    "text": "Decorative Hardware",
+                    "url": "/garage-doors/decorative-hardware.html"
+                }
+            ]
+        },
+        {
+            "title": "Performance",
+            "question": "What are your performance must-haves?",
+            "icon": "icon-performance",
+            "checklist": [
+                {
+                    "id": "garage-performance1",
+                    "name": "Energy Efficiency"
+                },
+                {
+                    "id": "garage-performance2",
+                    "name": "Quiet Operation"
+                },
+                {
+                    "id": "garage-performance3",
+                    "name": "Opening System"
+                },
+                {
+                    "id": "garage-performance4",
+                    "name": "Pinch Protection"
+                },
+                {
+                    "id": "garage-performance5",
+                    "name": "Wind Load"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Energy Efficiency",
+                    "url": "/garage-doors/energy-efficiency.html"
+                },
+                {
+                    "text": "Quiet Operation",
+                    "url": "/garage-doors/quiet-operation.html"
+                },
+                {
+                    "text": "Safety",
+                    "url": "/garage-doors/safety.html"
+                },
+                {
+                    "text": "Wind Load",
+                    "url": "/garage-doors/wind-load.html"
+                }
+            ]
+        }
+    ]
+}

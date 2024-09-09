@@ -1,0 +1,45 @@
+.error {
+    background-color: $blue-dark;
+
+    .hero {
+        .container {
+            padding: 0 5%;
+        }
+
+        h1 {
+            font-size: rem(25px);
+        }
+    }
+
+    main {
+        margin: 0;
+    }
+
+    #back-to-top {
+        display: none;
+    }
+
+    @include mappy-bp(small) {
+        .hero {
+            h1 {
+                font-size: rem(57px);
+            }
+        }
+
+        footer {
+            padding-top: 0;
+        }
+    }
+
+    @include mappy-bp(large) {
+        .hero {
+            h1 {
+                font-size: rem(75px);
+            }
+        }
+
+        footer {
+            padding-top: 0;
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "interiorDoorsNoiseCancelling": {
+        "hero": {
+            "heading": "Noise Cancelling",
+            "copy": "When it comes to creating a quiet home atmosphere, it’s what’s on the inside (of your doors) that counts.",
+            "direction": "Terms to keep in mind while you shop",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-noise-cancelling.jpg",
+                "/assets/images/interior-doors/tablet/hero-noise-cancelling.jpg",
+                "/assets/images/interior-doors/mobile/hero-noise-cancelling.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Hollow Core",
+                "copy": [
+                    "Spoiler alert: hollow core doors aren’t hollow inside. They’re actually filled with a corrugated honeycomb recycled material. This filler makes them lightweight, light on your wallet...but light on noise cancelling."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-hollow-core-sand-piper.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-hollow-core-sand-piper.jpg"
+                        ],
+                        "alt": "Masonite Hollow Core Sand Piper",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Solid Core",
+                "copy": [
+                    "Solid core doors feel heavy in your hand, like solid wood. They’re filled with a low-density eco-friendly material that reduces sound transmission by 50 percent."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-solid-core-barn-red.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-solid-core-barn-red.jpg"
+                        ],
+                        "alt": "Masonite Solid Core Barn Red",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s go over your environmentally friendly options.",
+            "copy": "Make sure your interior doors have a positive impact on the environment, both inside and outside your home.",
+            "button": {
+                "text": "Next: Environmentally Friendly Options",
+                "url": "/interior-doors/environmentally-friendly-options.html"
+            }
+        }
+    }
+}

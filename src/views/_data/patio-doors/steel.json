@@ -1,0 +1,67 @@
+{
+    "patioDoorsSteel": {
+        "hero": {
+            "heading": "Steel",
+            "copy": "Steel is great if you’re looking for a modern metal door that’s as easy on the eyes as it is to maintain.",
+            "direction": "Why choose steel?",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-steel.jpg",
+                "/assets/images/patio-doors/tablet/hero-steel.jpg",
+                "/assets/images/patio-doors/mobile/hero-steel.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "It won’t warp or rot.",
+                "copy": [
+                    "Unlike wood, steel is mostly weather-resistant. And it’s typically less costly and less work to maintain."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-steel-swinging-patio-door-blinds-between-glass.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-steel-swinging-patio-door-blinds-between-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Steel Swinging Patio Door Blinds Between Glass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-steel-swinging-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-steel-swinging-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Steel Swinging Patio Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "It’s great at insulating.",
+                "copy": [
+                    "Steel patio doors have insulated cores and therefore tend to be more energy efficient."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-steel-swinging-patio-door-deco.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-steel-swinging-patio-door-deco.jpg"
+                        ],
+                        "alt": "Jeld-Wen Steel Swinging Patio Door Deco",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next up, let’s look at your performance options.",
+            "copy": "There’s more to your patio door than just good looks. It can reduce your energy costs, drown out street noise, and more.",
+            "button": {
+                "text": "Next: Performance ",
+                "url": "/patio-doors/energy-efficiency.html"
+            }
+        }
+    }
+}

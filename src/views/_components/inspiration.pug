@@ -1,0 +1,51 @@
+//- +inspiration
+    Creates an inspiration block
+
+mixin inspiration(data)
+    each item in data
+        section.inspiration
+            .flex-container
+                .image-container
+                    if item.images.small.image[0]
+                        picture
+                            source(srcset= item.images.small.image[0], media="(min-width: 767px)")
+                            img(srcset= item.images.small.image[1], alt= item.images.small.alt)
+                    else
+                        picture
+                            source(srcset="http://placehold.it/1200x1348", media="(min-width: 767px)")
+                            img(srcset="http://placehold.it/600x427", alt= item.images.small.alt)
+                    if item.images.small.vendor
+                        .caption
+                            i(class= "icon-logo-" + item.images.small.vendor)
+                .content
+                    if item.prehead
+                        span.prehead= item.prehead
+                    if item.heading
+                        h2= item.heading
+                    if item.copy
+                        for paragraph in item.copy
+                            p= paragraph
+                    if item.list
+                        span.list-title= item.list.title
+                        ul
+                            for entry in item.list.items
+                                li= entry
+                    if item.link
+                        a(href= item.link.url, target= item.link.target).link-blue= item.link.text
+                    if item.button
+                        a(href= item.button.url target= item.button.target).button.blue= item.button.text
+                    if item.disclaimer
+                        span.disclaimer *Product availability varies upon region.
+            if item.images.large
+                .image-container
+                    if item.images.large.image[0]
+                        picture
+                            source(srcset= item.images.large.image[0], media="(min-width: 767px)")
+                            img(srcset= item.images.large.image[1], alt= item.images.large.alt)
+                    else
+                        picture
+                            source(srcset="http://placehold.it/2400x1348", media="(min-width: 767px)")
+                            img(srcset="http://placehold.it/600x427", alt= item.images.large.alt)
+                    if item.images.large.vendor
+                        .caption
+                            i(class= "icon-logo-" + item.images.large.vendor)

@@ -1,0 +1,23 @@
+//- +hero
+    Creates the page hero
+
+mixin hero(data)
+    section.hero
+        picture
+            source(srcset= data.images[0], media="(min-width: 1026px)")
+            source(srcset= data.images[1], media="(min-width: 767px)")
+            img(srcset= data.images[2], alt= data.alt)
+        .overlay
+        .container
+            .content
+                if data.logo
+                    .logo
+                        img(src="/assets/images/logo-lowes.png", alt="Lowe's Home Improvement")
+                h1= data.heading
+                p= data.copy
+                if data.button
+                    a(href= data.button.url).button.blue= data.button.text
+        if data.direction
+            .direction
+                span= data.direction
+                i.icon-arrow

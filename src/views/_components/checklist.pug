@@ -1,0 +1,24 @@
+//- +checklist
+    Creates a checklist
+
+mixin checklist(data)
+    each section in data
+        section
+            i(class= section.icon)
+            h2= section.title
+            hr
+            .content
+                p= section.question
+                each option in section.checklist
+                    .option
+                        input(id= option.id, name= option.id, value= option.name, type="checkbox")
+                        label(for= option.id)
+                            .checkbox
+                                .circle
+                                    span.icon-check
+                                    img(src="/assets/images/icon-check.png").print
+                            .text= option.name
+            .link
+                a(href= section.links[0].url)
+                    i.icon-arrow-left
+                    span Back to #{section.title}

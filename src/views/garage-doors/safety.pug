@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Performance"
+    - subsection = "Safety"
+
+block head
+    +head(headData.garageDoors.safety)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsSafety.hero)
+
+block content
+    +inspiration(garageDoorsSafety.inspiration)
+
+prepend footer
+    +next(garageDoorsSafety.next)

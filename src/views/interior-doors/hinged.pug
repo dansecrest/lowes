@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Hinged"
+
+block head
+    +head(headData.interiorDoors.hinged)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsHinged.hero)
+
+block content
+    +inspiration(interiorDoorsHinged.inspiration)
+
+prepend footer
+    +next(interiorDoorsHinged.next)

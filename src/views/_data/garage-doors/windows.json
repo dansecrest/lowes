@@ -1,0 +1,67 @@
+{
+    "garageDoorsWindows": {
+        "hero": {
+            "heading": "Windows",
+            "copy": "Without windows, your garage can be dark and dreary. Adding windows can really brighten up the space.",
+            "direction": "Add another layer of sophistication with windows.",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-windows.jpg",
+                "/assets/images/garage-doors/tablet/hero-windows.jpg",
+                "/assets/images/garage-doors/mobile/hero-windows.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Decorative Glass",
+                "copy": [
+                    "Textured glass offers minimal visibility into your garage. Tempered glass with baked on ceramic design resists yellowing, fading and peeling."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-garage-windows-decorative-glass.jpg",
+                            "/assets/images/garage-doors/mobile/pella-garage-windows-decorative-glass.jpg"
+                        ],
+                        "alt": "Pella Garage Windows Decorative Glass",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-decorative-glass.jpg",
+                            "/assets/images/garage-doors/mobile/pella-decorative-glass.jpg"
+                        ],
+                        "alt": "Pella Decorative Glass",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Decorative Grilles",
+                "copy": [
+                    "The most affordable option, grilles, can be easily removed and changed at anytime. All grilles are UV fade-resistant with a realistic-looking embossed wood grain finish."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-garage-windows-decorative-grilles.jpg",
+                            "/assets/images/garage-doors/mobile/pella-garage-windows-decorative-grilles.jpg"
+                        ],
+                        "alt": "Pella Garage Windows Decorative Grilles",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, start thinking about your color scheme.",
+            "copy": "The perfect garage door color can put the finishing touch on your home’s look.",
+            "button": {
+                "text": "Next: Color",
+                "url": "/garage-doors/color.html"
+            }
+        }
+    }
+}

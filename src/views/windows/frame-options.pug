@@ -1,0 +1,19 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Frame Options"
+
+block head
+    +head(headData.windows.frameOptions)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsFrameOptions.hero)
+
+block content
+    +inspiration(windowsFrameOptions.inspiration)
+
+prepend footer
+    +next(windowsFrameOptions.next)

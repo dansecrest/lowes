@@ -1,0 +1,19 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Clad-wood & Wood"
+
+block head
+    +head(headData.windows.cladWood)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsCladWood.hero)
+
+block content
+    +inspiration(windowsCladWood.inspiration)
+
+prepend footer
+    +next(windowsCladWood.next)

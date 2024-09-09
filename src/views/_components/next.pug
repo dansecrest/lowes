@@ -1,0 +1,27 @@
+//- +next
+    Creates the section next
+
+mixin next(data)
+    section.next
+        .container
+            h2= data.heading
+            if bodyClass !== "checklist"
+                p= data.copy
+                a(href= data.button.url).button.light= data.button.text
+            else
+                .step
+                    h4 Step 1.
+                    h3 Print your checklist.
+                    form(action="")#email-form
+                        //-fieldset
+                            input(id="email" name="email", placeholder="Enter your email...", type="text")
+                        //-.send
+                            button(type="submit").dark Send
+                        button(type="button")#print.dark Print Checklist
+                .step
+                    h4 Step 2.
+                    h3 Let's chat.
+                    a(href="http://www.lowes.com/store/", target="_blank").button.transparent Store Locator
+                    if data.action
+                        a(href= data.action.url, target="_blank").button.transparent= data.action.text
+                    a(href="http://www.lowes.com/c/Windows-doors", target="_blank").button.transparent Lowe's Windows & Doors

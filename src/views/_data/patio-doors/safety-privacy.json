@@ -1,0 +1,76 @@
+{
+    "patioDoorsSafetyPrivacy": {
+        "hero": {
+            "heading": "Safety & Privacy",
+            "copy": "From dead bolts to blinds, you don’t ever have to second guess your patio door’s security.",
+            "direction": "These features will help you rest easy.",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-safety-privacy.jpg",
+                "/assets/images/patio-doors/tablet/hero-safety-privacy.jpg",
+                "/assets/images/patio-doors/mobile/hero-safety-privacy.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Multi-point hardware",
+                "copy": [
+                    "For peace of mind, you can install a secure handle and multiple locks at the top, bottom, and middle of your door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-multipoint-lock-1.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-multipoint-lock-1.jpg"
+                        ],
+                        "alt": "Jeld-Wen Multipoint-Lock 1",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Dead bolts and foot bolts",
+                "copy": [
+                    "The standard in security is the deadbolt. A foot bolt is great if you’d like to crack open your door but keep it from opening all the way. You need a key to unlock a deadbolt, whereas foot bolts can be unlocked from inside."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-multi-point-lock-detail.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-multi-point-lock-detail.jpg"
+                        ],
+                        "alt": "Jeld-Wen Multi-point lock detail",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Remote control blinds and shades",
+                "copy": [
+                    "Blinds can be either manual or remote controlled. You can even have sensors installed that notify you via your smartphone whenever your patio door is open."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-remote-blinds.jpg",
+                            "/assets/images/patio-doors/mobile/pella-remote-blinds.jpg"
+                        ],
+                        "alt": "Pella Remote Blinds",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Before you head into a store, let’s make a checklist.",
+            "copy": "Get your ideas down while they’re fresh. Then shopping will be a breeze.",
+            "button": {
+                "text": "Next: Checklist ",
+                "url": "/patio-doors/checklist.html"
+            }
+        }
+    }
+}

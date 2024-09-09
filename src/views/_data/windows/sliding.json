@@ -1,0 +1,100 @@
+{
+    "windowsSliding": {
+        "hero": {
+            "heading": "Sliding",
+            "copy": "These are easy to open and give you good ventilation and open horizontally or vertically.",
+            "direction": "View all of our sliding windows",
+            "images": [
+                "/assets/images/windows/desktop/hero-sliding.jpg",
+                "/assets/images/windows/tablet/hero-sliding.jpg",
+                "/assets/images/windows/mobile/hero-sliding.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Single-hung",
+                "copy": [
+                    "If only one panel of glass moves up and down, we call that a single-hung window. It doesn’t provide as much ventilation as a double-hung, but if you have multiple single-hungs in a room, you get a nice cross-breeze."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-single-hung-window-vertical.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-single-hung-window-vertical.jpg"
+                        ],
+                        "alt": "Jeld-Wen Single Hung Window Vertical",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-ts-sh-fix.jpg",
+                            "/assets/images/windows/mobile/pella-ts-sh-fix.jpg"
+                        ],
+                        "alt": "Pella TS SH Fix",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Double-hung",
+                "copy": [
+                    "If both panels of glass move up and down, we call that double-hung. They’re easier to to clean than single-hung and give better ventilation since hot air goes out the top panel and cool air comes in through the bottom panel."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-wood-double-hung-window.jpg",
+                            "/assets/images/windows/mobile/pella-wood-double-hung-window.jpg"
+                        ],
+                        "alt": "Pella Wood Double-Hung Window",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-vinyl-double-hung-window.jpg",
+                            "/assets/images/windows/mobile/pella-vinyl-double-hung-window.jpg"
+                        ],
+                        "alt": "Pella Vinyl Double-Hung Window",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Horizontal Sliding",
+                "copy": [
+                    "If your window is in an area where sliding a window open vertically might be a challenge, try a horizontal sliding window."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-vinyl-sliding-window.jpg",
+                            "/assets/images/windows/mobile/pella-vinyl-sliding-window.jpg"
+                        ],
+                        "alt": "Pella Vinyl Sliding Window",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-fiberglass-sliding-window.jpg",
+                            "/assets/images/windows/mobile/pella-fiberglass-sliding-window.jpg"
+                        ],
+                        "alt": "Pella Fiberglass Sliding Window",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s take a look at your hinged window options.",
+            "copy": "For rooms that need extra ventilation, hinged windows are your best option.",
+            "button": {
+                "text": "Next: Hinged",
+                "url": "/windows/hinged.html"
+            }
+        }
+    }
+}

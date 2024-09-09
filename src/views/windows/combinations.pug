@@ -1,0 +1,20 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Combinations"
+
+block head
+    +head(headData.windows.combinations)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsCombinations.hero)
+    +intro(windowsCombinations.intro)
+
+block content
+    +inspiration(windowsCombinations.inspiration)
+
+prepend footer
+    +next(windowsCombinations.next)

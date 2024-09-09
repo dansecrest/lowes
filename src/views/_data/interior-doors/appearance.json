@@ -1,0 +1,84 @@
+{
+    "interiorDoorsAppearance": {
+        "hero": {
+            "heading": "Appearance",
+            "copy": "From the frame to the finish, your interior doors can be customized to reflect your personal style.",
+            "direction": "Consider your interior door’s appearance",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-appearance.jpg",
+                "/assets/images/interior-doors/tablet/hero-appearance.jpg",
+                "/assets/images/interior-doors/mobile/hero-appearance.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Color",
+                "copy": [
+                    "Find color options that complement your home’s design—and your personal style. It’s up to you whether you’d like your doors to blend into the wall or stand out."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-bathroom-door-driftwood.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-bathroom-door-driftwood.jpg"
+                        ],
+                        "alt": "Masonite Bathroom Door Driftwood",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Frame",
+                "copy": [
+                    "Match your home’s architectural style with the perfect door trim. A variety of casings (visible frames) and corner blocks (carved blocks in upper corners) can be carefully fashioned as part of a comprehensive pre-hanging package."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-sand-piper-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-sand-piper-interior-door.jpg"
+                        ],
+                        "alt": "Masonite Sand Piper Interior Door",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Privacy Options",
+                "copy": [
+                    "Your glass selection not only affects your privacy needs, it can bring dimension, contrast and more light into your space."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-moda-with-obscure-glass.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-moda-with-obscure-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Moda with obscure glass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-lws-fr-1l-el-dorado-pine.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-lws-fr-1l-el-dorado-pine.jpg"
+                        ],
+                        "alt": "Masonite LWS-FR-1L El-Dorado Pine",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over some finishing touches.",
+            "copy": "Don’t treat these details as afterthoughts. This is where style and function collide.",
+            "button": {
+                "text": "Next: Finishing Touches",
+                "url": "/interior-doors/finishing-touches.html"
+            }
+        }
+    }
+}

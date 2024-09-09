@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Steel"
+
+block head
+    +head(headData.patioDoors.steel)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsSteel.hero)
+
+block content
+    +inspiration(patioDoorsSteel.inspiration)
+
+prepend footer
+    +next(patioDoorsSteel.next)

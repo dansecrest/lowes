@@ -1,0 +1,93 @@
+{
+    "garageDoorsEnergyEfficiency": {
+        "hero": {
+            "heading": "Energy Efficiency",
+            "copy": "Do you want your garage to be well insulated? It all comes down to the door construction.",
+            "direction": "How construction layers affect energy efficiency",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-energy-efficiency.jpg",
+                "/assets/images/garage-doors/tablet/hero-energy-efficiency.jpg",
+                "/assets/images/garage-doors/mobile/hero-energy-efficiency.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Construction layers",
+                "copy": [
+                    "The more construction layers your door has and the thicker it is, the greater the R-value will be which can help maintain your garage’s temperature. This is important if the garage is attached to your home or used as a living space."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-construction-aluminum.jpg",
+                            "/assets/images/garage-doors/mobile/pella-construction-aluminum.jpg"
+                        ],
+                        "alt": "Pella Construction Aluminum",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "1-layer",
+                "copy": [
+                    "Steel with no insulation. Since there is no insulation layer, there’s no R-value."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-one-layer-energy-efficiency.jpg",
+                            "/assets/images/garage-doors/mobile/pella-one-layer-energy-efficiency.jpg"
+                        ],
+                        "alt": "Pella One Layer Energy Efficiency",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "2-layer",
+                "copy": [
+                    "For a more insulated, quieter garage, your base layer is steel, plus you have a layer of insulation. Good R-values."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-two-layer-energy-efficiency.jpg",
+                            "/assets/images/garage-doors/mobile/pella-two-layer-energy-efficiency.jpg"
+                        ],
+                        "alt": "Pella Two Layer Energy Efficiency",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "3-layer",
+                "copy": [
+                    "This is the toughest, most energy-efficient option with the best noise reduction. Steel exterior plus insulation and an interior layer of steel. Best R-value."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-three-layer-energy-efficiency.jpg",
+                            "/assets/images/garage-doors/mobile/pella-three-layer-energy-efficiency.jpg"
+                        ],
+                        "alt": "Pella Three Layer Energy Efficiency",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk about how to make your garage door quieter.",
+            "copy": "Because you don’t have to settle for a loud garage door.",
+            "button": {
+                "text": "Next: Quiet Operation",
+                "url": "/garage-doors/quiet-operation.html"
+            }
+        }
+    }
+}

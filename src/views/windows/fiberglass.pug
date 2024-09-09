@@ -1,0 +1,20 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Fiberglass"
+
+block head
+    +head(headData.windows.fiberglass)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsFiberglass.hero)
+    +intro(windowsFiberglass.intro)
+
+block content
+    +inspiration(windowsFiberglass.inspiration)
+
+prepend footer
+    +next(windowsFiberglass.next)

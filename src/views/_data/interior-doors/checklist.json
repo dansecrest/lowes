@@ -1,0 +1,42 @@
+{
+    "interiorDoorsChecklist": {
+        "hero": {
+            "heading": "Your Checklist",
+            "copy": "Here's a checklist of things to consider before heading into a store. Fill it out, print it, make notes on it and take it with you.",
+            "direction": "Tell us about your project",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-checklist.jpg",
+                "/assets/images/interior-doors/tablet/hero-checklist.jpg",
+                "/assets/images/interior-doors/mobile/hero-checklist.jpg"
+            ],
+            "alt": ""
+        },
+        "instruction": [
+            {
+                "title": "Pro Install",
+                "icon": "icon-hammer",
+                "content": [
+                    "A professional will accurately measure your interior doors for you.",
+                    "You don't have to worry about accidentally voiding your warranty.",
+                    "We'll clean up the mess and dispose of your old interior doors for you."
+                ]
+            },
+            {
+                "title": "Measurements",
+                "icon": "icon-measurements",
+                "content": [
+                    "Doing it yourself? You can add your interior door sizes below.",
+                    "We recommend taking photos of your interior doors and bringing them along. Selfies are welcome."
+                ],
+                "link": {
+                    "text": "How to measure your interior doors",
+                    "url": "/interior-doors#measurements",
+                    "target": "_self"
+                }
+            }
+        ],
+        "next" : {
+            "heading": "Ready to talk interior doors? So are we."
+        }
+    }
+}

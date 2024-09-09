@@ -1,0 +1,25 @@
+extends ../_layouts/windows.pug
+
+include ../_components/checklist.pug
+include ../_components/instruction.pug
+
+append variables
+    - bodyClass = "checklist"
+
+block head
+    +head(headData.windows.checklist)
+        script.
+            window.addEventListener('load', function() {
+                checklist.init();
+            });
+
+prepend container
+    +hero(windowsChecklist.hero)
+
+block content
+    .options
+        +checklist(windowsSections)
+        +instruction(windowsChecklist.instruction)
+
+prepend footer
+    +next(windowsChecklist.next)

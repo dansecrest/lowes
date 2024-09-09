@@ -1,0 +1,19 @@
+extends ../_layouts/entry-doors.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Double"
+
+block head
+    +head(headData.entryDoors.double)
+
+prepend container
+    +subnav(entryDoorsSections)
+    +subnav(entryDoorsSections, true)
+    +hero(entryDoorsDouble.hero)
+
+block content
+    +inspiration(entryDoorsDouble.inspiration)
+
+prepend footer
+    +next(entryDoorsDouble.next)

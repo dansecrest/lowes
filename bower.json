@@ -1,0 +1,17 @@
+{
+    "name": "lowes-doors-and-windows",
+    "version": "1.0.0",
+    "description": "",
+    "authors": [
+        "Dan Secrest",
+        "Nathan Schmidt"
+    ],
+    "ignore": [],
+    "dependencies": {
+        "jquery": "~2.2.3",
+        "jquery-validation": "~1.15.0",
+        "mappy-breakpoints": "~0.1.2",
+        "picturefill": "^3.0.2"
+    },
+    "private": true
+}

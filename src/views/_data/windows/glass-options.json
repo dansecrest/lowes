@@ -1,0 +1,150 @@
+{
+    "windowsGlassOptions": {
+        "hero": {
+            "heading": "Glass Options",
+            "copy": "We could write a book just about glass options, but instead we’ll just show you some of our favorites.",
+            "direction": "Grille type & patterns",
+            "images": [
+                "/assets/images/windows/desktop/hero-glass-options.jpg",
+                "/assets/images/windows/tablet/hero-glass-options.jpg",
+                "/assets/images/windows/mobile/hero-glass-options.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-grid",
+                    "copy": "Grilles come in varying widths and materials."
+                },
+                {
+                    "icon": "icon-squirt-bottle",
+                    "copy": "Exterior grilles offer a more traditional look while interior grills are low maintenance and easy to clean."
+                },
+                {
+                    "icon": "icon-ruler-pencil",
+                    "copy": "You can choose from existing patterns or create your own design."
+                }
+            ]
+        },
+        "inspiration": [
+            {
+                "heading": "Tinted",
+                "copy": [
+                    "These days there are tinted glass and even glass adhesive films that block harsh UV rays and sun glare. You can have your pick of hues like bronze, platinum, silver and blue."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-bronze-tinted-glass.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-bronze-tinted-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Bronze Tinted Glass",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Beveled",
+                "copy": [
+                    "If your window is the focal point in a room, beveled glass is a great way to elevate your space. You can keep it simple or create a true work of art inside your window frame."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-beveled-glass.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-beveled-glass.jpg"
+                        ],
+                        "alt": "jeld-wen-beveled-glass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-beveled-glass-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-beveled-glass-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Beveled Glass",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Obscured",
+                "copy": [
+                    "If you’d like natural light to fill a room but maintain your privacy, like, say, in a bathroom, we recommend choosing obscured glass."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-obscure-textured-glass.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-obscure-textured-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Obscure Textured Glass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-aluminum-double-hung-obscure-textured.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-aluminum-double-hung-obscure-textured.jpg"
+                        ],
+                        "alt": "Jeld-Wen Aluminum Double Hung Obscure Textured",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Textured",
+                "copy": [
+                    "Add natural light, privacy and personality with textured glass. It’s a nice detail that can create a striking focal point in a room. You can even mix and match multiple textures on a single pane."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-textured-rain-glass.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-textured-rain-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Textured Rain Glass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-vinyl-single-hung-textured-rain-glass.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-vinyl-single-hung-textured-rain-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Vinyl Single-Hung Textured Rain Glass",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "outro": {
+            "heading": "Here are a few popular grille patterns:",
+            "cards": [
+                {
+                    "icon": "icon-grille-colonial",
+                    "title": "Colonial"
+                },
+                {
+                    "icon": "icon-grille-diamond",
+                    "title": "Diamond"
+                },
+                {
+                    "icon": "icon-grille-prairie",
+                    "title": "Prairie"
+                }
+            ]
+        },
+        "next": {
+            "heading": "Now let’s take a look at your frame options.",
+            "copy": "From super sleek to over-the-top, don’t underestimate how impactful window frames can be.",
+            "button": {
+                "text": "Next: Frame options",
+                "url": "/windows/frame-options.html"
+            }
+        }
+    }
+}

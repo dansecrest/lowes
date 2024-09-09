@@ -1,0 +1,67 @@
+{
+    "garageDoorsDecorativeHardware": {
+        "hero": {
+            "heading": "Decorative Hardware",
+            "copy": "Adding decorative hardware is an easy and affordable way to improve the authentic look of your carriage house garage door.",
+            "direction": "Why consider adding on decorative hardware?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-decorative-hardware.jpg",
+                "/assets/images/garage-doors/tablet/hero-decorative-hardware.jpg",
+                "/assets/images/garage-doors/mobile/hero-decorative-hardware.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Finishing Touch",
+                "copy": [
+                    "Lightweight aluminum hardware simulates historic hammered wrought iron. You can also choose vinyl or stamped steel hardware."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-decorative-hardware.jpg",
+                            "/assets/images/garage-doors/mobile/pella-decorative-hardware.jpg"
+                        ],
+                        "alt": "Pella Decorative Hardware",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Easy to Install",
+                "copy": [
+                    "Decorative hardware is easy to install on your new or existing garage door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-carriage-house-sutherland.jpg",
+                            "/assets/images/garage-doors/mobile/pella-carriage-house-sutherland.jpg"
+                        ],
+                        "alt": "Pella Carriage House Sutherland",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-carriage-house-steel-decorative-hardware.jpg",
+                            "/assets/images/garage-doors/mobile/pella-carriage-house-steel-decorative-hardware.jpg"
+                        ],
+                        "alt": "Pella Carriage House Steel Decorative Hardware",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your performance must-haves.",
+            "copy": "Do you want your garage to be well insulated, quiet and safe? It all comes down to the door construction.",
+            "button": {
+                "text": "Next: Performance",
+                "url": "/garage-doors/energy-efficiency.html"
+            }
+        }
+    }
+}

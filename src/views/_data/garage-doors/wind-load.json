@@ -1,0 +1,58 @@
+{
+    "garageDoorsWindLoad": {
+        "hero": {
+            "heading": "Wind Load",
+            "copy": "Your garage door is usually the largest opening in your home and the most vulnerable to damage during severe weather.",
+            "direction": "Why does wind load matter?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-wind-load.jpg",
+                "/assets/images/garage-doors/tablet/hero-wind-load.jpg",
+                "/assets/images/garage-doors/mobile/hero-wind-load.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Make sure you’re ready for Mother Nature.",
+                "copy": [
+                    "Wind load doors are built to handle hurricane-level winds. If you live in a coastal area, your local building code requires that you have one."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wind-load-hurricane.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wind-load-hurricane.jpg"
+                        ],
+                        "alt": "Pella Wind Load Hurricane"
+                    }
+                }
+            },
+            {
+                "heading": "Not all wind load doors are created equal.",
+                "copy": [
+                    "The best way to find your area’s wind load requirements is to reach out to a local building code official. Even if you’re a hundred miles inland, you might be surprised to see how strict your wind load code is."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wind-load-building-code.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wind-load-building-code.jpg"
+                        ],
+                        "alt": "Pella Wind Load Building Code",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, take a minute to create your checklist.",
+            "copy": "While your ideas are still fresh, why not jot down a checklist to bring into a store?",
+            "button": {
+                "text": "Next: Checklist",
+                "url": "/garage-doors/checklist.html"
+            }
+        }
+    }
+}

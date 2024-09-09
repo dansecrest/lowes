@@ -1,0 +1,84 @@
+{
+    "garageDoorsVinyl": {
+        "hero": {
+            "heading": "Vinyl",
+            "copy": "These rust-resistant garage doors are ideal for homes near coastal areas.",
+            "direction": "Why choose a vinyl garage door?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-vinyl.jpg",
+                "/assets/images/garage-doors/tablet/hero-vinyl.jpg",
+                "/assets/images/garage-doors/mobile/hero-vinyl.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "It’s rust-resistant.",
+                "copy": [
+                    "Vinyl garage doors are built with vinyl facing and edges on each section which seals out weather elements and won’t fade or rust."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-coralville-hatteras-design.jpg",
+                            "/assets/images/garage-doors/mobile/pella-coralville-hatteras-design.jpg"
+                        ],
+                        "alt": "Pella Coralville Hatteras Design",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "It’s extremely durable.",
+                "copy": [
+                    "The type of vinyl used in garage doors is incredibly resilient and low maintenance."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-vinyl-top-windows.jpg",
+                            "/assets/images/garage-doors/mobile/pella-vinyl-top-windows.jpg"
+                        ],
+                        "alt": "Pella Vinyl Top Windows",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "It’s low maintenance.",
+                "copy": [
+                    "You’ll spend more time admiring your weather-resistant vinyl door than worrying about rust or damage from salt-spray environments."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-coralville-monterrey-design.jpg",
+                            "/assets/images/garage-doors/mobile/pella-coralville-monterrey-design.jpg"
+                        ],
+                        "alt": "Pella Coralville Monterrey Design",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-coralville-hatteras.jpg",
+                            "/assets/images/garage-doors/mobile/pella-coralville-hatteras.jpg"
+                        ],
+                        "alt": "Pella Coralville Hatteras",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your style options.",
+            "copy": "When we talk about style, we’re talking about designs that match the architecture of your home and individual style.",
+            "button": {
+                "text": "Next: Style",
+                "url": "/garage-doors/classic.html"
+            }
+        }
+    }
+}

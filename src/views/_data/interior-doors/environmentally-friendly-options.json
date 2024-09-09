@@ -1,0 +1,59 @@
+{
+    "interiorDoorsEnvironmentallyFriendly": {
+        "hero": {
+            "heading": "Environmentally Friendly Options",
+            "copy": "Make sure your interior doors have a positive impact on the environment, both inside and outside your home.",
+            "direction": "Things to look for while you shop",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-environmentally-friendly-options.jpg",
+                "/assets/images/interior-doors/tablet/hero-environmentally-friendly-options.jpg",
+                "/assets/images/interior-doors/mobile/hero-environmentally-friendly-options.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Sustainable materials",
+                "copy": [
+                    "Whether you’re drawn to solid wood or composite doors, each material has environmentally-friendly options. For example, knotty pine wood is rapidly renewable, and most composite doors are made from recycled materials."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-rustic-barndoor-sustainable.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-rustic-barndoor-sustainable.jpg"
+                        ],
+                        "alt": "Masonite Rustic Barndoor Sustainable",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Low emissions",
+                "copy": [
+                    "A new door should be a breath of fresh air. It shouldn’t make your air hazardous. Look for doors made with low emission sealants and without added formaldehyde."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-low-emissions-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-low-emissions-interior-door.jpg"
+                        ],
+                        "alt": "Masonite Low Emissions Interior Door",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s look at safety considerations.",
+            "copy": "Hopefully you never have to worry about a fire in your home, but it’s always better to be prepared.",
+            "button": {
+                "text": "Next: Safety",
+                "url": "/interior-doors/safety.html"
+            }
+        }
+    }
+}

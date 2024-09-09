@@ -1,0 +1,93 @@
+{
+    "patioDoorsGlass": {
+        "hero": {
+            "heading": "Glass",
+            "copy": "Elevate your space with handcrafted decorative patio door glass that adds texture, privacy and personality.",
+            "direction": "Picture your patio with these glass options",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-glass.jpg",
+                "/assets/images/patio-doors/tablet/hero-glass.jpg",
+                "/assets/images/patio-doors/mobile/hero-glass.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Decorative glass",
+                "copy": [
+                    "Unexpected glass details, like beveling, can enhance your patio’s atmosphere. The design you choose creates depth, contrast, and can add a certain amount of privacy."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-painted-steel-swinging-patio-door-with-deco-glass.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-painted-steel-swinging-patio-door-with-deco-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel Swinging Patio Door with Deco Glass",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Clear vs. textured",
+                "copy": [
+                    "Clear glass is great when you have a stellar view from your patio. If your view comes second to privacy, glass textures like rain glass and granite glass add distinction and distortion."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-painted-steel-swinging-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-painted-steel-swinging-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel Swinging Patio Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Privacy rating",
+                "copy": [
+                    "The higher the privacy rating the more privacy the glass offers. Zero means it’s transparent. Ten is the most opaque option, blurring the view  from outside to give you more privacy."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-privacy-ratings.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-privacy-ratings.jpg"
+                        ],
+                        "alt": "Jeld-Wen Privacy-Ratings",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Grilles",
+                "copy": [
+                    "Low-maintenance internal grilles add a nice design element, while external grilles have a more substantial, traditional look. Removable grilles offer easy snap-on, snap-off versatility."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-10-lite-double-doors-with-clear-transom.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-10-lite-double-doors-with-clear-transom.jpg"
+                        ],
+                        "alt": "Jeld-Wen 10-Lite Double Doors with Clear Transom",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk more about your patio door’s appearance.",
+            "copy": "From the frame to the finish, your patio door can be customized to reflect your personal style.",
+            "button": {
+                "text": "Next: Appearance",
+                "url": "/patio-doors/appearance.html"
+            }
+        }
+    }
+}

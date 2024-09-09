@@ -1,0 +1,84 @@
+{
+    "patioDoorsHinged": {
+        "hero": {
+            "heading": "Hinged",
+            "copy": "These open like other doors in your home since they pivot out from one side, allowing for a wide open doorway.",
+            "direction": "View all of our hinged patio doors",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-hinged.jpg",
+                "/assets/images/patio-doors/tablet/hero-hinged.jpg",
+                "/assets/images/patio-doors/mobile/hero-hinged.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Single",
+                "copy": [
+                    "A single hinged door adds ventilation and blends in well with other exterior doors in most traditional homes."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-15-lite-fullview-beauty-image.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-15-lite-fullview-beauty-image.jpg"
+                        ],
+                        "alt": "Jeld-Wen 15-Lite Fullview Beauty Image",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Double",
+                "copy": [
+                    "Also called French doors, double hinged doors are a great way to add a bit of drama and more sunlight to a room."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-painted-steel-swinging-double-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-painted-steel-swinging-double-patio-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel Swinging Double Patio Door",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-10-lite-double-doors.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-10-lite-double-doors.jpg"
+                        ],
+                        "alt": "Jeld-Wen 10-lite Double Doors",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Something to consider.",
+                "copy": [
+                    "Whether your patio door swings in or out, make sure that no furniture will prevent it from opening all the way."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-painted-steel-swinging-patio-door-deco-glass.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-painted-steel-swinging-patio-door-deco-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Steel Swinging Patio Door Deco Glass",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s take a look at your folding patio door options.",
+            "copy": "If wide open space is what you’re after, a folding door system will open your room up to the great outdoors.",
+            "button": {
+                "text": "Next: Folding",
+                "url": "/patio-doors/folding.html"
+            }
+        }
+    }
+}

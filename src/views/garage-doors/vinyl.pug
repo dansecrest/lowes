@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Vinyl"
+
+block head
+    +head(headData.garageDoors.vinyl)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsVinyl.hero)
+
+block content
+    +inspiration(garageDoorsVinyl.inspiration)
+
+prepend footer
+    +next(garageDoorsVinyl.next)

@@ -1,0 +1,158 @@
+.home {
+    padding-top: 0;
+
+    main {
+        z-index: 1;
+    }
+
+    .tiles {
+        margin-top: rem(20px);
+        padding-bottom: rem(20px);
+    }
+
+    .tile {
+        display: block;
+        position: relative;
+        margin-bottom: rem(10px);
+    }
+
+    picture img {
+        width: 100%;
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    h2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        font-family: $din-next-medium;
+        font-size: rem(38px);
+        color: $white;
+        letter-spacing: rem(-1px);
+        text-align: center;
+    }
+
+    .find {
+        background-color: $blue-lowes;
+    }
+
+    @include mappy-bp(0 small, $type: screen) {
+        main {
+            margin: 0;
+        }
+
+        .hero h1 {
+            font-size: rem(32px);
+        }
+
+        .find {
+            h2 {
+                position: static;
+                padding: rem(30px) 0 rem(40px);
+                font-size: rem(26px);
+
+                i {
+                    margin-bottom: rem(30px);
+                    font-size: rem(100px);
+                }
+
+                br {
+                    display: none;
+                }
+            }
+        }
+
+        .copyright {
+            margin-top: rem(30px);
+        }
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        padding-top: 0;
+
+        .tiles {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0;
+            padding: 0;
+        }
+
+        .tile {
+            margin-bottom: rem(25px);
+
+            &:hover {
+                opacity: 1;
+
+                .overlay {
+                    background-color: rgba($black, 0);
+                }
+            }
+        }
+
+        .overlay {
+            background-color: rgba($black, 0.2);
+            transition: background-color 0.5s;
+        }
+
+        h2 {
+            padding: 0 22%;
+            font-size: rem(55px);
+            letter-spacing: rem(-2px);
+            line-height: 0.9;
+        }
+
+        .find {
+            h2 {
+                font-size: rem(36px);
+                line-height: 1;
+
+                i {
+                    margin-bottom: rem(20px);
+                    font-size: rem(70px);
+                }
+            }
+        }
+
+        footer {
+            padding-top: rem(90px);
+        }
+    }
+
+    @include mappy-bp(small medium, $type: screen) {
+        .hero h1 {
+            font-size: rem(80px);
+        }
+
+        .tile {
+            width: 48%;
+            margin-right: 4%;
+
+            &:nth-child(2n) {
+                margin-right: 0;
+            }
+        }
+    }
+
+    @include mappy-bp(medium, $type: screen) {
+        .tile {
+            width: 32%;
+            margin-right: 2%;
+
+            &:nth-child(3n) {
+                margin-right: 0;
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Classic"
+
+block head
+    +head(headData.garageDoors.classic)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsClassic.hero)
+
+block content
+    +inspiration(garageDoorsClassic.inspiration)
+
+prepend footer
+    +next(garageDoorsClassic.next)

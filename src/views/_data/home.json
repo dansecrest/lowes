@@ -1,0 +1,16 @@
+{
+    "home": {
+        "hero": {
+            "logo": true,
+            "heading": "Windows & Doors Checklists",
+            "copy": "Updating your windows or doors? We can help you learn the basics and put together a checklist. Then when you’re ready, come talk to us at a store.",
+            "direction": "What do you want to learn about?",
+            "images": [
+                "/assets/images/home/desktop/hero.jpg",
+                "/assets/images/home/tablet/hero.jpg",
+                "/assets/images/home/mobile/hero.jpg"
+            ],
+            "alt": ""
+        }
+    }
+}

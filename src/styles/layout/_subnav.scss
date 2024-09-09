@@ -1,0 +1,185 @@
+.subnav {
+    font-family: $din-next-medium;
+    font-size: rem(17px);
+    color: $white;
+    text-align: center;
+    background-color: $blue-lowes;
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: rem(225px);
+        padding: 0 5%;
+        overflow: hidden;
+    }
+
+    .question {
+        padding-bottom: rem(25px);
+    }
+
+    .links {
+        display: flex;
+        flex-direction: column;
+
+        a {
+            min-width: 0;
+            font-family: $din-next-bold;
+            color: $white;
+            text-decoration: none;
+            text-transform: uppercase;
+
+            &:last-child {
+                padding-bottom: 0;
+            }
+
+            &.selected {
+                color: $blue-teal;
+            }
+        }
+    }
+
+    &.condensed {
+        position: fixed;
+        z-index: 999;
+        top: rem(-440px);
+        width: 100%;
+        height: rem(320px);
+        transition: all 1s;
+
+        &.show {
+            top: rem(-210px);
+        }
+
+        &.open {
+            top: 0;
+
+            #subnav-toggle {
+                span {
+                    display: none;
+                }
+
+                .icon-arrow-up {
+                    &::before {
+                        transform: rotate(0deg);
+                    }
+                }
+            }
+        }
+
+        .container {
+            height: 100%;
+            padding-top: rem(60px);
+            padding-bottom: rem(30px);
+        }
+
+        #subnav-toggle {
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: rem(50px);
+
+            span {
+                margin-right: rem(5px);
+                font-family: $din-next-bold;
+                text-transform: uppercase;
+            }
+
+            .icon-arrow-up {
+                float: right;
+
+                &::before {
+                    transform: rotate(180deg);
+                }
+            }
+        }
+    }
+
+    @include mappy-bp(0 small, $type: screen) {
+        .links a {
+            padding: 0 0 rem(15px);
+            font-size: rem(17px);
+            border: none;
+        }
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        .question {
+            padding-bottom: rem(40px);
+            font-size: rem(24px);
+        }
+
+        .links {
+            flex-direction: row;
+            justify-content: center;
+
+            a {
+                display: flex;
+                flex: 1;
+                align-items: center;
+                justify-content: center;
+                height: rem(77px);
+                margin: 0 rem(10px);
+                padding: 0 rem(10px);
+
+                &:first-child {
+                    margin-left: 0;
+                }
+
+                &:last-child {
+                    margin-right: 0;
+                }
+
+                &.selected {
+                    color: $white;
+                    background-color: $blue-teal;
+                    border-color: $blue-teal;
+                }
+            }
+        }
+
+        &.condensed {
+            height: rem(140px);
+
+            &.show {
+                top: 0;
+            }
+
+            &.open {
+                top: rem(200px);
+            }
+
+            .container {
+                height: rem(60px);
+                max-width: rem(750px);
+                margin-top: $header-large;
+                padding: 0;
+            }
+
+            .links {
+                margin-top: 0;
+                padding-bottom: 0;
+
+                a {
+                    height: auto;
+                    font-family: $din-next-medium;
+                    text-transform: capitalize;
+                    background-color: transparent;
+                    border: none;
+
+                    &.selected {
+                        color: $blue-teal;
+                    }
+                }
+            }
+
+            #subnav-toggle {
+                display: none;
+            }
+        }
+    }
+}

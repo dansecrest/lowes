@@ -1,0 +1,126 @@
+{
+    "entryDoorsFinishingTouches": {
+        "hero": {
+            "heading": "Finishing Touches",
+            "copy": "Don’t treat these details as afterthoughts. This is where style and function collide.",
+            "direction": "Finishing touches make a world of difference",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-finishing-touches.jpg",
+                "/assets/images/entry-doors/tablet/hero-finishing-touches.jpg",
+                "/assets/images/entry-doors/mobile/hero-finishing-touches.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "How to match your home’s style.",
+                "copy": [
+                    "Craftsman style doors often feature a shelf below the glass. Contemporary doors are all about clean lines and simple hardware. Rustic doors can have wrought iron clavos and strap hinges."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-round-clavos.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-round-clavos.jpg"
+                        ],
+                        "alt": "Jeld-Wen Round Clavos",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Hardware",
+                "copy": [
+                    "Choosing the right hardware comes down to style and function. Do you want a handle that’s sleek and understated or one that draws your eye in? Will your hinges contrast or blend with your frame? If your door has decorative glass, you could match your hardware to the caming—those metal bars that hold textured and beveled glass in place."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/pella-finishing-touches-hardware.jpg",
+                            "/assets/images/entry-doors/mobile/pella-finishing-touches-hardware.jpg"
+                        ],
+                        "alt": "Pella Finishing Touches Hardware",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-crosslines-full-lite.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-crosslines-full-lite.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Crosslines Full Lite",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "Mail slot",
+                "copy": [
+                    "Mail slots can be installed horizontally or vertically. They come in various sizes, materials and finishes. Flaps are either manually adjustable or spring-loaded."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-mail-slot.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-mail-slot.jpg"
+                        ],
+                        "alt": "Masonite Mail Slot",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Peephole",
+                "copy": [
+                    "If you’re considering a door without any glass, think about adding a peephole so you’ll always know what’s on the other side of your door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-entry-door-peephole.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-entry-door-peephole.jpg"
+                        ],
+                        "alt": "Masonite Entry Door Peephole",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Doorbell",
+                "copy": [
+                    "Doorbells come in all shapes, sizes, styles and sounds to complement your entryway. Larger homes usually require a doorbell with a louder or longer chime."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-stately-5-stone.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-stately-5-stone.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Stately 5 Stone",
+                        "vendor": "reliabilt"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-stained-aurora-custom-fiberglass-double-entry-door.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-stained-aurora-custom-fiberglass-double-entry-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Stained Aurora Custom Fiberglass Double Entry Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next up, let’s go over your material options.",
+            "copy": "When you’re considering materials, think about the level of maintenance and overall look you’re after.",
+            "button": {
+                "text": "Next: Material",
+                "url": "/entry-doors/fiberglass.html"
+            }
+        }
+    }
+}

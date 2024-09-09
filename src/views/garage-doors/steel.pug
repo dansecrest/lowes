@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Steel"
+
+block head
+    +head(headData.garageDoors.steel)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsSteel.hero)
+
+block content
+    +inspiration(garageDoorsSteel.inspiration)
+
+prepend footer
+    +next(garageDoorsSteel.next)

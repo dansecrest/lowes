@@ -1,0 +1,76 @@
+{
+    "entryDoorsDurabilityImpact": {
+        "hero": {
+            "heading": "Durability & Impact",
+            "copy": "From hurricane debris to the decibels of a passing airplane, there are ways to measure what can get through your door.",
+            "direction": "Things to consider while you shop",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-durability-impact.jpg",
+                "/assets/images/entry-doors/tablet/hero-durability-impact.jpg",
+                "/assets/images/entry-doors/mobile/hero-durability-impact.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Cancel out the noise.",
+                "copy": [
+                    "The number of panes, types of coating and layers of insulation all factor into how much noise can travel through your door. A door’s Sound Transmission Class (STC) rating tells you how many decibels make it past the threshold."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-door-noise-cancelling.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-door-noise-cancelling.jpg"
+                        ],
+                        "alt": "Therma-Tru Door Noise Cancelling",
+                        "vendor": "thermatru"
+                    }
+                }
+            },
+            {
+                "heading": "Keep your A/C inside.",
+                "copy": [
+                    "Invest in your new entryway with protective weather strips on the top and sides and a sweep at the bottom. You can also invest in a best-in-class door sill for a strong seal that keeps moisture out and your air conditioning inside."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-mhd-404-hancock.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-mhd-404-hancock.jpg"
+                        ],
+                        "alt": "Masonite MHD-404-Hancock",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Be ready for Mother Nature.",
+                "copy": [
+                    "If you live in a coastal area, your building code might require that your entry door be able to withstand impact from severe weather. Each impact-rated door, frame, and glass panel is reinforced so that damage from wind and debris is minimized."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-severe-weather.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-severe-weather.jpg"
+                        ],
+                        "alt": "Jeld-Wen Severe Weather",
+                        "vendor": ""
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now let’s take a look at your safety and security options.",
+            "copy": "From locks to fire-resistance, you don’t ever have to second guess your entry door’s security.",
+            "button": {
+                "text": "Next: Safety & Security",
+                "url": "/entry-doors/safety-security.html"
+            }
+        }
+    }
+}

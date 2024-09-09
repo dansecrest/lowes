@@ -1,0 +1,19 @@
+extends ../_layouts/interior-doors.pug
+
+append variables
+    - section = "Performance"
+    - subsection = "Environmentally Friendly Options"
+
+block head
+    +head(headData.interiorDoors.environmentallyFriendlyOptions)
+
+prepend container
+    +subnav(interiorDoorsSections)
+    +subnav(interiorDoorsSections, true)
+    +hero(interiorDoorsEnvironmentallyFriendly.hero)
+
+block content
+    +inspiration(interiorDoorsEnvironmentallyFriendly.inspiration)
+
+prepend footer
+    +next(interiorDoorsEnvironmentallyFriendly.next)

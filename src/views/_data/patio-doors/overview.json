@@ -1,0 +1,92 @@
+{
+    "patioDoorsOverview": {
+        "hero": {
+            "heading": "Patio Doors Checklist",
+            "copy": "A patio door is your family’s gateway to outdoor celebrations and relaxation. Let us help you find the right one, so you can start celebrating and relaxing sooner.",
+            "button": {
+                "text": "Get Started",
+                "url": "/patio-doors/hinged.html"
+            },
+            "direction": "How to shop for patio doors",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-overview.jpg",
+                "/assets/images/patio-doors/tablet/hero-overview.jpg",
+                "/assets/images/patio-doors/mobile/hero-overview.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-house",
+                    "title": "Start with the basics.",
+                    "copy": "Not sure where to begin? By the end of this guide you should be able to walk into a store with an idea of what you want."
+                },
+                {
+                    "icon": "icon-checkmark-hollow",
+                    "title": "Make your own checklist.",
+                    "copy": "As you’re learning about patio doors, use our checklist to keep track of things you’d like to discuss with a Lowe’s sales associate."
+                },
+                {
+                    "icon": "icon-vest",
+                    "title": "When you’re ready, talk to us.",
+                    "copy": "We’ve got patio door experts ready to help you in our store. We can give you an installation quote while you’re there."
+                }
+            ],
+            "button": {
+                "url": "/patio-doors/hinged.html",
+                "text": "Get started"
+            }
+        },
+        "inspiration": [
+            {
+                "heading": "Consider Going Pro",
+                "copy": [
+                    "Skip the hassle of needing to accurately measure your patio door and frame.",
+                    "You don’t have to worry about accidentally voiding your warranty.",
+                    "A pro will clean up the mess and dispose of your old patio door."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-sliding-patio-door.jpg",
+                            "/assets/images/patio-doors/mobile/pella-sliding-patio-door.jpg"
+                        ],
+                        "alt": "Pella Sliding Patio Door",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "outro": {
+            "anchor": "measurements",
+            "heading": "If you go DIY, here’s how to measure your patio door.",
+            "cards": [
+                {
+                    "icon": "icon-width-patio",
+                    "title": "Width",
+                    "copy": "Measure distance between the side door jambs at three points: the top, middle and bottom of the patio door opening."
+                },
+                {
+                    "icon": "icon-height-patio",
+                    "title": "Height",
+                    "copy": "Next, measure the distance between the top of the head jamb to the top of the bottom sill at three points: far left, center, and far right."
+                },
+                {
+                    "icon": "icon-depth-patio",
+                    "title": "Depth",
+                    "copy": "Measure the width of the jamb, from edge to edge, across the existing door frame. Ignore any door trim."
+                }
+            ]
+        },
+        "next": {
+            "heading": "Learn about our different types of patio doors.",
+            "copy": "When you’re thinking about your patio door type, consider the amount of sunlight and open space you have now versus the amount you’d like to have.",
+            "button": {
+                "text": "Get Started",
+                "url": "/patio-doors/hinged.html"
+            }
+        }
+    }
+}

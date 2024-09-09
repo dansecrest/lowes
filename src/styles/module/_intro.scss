@@ -1,0 +1,42 @@
+.intro {
+    @include cards-three-up(60px);
+    margin-bottom: rem(45px);
+    background-color: $gray-lighter;
+
+
+    .offset {
+        position: relative;
+        top: rem(-25px);
+    }
+
+    .button {
+        margin-top: rem(25px);
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        + main > .inspiration:first-of-type .content {
+            background-color: $white;
+
+            .overview & {
+                background-color: $gray-lighter;
+            }
+        }
+
+        .offset {
+            top: rem(-90px);
+        }
+
+        .container {
+            display: flex;
+        }
+
+        .action {
+            position: relative;
+            bottom: rem(-45px);
+        }
+
+        .button {
+            margin: 0 auto;
+        }
+    }
+}

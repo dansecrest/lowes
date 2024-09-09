@@ -1,0 +1,42 @@
+{
+    "garageDoorsContemporary": {
+        "hero": {
+            "heading": "Contemporary",
+            "copy": "If the modern industrial look is more your style, these sleek door options are the perfect match for your home’s clean lines and contemporary design.",
+            "direction": "What style of garage door do you want?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-contemporary.jpg",
+                "/assets/images/garage-doors/tablet/hero-contemporary.jpg",
+                "/assets/images/garage-doors/mobile/hero-contemporary.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Options that bring the light in.",
+                "copy": [
+                    "Contemporary garage doors offer large expanses of glass to brighten your garage. Choose how many window panels per section you prefer, and find a glass option that brings the right amount of outside light in."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-contemporary-garage-door.jpg",
+                            "/assets/images/garage-doors/mobile/pella-contemporary-garage-door.jpg"
+                        ],
+                        "alt": "Pella Contemporary Garage Door",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your design options.",
+            "copy": "From windows to unique decorative hardware, you can turn an ordinary garage door into an extraordinary one.",
+            "button": {
+                "text": "Next: Design",
+                "url": "/garage-doors/windows.html"
+            }
+        }
+    }
+}

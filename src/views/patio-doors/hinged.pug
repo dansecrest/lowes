@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Hinged"
+
+block head
+    +head(headData.patioDoors.hinged)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsHinged.hero)
+
+block content
+    +inspiration(patioDoorsHinged.inspiration)
+
+prepend footer
+    +next(patioDoorsHinged.next)

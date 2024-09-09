@@ -1,0 +1,10 @@
+extends main.pug
+
+block variables
+    - category = "windows"
+
+block header
+    +header(windowsHeader)
+
+block footer
+    +footer(windowsSections, categories)

@@ -1,0 +1,58 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+    font-size: $base-font-size;
+    color: $gray-darker;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, fieldset {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+img {
+    display: block;
+}
+
+a {
+    color: $blue-lowes;
+    text-decoration: none;
+    opacity: 1;
+    transition: opacity 0.2s;
+
+    @include mappy-bp(small, $type: screen) {
+        &:hover {
+            opacity: 0.8;
+        }
+    }
+}
+
+hr {
+    margin: 0;
+}
+
+a, button, fieldset, input, label {
+    border: none;
+    outline: none;
+}
+
+input, textarea {
+    -webkit-appearance: none;
+    border-radius: 0;
+}

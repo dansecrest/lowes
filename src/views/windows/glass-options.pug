@@ -1,0 +1,21 @@
+extends ../_layouts/windows.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Glass Options"
+
+block head
+    +head(headData.windows.glassOptions)
+
+prepend container
+    +subnav(windowsSections)
+    +subnav(windowsSections, true)
+    +hero(windowsGlassOptions.hero)
+    +intro(windowsGlassOptions.intro)
+
+block content
+    +inspiration(windowsGlassOptions.inspiration)
+    +outro(windowsGlassOptions.outro)
+
+prepend footer
+    +next(windowsGlassOptions.next)

@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Carriage House"
+
+block head
+    +head(headData.garageDoors.carriageHouse)
+
+prepend container
+    +subnav(garageDoorsSections)
+    +subnav(garageDoorsSections, true)
+    +hero(garageDoorsCarriageHouse.hero)
+
+block content
+    +inspiration(garageDoorsCarriageHouse.inspiration)
+
+prepend footer
+    +next(garageDoorsCarriageHouse.next)

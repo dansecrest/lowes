@@ -1,0 +1,59 @@
+{
+    "interiorDoorsSlidingFolding": {
+        "hero": {
+            "heading": "Sliding & Folding",
+            "copy": "If you’re looking to save space and add style, these sliding and folding doors offer form and function.",
+            "direction": "See your sliding and folding door options",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-sliding-folding.jpg",
+                "/assets/images/interior-doors/tablet/hero-sliding-folding.jpg",
+                "/assets/images/interior-doors/mobile/hero-sliding-folding.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Sliding/Bypass",
+                "copy": [
+                    "When it comes to space-saving minimalism, these doors will keep you on track. Two doors slide past each other on a quiet track system that’s easy to install."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-moda-white-pocket-hallway-door-sliding.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-moda-white-pocket-hallway-door-sliding.jpg"
+                        ],
+                        "alt": "Jeld-Wen Moda White Pocket Hallway Door Sliding",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Bi-fold closet",
+                "copy": [
+                    "Perfect for closets, laundry rooms and any room that’s subtly tucked away, these narrow doors fold up on a track when open, using less space than a traditional hinged door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-bifold-closet-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-bifold-closet-door.jpg"
+                        ],
+                        "alt": "Masonite Bifold Closet Door",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over specialty doors.",
+            "copy": "These distinctive, space-saving door types are a great way to give your place a little character.",
+            "button": {
+                "text": "Next: Specialty",
+                "url": "/interior-doors/specialty.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "entryDoorsGlass": {
+        "hero": {
+            "heading": "Glass",
+            "copy": "Elevate your entryway with handcrafted decorative glass that adds texture, privacy and personality.",
+            "direction": "Picture your entry door with these glass options",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-glass.jpg",
+                "/assets/images/entry-doors/tablet/hero-glass.jpg",
+                "/assets/images/entry-doors/mobile/hero-glass.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Decorative glass and caming",
+                "copy": [
+                    "Decorative glass can complement your home’s architecture and add to your curb appeal. When you’re deciding on a glass design, consider the caming, those metal bars that hold textured and beveled glass in place."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-park-hill-x-oakcrest.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-park-hill-x-oakcrest.jpg"
+                        ],
+                        "alt": "Masonite Park Hill X Oakcrest",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-sonora-morelite-patina-caming.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-sonora-morelite-patina-caming.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Sonora Morelite Patina Caming",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "Clear vs. textured",
+                "copy": [
+                    "Clear glass is great when you have an amazing view. If your view comes second to privacy, textured glass options like rain glass and granite glass add character and privacy."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-clear-glass-painted-full-lite-steel-entry-door.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-clear-glass-painted-full-lite-steel-entry-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Clear Glass Painted Full Lite Steel Entry Door",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/pella-craftsman-entry-door.jpg",
+                            "/assets/images/entry-doors/mobile/pella-craftsman-entry-door.jpg"
+                        ],
+                        "alt": "Pella Craftsman Entry Door",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Privacy rating",
+                "copy": [
+                    "The higher the privacy rating the more privacy the glass offers. Zero means it’s completely transparent. Ten means it’s opaque."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-fiberglass-entry-door-clear-glass-double-sidelites.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-fiberglass-entry-door-clear-glass-double-sidelites.jpg"
+                        ],
+                        "alt": "Jeld-Wen Fiberglass Entry Door Clear Glass Double Sidelites",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-entry-natural-oak.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-entry-natural-oak.jpg"
+                        ],
+                        "alt": "Therma-Tru Entry Natural Oak",
+                        "vendor": "thermatru"
+                    }
+                }
+            },
+            {
+                "heading": "Grilles",
+                "copy": [
+                    "Low-maintenance internal grilles add a nice design element, while external grilles have a more substantial, traditional look. Removable grilles offer easy snap-on, snap-off versatility."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-mhd-106-09e-2-low-e-currant.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-mhd-106-09e-2-low-e-currant.jpg"
+                        ],
+                        "alt": "Masonite MHD-106-09E-2-Low-E-Currant",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/pella-entry-door-grilles.jpg",
+                            "/assets/images/entry-doors/mobile/pella-entry-door-grilles.jpg"
+                        ],
+                        "alt": "Pella Entry Door Grilles",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Blinds between the glass",
+                "copy": [
+                    "Traditional blinds can be troublesome between kids, pets and dust, but they offer much-needed shade. Blinds installed between the glass give you fingertip control without any of the hassle."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-blinds-between-glass.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-blinds-between-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Blinds Between Glass",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-triple-pane-blinds-grilles-between-glass.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-triple-pane-blinds-grilles-between-glass.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Triple-Pane Blinds Grilles Between Glass",
+                        "vendor": "reliabilt"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk about your entry door’s appearance.",
+            "copy": "From the frame to the finish, your entry door can be customized to reflect your personal style.",
+            "button": {
+                "text": "Next: Appearance",
+                "url": "/entry-doors/appearance.html"
+            }
+        }
+    }
+}

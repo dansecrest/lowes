@@ -1,0 +1,19 @@
+//- +subnav
+    Creates the section in-page subnav
+
+mixin subnav(data, isCondensed)
+    each item in data
+        if item.title === section
+            .subnav(class= isCondensed === true ? "condensed" : "")
+                .container
+                    if !isCondensed
+                        .question= item.question
+                    .links
+                        each link in item.links
+                            a(href= link.url, class= subsection === link.text ? "selected" : "").button.transparent
+                                span= link.text
+                    if isCondensed
+                        #subnav-toggle
+                            .content
+                                span= subsection
+                                i.icon-arrow-up

@@ -1,0 +1,75 @@
+{
+    "entryDoorsSidelightsTransoms": {
+        "hero": {
+            "heading": "Sidelights & Transoms",
+            "copy": "Don’t make your door do all the heavy lifting. Add sidelights and transoms to enhance your entryway’s look.",
+            "direction": "What to know about sidelights and transoms",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-sidelights-transoms.jpg",
+                "/assets/images/entry-doors/tablet/hero-sidelights-transoms.jpg",
+                "/assets/images/entry-doors/mobile/hero-sidelights-transoms.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Sidelights",
+                "copy": [
+                    "Sidelights are the windows that flank either side of your entry door. You can add one or two, and customize the size, shape and glass type to complement your door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-painted-2-panel-steel-entry-door-single-sidelite.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-painted-2-panel-steel-entry-door-single-sidelite.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted 2-Panel Steel Entry Door Single Sidelite",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/pella-sidelight-entry-doors.jpg",
+                            "/assets/images/entry-doors/mobile/pella-sidelight-entry-doors.jpg"
+                        ],
+                        "alt": "Pella Sidelight Entry Doors",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Transoms",
+                "copy": [
+                    "Transoms are the windows that go over the door. Like sidelights, they can also be customized to complement and even alter your door’s appearance. For instance, transoms can create an arched entrance around a rectangular door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-fiberglass-entry-door-clear-glass-transoms.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-fiberglass-entry-door-clear-glass-transoms.jpg"
+                        ],
+                        "alt": "Jeld-Wen Fiberglass Entry Door Clear Glass Transoms",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-astrid-decorative-glass-antique-brass-caming.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-astrid-decorative-glass-antique-brass-caming.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Astrid Decorative Glass Antique Brass Caming",
+                        "vendor": "reliabilt"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over your entry door style options.",
+            "copy": "Elevate your entryway with handcrafted decorative glass that adds texture, privacy and personality.",
+            "button": {
+                "text": "Next: Style",
+                "url": "/entry-doors/glass.html"
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+.container {
+    max-width: rem(1200px);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 5%;
+
+    @include mappy-bp(medium, $type: screen) {
+        padding: 0;
+    }
+}

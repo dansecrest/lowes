@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Material"
+    - subsection = "Fiberglass"
+
+block head
+    +head(headData.patioDoors.fiberglass)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsFiberglass.hero)
+
+block content
+    +inspiration(patioDoorsFiberglass.inspiration)
+
+prepend footer
+    +next(patioDoorsFiberglass.next)

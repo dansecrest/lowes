@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Type"
+    - subsection = "Folding"
+
+block head
+    +head(headData.patioDoors.folding)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsFolding.hero)
+
+block content
+    +inspiration(patioDoorsFolding.inspiration)
+
+prepend footer
+    +next(patioDoorsFolding.next)

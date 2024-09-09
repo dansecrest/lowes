@@ -1,0 +1,19 @@
+extends ../_layouts/garage-doors.pug
+
+append variables
+    - bodyClass = "overview"
+    - section = "Overview"
+
+block head
+    +head(headData.garageDoors.overview)
+
+prepend container
+    +hero(garageDoorsOverview.hero)
+    +intro(garageDoorsOverview.intro)
+
+block content
+    +inspiration(garageDoorsOverview.inspiration)
+    +outro(garageDoorsOverview.outro)
+
+prepend footer
+    +next(garageDoorsOverview.next)

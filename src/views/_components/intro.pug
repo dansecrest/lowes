@@ -1,0 +1,16 @@
+//- +inspiration
+    Creates an intro section
+
+mixin intro(data)
+    section.intro
+        .offset
+            .container
+                each item in data.cards
+                    .card
+                        .content
+                            i(class= item.icon)
+                            h2= item.title
+                            p= item.copy
+            if data.button
+                .action.container
+                    a(href= data.button.url).button.blue= data.button.text

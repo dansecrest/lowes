@@ -1,0 +1,93 @@
+{
+    "patioDoorsEnergyEfficiency": {
+        "hero": {
+            "heading": "Energy Efficiency",
+            "copy": "Energy efficiency matters if you’re looking to save money on bills or maximize the comfort of your home.",
+            "direction": "Here are terms to remember while you shop",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-energy-efficiency.jpg",
+                "/assets/images/patio-doors/tablet/hero-energy-efficiency.jpg",
+                "/assets/images/patio-doors/mobile/hero-energy-efficiency.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Triple pane & low-E glass",
+                "copy": [
+                    "Triple pane glass can be filled with gas that makes it hard for heat and humidity to pass through, which helps you cut your energy costs. Low-E glass has an invisible metallic coating that keeps heat inside during winter and outside during summer. Both types of glass will help cut your energy costs."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-triple-pane.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-triple-pane.jpg"
+                        ],
+                        "alt": "Jeld-Wen Triple Pane",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "UV coating fade protection",
+                "copy": [
+                    "Vinyl patio doors are always UV-coated to protect against fading. You can also get UV-coated glass that acts like sunscreen for furniture inside your home."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-energy-efficient-uv.jpg",
+                            "/assets/images/patio-doors/mobile/pella-energy-efficient-uv.jpg"
+                        ],
+                        "alt": "Pella Energy Efficient UV",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "U-factor & Solar Heat Gain Coefficient (SHGC)",
+                "copy": [
+                    "The lower the U-factor, the less heat and cold can transfer through the door. A lower SHGC means there are fewer UV rays passing through the glass. They’re both helpful factors in finding doors that meet ENERGY STAR® requirements for your region."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-low-e-glass-3c.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-low-e-glass-3c.jpg"
+                        ],
+                        "alt": "Jeld-Wen Low-E Glass 3C",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Screens",
+                "copy": [
+                    "To take advantage of great weather and save on heat or air, a screen will allow you to open your patio door while keeping bugs out."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-v-2500-vinyl-sliding-patio-door-pet-door.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-v-2500-vinyl-sliding-patio-door-pet-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen V-2500 Vinyl Sliding Patio Door Pet Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk about your patio door’s durability.",
+            "copy": "From hurricane debris to the decibels of a passing airplane, there are ways to measure what can get through your door.",
+            "button": {
+                "text": "Next: Durability & Impact",
+                "url": "/patio-doors/durability-impact.html"
+            }
+        }
+    }
+}

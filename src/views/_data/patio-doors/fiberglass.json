@@ -1,0 +1,76 @@
+{
+    "patioDoorsFiberglass": {
+        "hero": {
+            "heading": "Fiberglass",
+            "copy": "Fiberglass doors are durable, low maintenance and can even look like wood or steel.",
+            "direction": "Why choose fiberglass patio doors?",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-fiberglass.jpg",
+                "/assets/images/patio-doors/tablet/hero-fiberglass.jpg",
+                "/assets/images/patio-doors/mobile/hero-fiberglass.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "It’s durable.",
+                "copy": [
+                    "Do you live in a particularly hot, cold, wet or dry climate? Fiberglass is designed to withstand both ends of the weather spectrum without warping or rotting. And it won’t dent, either."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-im-fiberglass-patio-door-cob.jpg",
+                            "/assets/images/patio-doors/mobile/pella-im-fiberglass-patio-door-cob.jpg"
+                        ],
+                        "alt": "Pella IM Fiberglass Patio Door COB",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "It’s low maintenance.",
+                "copy": [
+                    "Because of its baked-on protective finish, you won’t need to refinish or repaint it as it ages. It’s also easy to clean."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-painted-smooth-fiberglass-swinging-patio-doors.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-painted-smooth-fiberglass-swinging-patio-doors.jpg"
+                        ],
+                        "alt": "Jeld-Wen Painted Smooth Fiberglass Swinging Patio Doors",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "It’s versatile in style.",
+                "copy": [
+                    "Right down to the knots, cracks and colors, fiberglass can be made to look like real wood. Smooth white and paintable finishes also make it a dent-resistant steel alternative. Your guests will be none the wiser."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-stained-oak-fiberglass-swinging-patio-doors.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-stained-oak-fiberglass-swinging-patio-doors.jpg"
+                        ],
+                        "alt": "Jeld-Wen Stained Oak Fiberglass Swinging Patio Doors",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s discuss the benefits of vinyl.",
+            "copy": "Vinyl is a low-maintenance material formulated to look great for years to come.",
+            "button": {
+                "text": "Next: Vinyl",
+                "url": "/patio-doors/vinyl.html"
+            }
+        }
+    }
+}

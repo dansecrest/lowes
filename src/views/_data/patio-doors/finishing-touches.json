@@ -1,0 +1,84 @@
+{
+    "patioDoorsFinishingTouches": {
+        "hero": {
+            "heading": "Finishing Touches",
+            "copy": "Don’t treat these details as afterthoughts. This is where style and function collide.",
+            "direction": "Finishing touches make a world of difference",
+            "images": [
+                "/assets/images/patio-doors/desktop/hero-finishing-touches.jpg",
+                "/assets/images/patio-doors/tablet/hero-finishing-touches.jpg",
+                "/assets/images/patio-doors/mobile/hero-finishing-touches.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Add on the charm.",
+                "copy": [
+                    "If you’re serious about \"old-world\" charm, a few well-placed clavos and corner blocks can take your door from run-of-the-mill to Renaissance."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-simulated-divided-lites.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-simulated-divided-lites.jpg"
+                        ],
+                        "alt": "Jeld-Wen Simulated Divided Lites",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Choose hassle-free blinds.",
+                "copy": [
+                    "Blinds can be troublesome between kids, pets and dust, but they provide much-needed shade. Blinds installed between the glass give you fingertip control without any of the hassle."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/jeld-wen-blind-detail.jpg",
+                            "/assets/images/patio-doors/mobile/jeld-wen-blind-detail.jpg"
+                        ],
+                        "alt": "Jeld-Wen Blind Detail",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "A polished look hinges on hardware.",
+                "copy": [
+                    "Choosing the right hardware for your door comes down to style as much as function. Do you want a handle that’s sleek and mostly hidden or one that stands out? Do you want hinges that contrast or blend with your frame?"
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-finishing-touches-hardware.jpg",
+                            "/assets/images/patio-doors/mobile/pella-finishing-touches-hardware.jpg"
+                        ],
+                        "alt": "Pella Finishing Touches Hardware",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/patio-doors/desktop/pella-patio-doors-hardware.jpg",
+                            "/assets/images/patio-doors/mobile/pella-patio-doors-hardware.jpg"
+                        ],
+                        "alt": "Pella Patio Doors Hardware",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next up, let’s look at your material options.",
+            "copy": "When you’re considering materials, think about the level of maintenance and overall look you’re after.",
+            "button": {
+                "text": "Next: Material",
+                "url": "/patio-doors/clad-wood.html"
+            }
+        }
+    }
+}

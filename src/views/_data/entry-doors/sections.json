@@ -1,0 +1,192 @@
+{
+    "entryDoorsSections": [
+        {
+            "title": "Type",
+            "question": "What type of entry door are you considering?",
+            "icon": "icon-type-entry",
+            "checklist": [
+                {
+                    "id": "entry-type1",
+                    "name": "Single"
+                },
+                {
+                    "id": "entry-type2",
+                    "name": "Double"
+                },
+                {
+                    "id": "entry-type3",
+                    "name": "Sidelights"
+                },
+                {
+                    "id": "entry-type4",
+                    "name": "Transoms"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Single",
+                    "url": "/entry-doors/single.html"
+                },
+                {
+                    "text": "Double",
+                    "url": "/entry-doors/double.html"
+                },
+                {
+                    "text": "Sidelights & Transoms",
+                    "url": "/entry-doors/sidelights-transoms.html"
+                }
+            ]
+        },
+        {
+            "title": "Style",
+            "question": "What style options would you like to discuss?",
+            "icon": "icon-style-entry",
+            "checklist": [
+                {
+                    "id": "entry-style1",
+                    "name": "Decorative Glass & Caming"
+                },
+                {
+                    "id": "entry-style2",
+                    "name": "Clear Glass"
+                },
+                {
+                    "id": "entry-style3",
+                    "name": "Textured Glass"
+                },
+                {
+                    "id": "entry-style4",
+                    "name": "Glass Grilles"
+                },
+                {
+                    "id": "entry-style5",
+                    "name": "Blinds Between the Glass"
+                },
+                {
+                    "id": "entry-style6",
+                    "name": "Frame Options"
+                },
+                {
+                    "id": "entry-style7",
+                    "name": "Panel Design"
+                },
+                {
+                    "id": "entry-style8",
+                    "name": "Color, Texture & Finish"
+                },
+                {
+                    "id": "entry-style9",
+                    "name": "Hardware & Accessories"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Glass",
+                    "url": "/entry-doors/glass.html"
+                },
+                {
+                    "text": "Appearance",
+                    "url": "/entry-doors/appearance.html"
+                },
+                {
+                    "text": "Finishing Touches",
+                    "url": "/entry-doors/finishing-touches.html"
+                }
+            ]
+        },
+        {
+            "title": "Material",
+            "question": "What entry door materials are you interested in?",
+            "icon": "icon-material",
+            "checklist": [
+                {
+                    "id": "entry-material1",
+                    "name": "Fiberglass"
+                },
+                {
+                    "id": "entry-material2",
+                    "name": "Wood"
+                },
+                {
+                    "id": "entry-material3",
+                    "name": "Steel"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Fiberglass",
+                    "url": "/entry-doors/fiberglass.html"
+                },
+                {
+                    "text": "Wood",
+                    "url": "/entry-doors/wood.html"
+                },
+                {
+                    "text": "Steel",
+                    "url": "/entry-doors/steel.html"
+                }
+            ]
+        },
+        {
+            "title": "Performance",
+            "question": "What are your performance must-haves?",
+            "icon": "icon-performance",
+            "checklist": [
+                {
+                    "id": "entry-performance1",
+                    "name": "Multiple Glass Panes"
+                },
+                {
+                    "id": "entry-performance2",
+                    "name": "Low-E Glass"
+                },
+                {
+                    "id": "entry-performance3",
+                    "name": "Laminated Glass"
+                },
+                {
+                    "id": "entry-performance4",
+                    "name": "Insulated Glass"
+                },
+                {
+                    "id": "entry-performance5",
+                    "name": "Energy Star"
+                },
+                {
+                    "id": "entry-performance6",
+                    "name": "Durability & Impact"
+                },
+                {
+                    "id": "entry-performance7",
+                    "name": "Noise Reduction"
+                },
+                {
+                    "id": "entry-performance8",
+                    "name": "Weather Performance"
+                },
+                {
+                    "id": "entry-performance9",
+                    "name": "Fire-rated Doors"
+                },
+                {
+                    "id": "entry-performance10",
+                    "name": "Multi-point Locks"
+                }
+            ],
+            "links": [
+                {
+                    "text": "Energy Efficiency",
+                    "url": "/entry-doors/energy-efficiency.html"
+                },
+                {
+                    "text": "Durability & Impact",
+                    "url": "/entry-doors/durability-impact.html"
+                },
+                {
+                    "text": "Safety & Security",
+                    "url": "/entry-doors/safety-security.html"
+                }
+            ]
+        }
+    ]
+}

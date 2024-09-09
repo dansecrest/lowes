@@ -1,0 +1,29 @@
+include ../_components/head.pug
+include ../_components/header.pug
+include ../_components/subnav.pug
+include ../_components/hero.pug
+include ../_components/intro.pug
+include ../_components/inspiration.pug
+include ../_components/outro.pug
+include ../_components/next.pug
+include ../_components/footer.pug
+
+- var bodyClass
+- var category
+- var section
+
+block variables
+
+doctype html
+html(lang="en")
+    block head
+    body(class=bodyClass)
+        block header
+        block container
+            main.container
+                block content
+        block footer
+
+        script(src="/assets/scripts/vendor.js" defer)
+        script(src="/assets/scripts/main.js" defer)
+        script if (typeof _satellite === "object") _satellite.pageBottom();

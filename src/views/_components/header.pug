@@ -1,0 +1,31 @@
+//- +header
+    Creates the page header
+
+mixin header(data)
+    header.header
+        .content
+            .logo
+                a(href="/").lowes
+                    img(src="/assets/images/logo-lowes.png", alt="Lowe's Home Improvement").screen
+                    img(src="/assets/images/logo-lowes-print.png", alt="Lowe's Home Improvement").print
+                a(href="/" + category + "/").title
+                    span
+                        | #{category.replace(/-/g, ' ')}
+                        br
+                        | Checklist
+            nav
+                ul.links
+                    if category
+                        li
+                            a(href="/" + category + "/", class= section === "Overview" ? "selected" : "") Overview
+                    each link in data.links
+                        li
+                            a(href= link.url, class= section === link.text ? "selected" : "")= link.text
+            ul.actions
+                each button in data.buttons
+                    li.button.transparent
+                        a(href= button.url, target= button.target)
+                            i(class= button.icon)
+                            span= button.text
+            #nav-toggle
+                .nav-icon

@@ -1,0 +1,84 @@
+{
+    "entryDoorsWood": {
+        "hero": {
+            "heading": "Wood",
+            "copy": "Wood doors are crafted to complement your home’s architectural style and personal aesthetic.",
+            "direction": "Why choose a wood entry door?",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-wood.jpg",
+                "/assets/images/entry-doors/tablet/hero-wood.jpg",
+                "/assets/images/entry-doors/mobile/hero-wood.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "The craftsmanship",
+                "copy": [
+                    "Wood has been the door material of choice throughout the ages and across the globe. It’s strong and secure yet warm and inviting. Centuries of craftsmanship have been passed down and improved upon in today’s doors."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-golden-oak-wood-stain-panel.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-golden-oak-wood-stain-panel.jpg"
+                        ],
+                        "alt": "Jeld-Wen Golden Oak Wood Stain Panel",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-wood-craftsmanship.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-wood-craftsmanship.jpg"
+                        ],
+                        "alt": "Masonite Wood Craftsmanship",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "The easy fixes",
+                "copy": [
+                    "Scratches happen. On a metal door, this could be a costly and complicated fix. In a wood door, scratches can be easily repaired in no time."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-red-mahogany-wood-stain-panel.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-red-mahogany-wood-stain-panel.jpg"
+                        ],
+                        "alt": "Jeld-Wen Red Mahogany Wood Stain Panel",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "The innovation",
+                "copy": [
+                    "Wood entry doors have a floating panel that allows the door to contract and expand to weather extremes and prevents splitting and cracking."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-cherry-wood-stain-panel.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-cherry-wood-stain-panel.jpg"
+                        ],
+                        "alt": "Jeld-Wen Cherry Wood Stain Panel",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over steel.",
+            "copy": "Steel doors are known for being strong, low maintenance and energy efficient.",
+            "button": {
+                "text": "Next: Steel",
+                "url": "/entry-doors/steel.html"
+            }
+        }
+    }
+}

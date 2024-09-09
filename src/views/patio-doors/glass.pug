@@ -1,0 +1,19 @@
+extends ../_layouts/patio-doors.pug
+
+append variables
+    - section = "Style"
+    - subsection = "Glass"
+
+block head
+    +head(headData.patioDoors.glass)
+
+prepend container
+    +subnav(patioDoorsSections)
+    +subnav(patioDoorsSections, true)
+    +hero(patioDoorsGlass.hero)
+
+block content
+    +inspiration(patioDoorsGlass.inspiration)
+
+prepend footer
+    +next(patioDoorsGlass.next)

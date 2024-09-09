@@ -1,0 +1,42 @@
+{
+    "interiorDoorsSafetySecurity": {
+        "hero": {
+            "heading": "Safety",
+            "copy": "Hopefully you never have to worry about a fire in your home, but it’s always better to be prepared.",
+            "direction": "Here’s what to know about safety.",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-safety.jpg",
+                "/assets/images/interior-doors/tablet/hero-safety.jpg",
+                "/assets/images/interior-doors/mobile/hero-safety.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Fire-rated doors",
+                "copy": [
+                    "The purpose of a fire-rated door is not only to keep fire out but to give you time to leave or get help. A fire rating tells you how long the door takes to burn. Your options range from 20 to 90 minutes, depending on the door."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-fire-rated-doors.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-fire-rated-doors.jpg"
+                        ],
+                        "alt": "Masonite Fire Rated Doors",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Before you start shopping, let’s make a checklist.",
+            "copy": "Why not get your ideas down while they’re fresh before you head into a store?",
+            "button": {
+                "text": "Next: Checklist",
+                "url": "/interior-doors/checklist.html"
+            }
+        }
+    }
+}

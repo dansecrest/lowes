@@ -1,0 +1,36 @@
+body {
+    padding-top: $header-small;
+    background-color: $white;
+
+    main {
+        position: relative;
+        margin: rem(-25px) 0 rem(-45px);
+    }
+
+    .print {
+        display: none;
+    }
+
+    @include mappy-bp(small, $type: screen) {
+        padding-top: $header-large;
+
+        main {
+            margin: rem(-90px) 0 rem(-130px);
+        }
+
+        &.overview .intro + main {
+            margin-top: 0;
+        }
+    }
+
+    // Print
+    @media print {
+        .screen {
+            display: none;
+        }
+
+        .print {
+            display: block;
+        }
+    }
+}

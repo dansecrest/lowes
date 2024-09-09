@@ -1,0 +1,150 @@
+{
+    "entryDoorsAppearance": {
+        "hero": {
+            "heading": "Appearance",
+            "copy": "From the frame to the finish, your entry door can be customized to reflect your personal style.",
+            "direction": "Consider your entry door’s appearance",
+            "images": [
+                "/assets/images/entry-doors/desktop/hero-appearance.jpg",
+                "/assets/images/entry-doors/tablet/hero-appearance.jpg",
+                "/assets/images/entry-doors/mobile/hero-appearance.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Frame",
+                "copy": [
+                    "Frames can be painted to match your door, sidelights and transoms. They’re available in a variety of materials and performance factors, like rot resistance."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/thermatru-entry-door-frame.jpg",
+                            "/assets/images/entry-doors/mobile/thermatru-entry-door-frame.jpg"
+                        ],
+                        "alt": "Thermatru Entry Door Frame",
+                        "vendor": "thermatru"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-8-lite-simulated-divided-lite-low-e-glass.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-8-lite-simulated-divided-lite-low-e-glass.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections 8-lite Simulated Divided Lite Low-E glass",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "Panel design",
+                "copy": [
+                    "Do you want one big panel or several smaller panels? Will your door have glass and panels, or no glass at all for more privacy? You can design your door to highlight your home’s architectural style and personal taste."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-sunburst.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-sunburst.jpg"
+                        ],
+                        "alt": "Jeld-Wen Sunburst",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-entry-door-roma-red.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-entry-door-roma-red.jpg"
+                        ],
+                        "alt": "Masonite Entry Door Roma Red",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Color",
+                "copy": [
+                    "Your color options will vary based on your door material, whether paintable or stainable. Generally, darker colors absorb heat while lighter colors reflect heat. Something to consider if you live in an area with extreme temps or if the door is exposed to direct sunlight."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/therma-tru-door-angle_ccv-25.jpg",
+                            "/assets/images/entry-doors/mobile/therma-tru-door-angle_ccv-25.jpg"
+                        ],
+                        "alt": "Therma-Tru Door Angle_CCV-25",
+                        "vendor": "thermatru"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/pella-entry-doors.jpg",
+                            "/assets/images/entry-doors/mobile/pella-entry-doors.jpg"
+                        ],
+                        "alt": "Pella Entry Doors",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Texture",
+                "copy": [
+                    "Going for sleek and modern? Opt for smooth textures. Want your entryway to have that old-world charm? Distressed wood textures should set the tone."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/jeld-wen-texture.jpg",
+                            "/assets/images/entry-doors/mobile/jeld-wen-texture.jpg"
+                        ],
+                        "alt": "Jeld-Wen Texture",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/reliabilt-western-reflections-textured-fiberglass-door-park-hill-doorglass.jpg",
+                            "/assets/images/entry-doors/mobile/reliabilt-western-reflections-textured-fiberglass-door-park-hill-doorglass.jpg"
+                        ],
+                        "alt": "Reliabilt Western Reflections Textured Fiberglass Door Park Hill Doorglass",
+                        "vendor": "reliabilt"
+                    }
+                }
+            },
+            {
+                "heading": "Protective finishes",
+                "copy": [
+                    "You have the option of ordering a professionally finished door with a protective paint or stain that looks sharp and will last for years. Or, you can order it unfinished and customize the look any way you want."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-hampton-patina-7-currant.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-hampton-patina-7-currant.jpg"
+                        ],
+                        "alt": "Masonite Hampton Patina 7 Currant",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/entry-doors/desktop/masonite-blt-304-152-e-hampton.jpg",
+                            "/assets/images/entry-doors/mobile/masonite-blt-304-152-e-hampton.jpg"
+                        ],
+                        "alt": "Masonite BLT-304-152-E-Hampton",
+                        "vendor": "masonite"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over some finishing touches.",
+            "copy": "Don’t treat these details as afterthoughts. This is where style and function collide.",
+            "button": {
+                "text": "Next: Finishing Touches",
+                "url": "/entry-doors/finishing-touches.html"
+            }
+        }
+    }
+}

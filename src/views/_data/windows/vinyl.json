@@ -1,0 +1,63 @@
+{
+    "windowsVinyl": {
+        "hero": {
+            "heading": "Vinyl",
+            "copy": "This versatile material is known for being low maintenance and energy efficient.",
+            "direction": "Why choose vinyl windows?",
+            "images": [
+                "/assets/images/windows/desktop/hero-vinyl.jpg",
+                "/assets/images/windows/tablet/hero-vinyl.jpg",
+                "/assets/images/windows/mobile/hero-vinyl.jpg"
+            ],
+            "alt": ""
+        },
+        "intro": {
+            "cards": [
+                {
+                    "icon": "icon-palette",
+                    "copy": "Vinyl windows come in dozens of colors that will never fade because the color is part of the material itself."
+                },
+                {
+                    "icon": "icon-scratched",
+                    "copy": "They’re easy to clean and virtually scratch-resistant. Children’s play room? Cat’s favorite spot? Vinyl can handle it."
+                },
+                {
+                    "icon": "icon-raincloud",
+                    "copy": "They’re great at insulating and cutting down on condensation. Goodbye foggy windows. Hello lower energy bill."
+                }
+            ]
+        },
+        "inspiration": [
+            {
+                "heading": "New vinyl windows can really make a room come together.",
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/windows/desktop/jeld-wen-vinyl-double-hung-window.jpg",
+                            "/assets/images/windows/mobile/jeld-wen-vinyl-double-hung-window.jpg"
+                        ],
+                        "alt": "Jeld-Wen Vinyl Double-Hung Window",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/windows/desktop/pella-vinyl-double-hung-bedroom.jpg",
+                            "/assets/images/windows/mobile/pella-vinyl-double-hung-bedroom.jpg"
+                        ],
+                        "alt": "Pella Vinyl Double Hung Bedroom",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s go over fiberglass windows.",
+            "copy": "These cutting-edge windows are known for their longevity and energy-efficiency.",
+            "button": {
+                "text": "Next: Fiberglass",
+                "url": "/windows/fiberglass.html"
+            }
+        }
+    }
+}

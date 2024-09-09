@@ -1,0 +1,134 @@
+{
+    "interiorDoorsPanelModel": {
+        "hero": {
+            "heading": "Panel Model",
+            "copy": "Explore panel design options for your interior door’s look, texture, privacy level and personality.",
+            "direction": "Picture your door with these panel options",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-panel-model.jpg",
+                "/assets/images/interior-doors/tablet/hero-panel-model.jpg",
+                "/assets/images/interior-doors/mobile/hero-panel-model.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Paneled",
+                "copy": [
+                    "Going for a classic Shaker look? Prefer a clean, minimalist design? These wood and wood composite panel options offer crafted stiles and rails, moulding, embossing, paintable surfaces and natural wood looks."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-paneled-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-paneled-interior-door.jpg"
+                        ],
+                        "alt": "Masonite Paneled Interior Door",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-lws-mps-4-kitchen.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-lws-mps-4-kitchen.jpg"
+                        ],
+                        "alt": "Masonite LWS-MPS-4 Kitchen",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Glass",
+                "copy": [
+                    "Get a clear view from room to room, or spread light between spaces with glass panels. They come in a variety of sizes, shapes, textures, colors and patterns."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-mosaic-decorative-glass.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-mosaic-decorative-glass.jpg"
+                        ],
+                        "alt": "Jeld-Wen Mosaic Decorative Glass",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Louvered",
+                "copy": [
+                    "These slatted panels allow for airflow and ventilation without sacrificing your privacy. Full- and half-louvered panel options are available in wood."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-louver-open.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-louver-open.jpg"
+                        ],
+                        "alt": "Jeld-Wen Louver Open",
+                        "vendor": "jeldwen"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-lws-lvrbf-f-white-double.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-lws-lvrbf-f-white-double.jpg"
+                        ],
+                        "alt": "Masonite LWS-LVRBF-F White Double",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Flush",
+                "copy": [
+                    "Keep it clean and simple with these durable, practical and low-maintenance panel designs. Show  off the natural beauty of the woodgrain with veneer options, or opt for paintable hardboard."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-lws-fl-legacy-imperial.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-lws-fl-legacy-imperial.jpg"
+                        ],
+                        "alt": "Masonite LWS-FL Legacy Imperial",
+                        "vendor": "masonite"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/masonite-lws-fl-primed-hardboard-bathroom.jpg",
+                            "/assets/images/interior-doors/mobile/masonite-lws-fl-primed-hardboard-bathroom.jpg"
+                        ],
+                        "alt": "Masonite LWS-FL Primed Hardboard Bathroom",
+                        "vendor": "masonite"
+                    }
+                }
+            },
+            {
+                "heading": "Chalkboard & Mirrored",
+                "copy": [
+                    "Personalize your interior doors with alternative surfaces. Get creative with the chalkboard option, or use the mirrored surface wherever you need to catch a view."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-molded-impression-mirror-pocket-bathroom-door.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-molded-impression-mirror-pocket-bathroom-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Molded Impression Mirror Pocket Bathroom Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Now, let’s talk about your door’s appearance.",
+            "copy": "From the frame to the finish, your interior doors can be customized to reflect your personal style.",
+            "button": {
+                "text": "Next: Appearance",
+                "url": "/interior-doors/appearance.html"
+            }
+        }
+    }
+}

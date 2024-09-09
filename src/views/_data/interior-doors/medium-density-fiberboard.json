@@ -1,0 +1,59 @@
+{
+    "interiorDoorsMediumDensityFiberboard": {
+        "hero": {
+            "heading": "MDF",
+            "copy": "Medium density fiberboard is a durable material made from recycled wood fibers and resin.",
+            "direction": "Why choose an MDF door?",
+            "images": [
+                "/assets/images/interior-doors/desktop/hero-medium-density-fiberboard.jpg",
+                "/assets/images/interior-doors/tablet/hero-medium-density-fiberboard.jpg",
+                "/assets/images/interior-doors/mobile/hero-medium-density-fiberboard.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Durability",
+                "copy": [
+                    "MDF is machine dried and pressed into dense sheets. The result? A strong material that resists warping, shrinking and cracking."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-energy-efficient-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-energy-efficient-interior-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Energy Efficient Interior Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            },
+            {
+                "heading": "Design flexibility",
+                "copy": [
+                    "MDF doors come in various stile and rail designs and are ready to be painted to match your home’s style."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/interior-doors/desktop/jeld-wen-low-maintenance-interior-door.jpg",
+                            "/assets/images/interior-doors/mobile/jeld-wen-low-maintenance-interior-door.jpg"
+                        ],
+                        "alt": "Jeld-Wen Low Maintenance Interior Door",
+                        "vendor": "jeldwen"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next, let’s talk about your interior door’s performance.",
+            "copy": "From noise cancellation to fire-resistance, your interior doors bring more to the table than just looks.",
+            "button": {
+                "text": "Next: Performance",
+                "url": "/interior-doors/noise-cancelling.html"
+            }
+        }
+    }
+}

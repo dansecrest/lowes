@@ -1,0 +1,32 @@
+{
+  "name": "lowes-doors-and-windows",
+  "version": "1.0.0",
+  "description": Huge,
+  "author": "Dan Secrest",
+  "devDependencies": {
+    "async": "^1.5.2",
+    "browser-sync": "^2.12.5",
+    "del": "^2.2.0",
+    "fs": "0.0.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean-css": "^2.0.6",
+    "gulp-concat": "^2.6.0",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-data": "^1.2.1",
+    "gulp-environments": "^0.1.1",
+    "gulp-iconfont": "^8.0.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-load-plugins": "^1.2.2",
+    "gulp-merge-json": "^0.4.0",
+    "gulp-pug": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.3",
+    "lodash": "^4.11.1",
+    "pug": "^2.0.0-alpha6",
+    "run-sequence": "^1.1.5"
+  },
+  "private": true
+}

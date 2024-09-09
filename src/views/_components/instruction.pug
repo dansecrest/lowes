@@ -1,0 +1,32 @@
+//- +instruction
+    Creates checklist instruction content
+
+mixin instruction(data)
+    - var install = data[0]
+    - var measurements = data[1]
+
+    section
+        i(class= install.icon)
+        h2= install.title
+        hr
+        .content
+            each item, index in install.content
+                .number
+                    span= index+1
+                p= item
+        if install.link
+            .link
+                a(href= install.link.url, target= install.target)= install.link.text
+    section
+        i(class= measurements.icon)
+        h2= measurements.title
+        hr
+        .content
+            p= measurements.content[0]
+            hr
+            hr
+            hr
+            i.icon-picture
+            p= measurements.content[1]
+        .link
+            a(href= measurements.link.url, target= measurements.target)= measurements.link.text

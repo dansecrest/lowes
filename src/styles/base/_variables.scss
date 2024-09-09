@@ -1,0 +1,53 @@
+$base_font_size:          16px;
+
+$breakpoints: (
+    'small':              767px,
+    'medium':             1024px,
+    'large':              1260px,
+    'xlarge':             1600px
+);
+
+
+// COLORS
+
+$white:                   #fff;
+$black:                   #000;
+
+$gray-lighter:            #f2f2f2;
+$gray-light:              #e5e5e5;
+$gray:                    #ccc;
+$gray-mid:                #b4b4b4;
+$gray-dark-mid:           #999;
+$gray-darker:             #333;
+
+$blue-teal:               #15b6e5;
+$blue-royal:              #0471af;
+$blue-lowes:              #004990;
+$blue-dark:               #003f7d;
+
+$red:                     #ec1d27;
+
+$text-primary:            $gray-darker;
+$text-secondary:          #5d5d5d;
+
+
+// FONTS
+
+$din-next:                'DIN Next', sans-serif;
+$din-next-medium:         'DIN Next Medium', sans-serif;
+$din-next-bold:           'DIN Next Bold', sans-serif;
+$din-next-black:          'DIN Next Black', sans-serif;
+$helvetica-neue-light:    'Helvetica Neue Light', sans-serif;
+$helvetica-neue:          'Helvetica Neue', sans-serif;
+$helvetica-neue-medium:   'Helvetica Neue Medium', sans-serif;
+$helvetica-neue-bold:     'Helvetica Neue Bold', sans-serif;
+$icons:                   'lowes-doors-windows';
+
+
+// LAYOUT
+
+$header-small:            60px;
+$header-large:            80px;
+
+$gutter:                  1.25%;
+$span:                    5%;

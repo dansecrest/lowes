@@ -1,0 +1,84 @@
+{
+    "garageDoorsWood": {
+        "hero": {
+            "heading": "Wood",
+            "copy": "Wood garage doors are meticulously hand-crafted with the finest milled woods for reliable performance and timeless beauty.",
+            "direction": "Why choose an wood garage door?",
+            "images": [
+                "/assets/images/garage-doors/desktop/hero-wood.jpg",
+                "/assets/images/garage-doors/tablet/hero-wood.jpg",
+                "/assets/images/garage-doors/mobile/hero-wood.jpg"
+            ],
+            "alt": ""
+        },
+        "inspiration": [
+            {
+                "heading": "Skilled Craftsmanship",
+                "copy": [
+                    "Wood garage doors are meticulously hand-crafted with the finest milled woods for reliable performance and long-lasting beauty."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wood-garage-door-curb-appeal.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wood-garage-door-curb-appeal.jpg"
+                        ],
+                        "alt": "Pella Wood Garage Door Curb Appeal",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Unlimited Door Designs",
+                "copy": [
+                    "Choose from one of our popular wood carriage house styles or create your own one-of-a-kind design. You can paint, stain, finish and customize your wood door to fit your unique style."
+                ],
+                "disclaimer": false,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-unlimited-door-designs.jpg",
+                            "/assets/images/garage-doors/mobile/pella-unlimited-door-designs.jpg"
+                        ],
+                        "alt": "Pella Unlimited Door Designs",
+                        "vendor": "pella"
+                    }
+                }
+            },
+            {
+                "heading": "Beautiful Finish",
+                "copy": [
+                    "Wood doors come unfinished which allows you to paint or stain them to add warmth and beauty to your home."
+                ],
+                "disclaimer": true,
+                "images": {
+                    "small": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wood-material-finish.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wood-material-finish.jpg"
+                        ],
+                        "alt": "Pella Wood Material Finish",
+                        "vendor": "pella"
+                    },
+                    "large": {
+                        "image": [
+                            "/assets/images/garage-doors/desktop/pella-wood-garage-door-painted.jpg",
+                            "/assets/images/garage-doors/mobile/pella-wood-garage-door-painted.jpg"
+                        ],
+                        "alt": "Pella Wood Garage Door Painted",
+                        "vendor": "pella"
+                    }
+                }
+            }
+        ],
+        "next": {
+            "heading": "Next up, vinyl garage doors.",
+            "copy": "These rust-resistant garage doors are ideal for homes near coastal areas.",
+            "button": {
+                "text": "Next: Vinyl",
+                "url": "/garage-doors/vinyl.html"
+            }
+        }
+    }
+}

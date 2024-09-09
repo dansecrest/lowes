@@ -1,0 +1,30 @@
+{
+    "interiorDoorsHeader": {
+        "links": [
+            {
+                "text": "Type",
+                "url": "/interior-doors/hinged.html"
+            },
+            {
+                "text": "Style",
+                "url": "/interior-doors/panel-model.html"
+            },
+            {
+                "text": "Material",
+                "url": "/interior-doors/wood.html"
+            },
+            {
+                "text": "Performance",
+                "url": "/interior-doors/noise-cancelling.html"
+            }
+        ],
+        "buttons": [
+            {
+                "text": "Your Checklist",
+                "url": "/interior-doors/checklist.html",
+                "icon": "icon-checkmark",
+                "target": "_self"
+            }
+        ]
+    }
+}

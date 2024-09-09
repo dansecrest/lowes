@@ -1,0 +1,25 @@
+extends ../_layouts/garage-doors.pug
+
+include ../_components/checklist.pug
+include ../_components/instruction.pug
+
+append variables
+    - bodyClass = "checklist"
+
+block head
+    +head(headData.garageDoors.checklist)
+        script.
+            window.addEventListener('load', function() {
+                checklist.init();
+            });
+
+prepend container
+    +hero(garageDoorsChecklist.hero)
+
+block content
+    .options
+        +checklist(garageDoorsSections)
+        +instruction(garageDoorsChecklist.instruction)
+
+prepend footer
+    +next(garageDoorsChecklist.next)
